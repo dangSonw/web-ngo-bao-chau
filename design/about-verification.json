@@ -1,0 +1,87 @@
+{
+    "scope":  "About Me overview and three personas; Home integration",
+    "source":  {
+                   "fileKey":  "xbGrAfGotyuHW835jkUfsn",
+                   "frames":  [
+                                  "7:107",
+                                  "7:135",
+                                  "7:176",
+                                  "7:196"
+                              ],
+                   "dimensions":  [
+                                      1440,
+                                      744
+                                  ],
+                   "liveRead":  true,
+                   "conthrax":  "Twelve text outlines exported from temporary Figma vector copies; copies removed",
+                   "background":  "Intro is an image-only composite of source art layers; other backgrounds preserve original Figma crop/alpha",
+                   "typography":  "Abhaya Libre Regular locally hosted with OFL; Times New Roman fallback for Vietnamese glyphs absent from Abhaya Libre"
+               },
+    "implementation":  {
+                           "routes":  [
+                                          "/about-me",
+                                          "/about-me/logician",
+                                          "/about-me/adventurer",
+                                          "/about-me/seeker"
+                                      ],
+                           "commonShell":  "SubpageLayout navigation remains mounted across persona changes",
+                           "transitions":  "Section and persona fades; reduced motion disables fades",
+                           "responsive":  {
+                                              "canvasMax":  2560,
+                                              "tabletBreakpoint":  1200,
+                                              "mobileBreakpoint":  600,
+                                              "shortHeightBreakpoint":  660,
+                                              "verticalScrolling":  "Allowed to avoid clipping on short/narrow screens",
+                                              "pagination":  "40px targets widen spacing beyond Figma\u0027s 15px pitch"
+                                          },
+                           "remaining":  [
+                                             "Inquiry, Community and Spirituality destination pages are disabled until implemented"
+                                         ]
+                       },
+    "checks":  {
+                   "viewportCases":  64,
+                   "widths":  [
+                                  375,
+                                  420,
+                                  599,
+                                  601,
+                                  768,
+                                  880,
+                                  1199,
+                                  1200,
+                                  1201,
+                                  1440,
+                                  1920,
+                                  2560,
+                                  3840
+                              ],
+                   "heights":  [
+                                   600,
+                                   660,
+                                   661,
+                                   744,
+                                   800,
+                                   812,
+                                   896,
+                                   900,
+                                   1024,
+                                   1080,
+                                   1440,
+                                   2160
+                               ],
+                   "overflow":  "Passed on four About screens and both sides of changed breakpoints",
+                   "visual":  "Inspected source-size, mobile, tablet and 4K screenshots",
+                   "interactions":  "Home link, persona choices, pagination, arrows, Back/Forward, keyboard focus, skip link markup, reduced motion, invalid topic and bootstrap/reload",
+                   "runtime":  "No console errors, React warnings, unhandled exceptions or failed requests in final QA",
+                   "build":  "npm run build passed",
+                   "graph":  "Reindexed; App -\u003e AboutMe -\u003e SubpageLayout/FigmaLabel/useReducedMotion traced",
+                   "git":  "No Git repository, no commit"
+               },
+    "evidence":  {
+                     "browser":  "about-qa/browser-results.json",
+                     "viewports":  "about-qa/viewport-results.json",
+                     "screenshots":  "about-qa/"
+                 },
+    "fontSource":  "https://github.com/google/fonts/tree/main/ofl/abhayalibre",
+    "logicianUpdate":  "orbit-verification.json supersedes the static certificate layout checks."
+}

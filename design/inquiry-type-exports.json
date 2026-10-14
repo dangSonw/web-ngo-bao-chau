@@ -1,0 +1,72 @@
+[
+  {
+    "id": "7:243",
+    "name": "overview-title",
+    "path": "public/assets/inquiry/type/overview-title.svg",
+    "width": 221,
+    "height": 58,
+    "offsetX": 3.0719985961914062,
+    "offsetY": 8.90399169921875,
+    "bytes": 3184
+  },
+  {
+    "id": "8:306",
+    "name": "wico-title",
+    "path": "public/assets/inquiry/type/wico-title.svg",
+    "width": 165,
+    "height": 58,
+    "offsetX": 0.95281982421875,
+    "offsetY": 11.399993896484375,
+    "bytes": 2067
+  },
+  {
+    "id": "8:326",
+    "name": "ican-title",
+    "path": "public/assets/inquiry/type/ican-title.svg",
+    "width": 149,
+    "height": 58,
+    "offsetX": 3.21600341796875,
+    "offsetY": 11.399993896484375,
+    "bytes": 1862
+  },
+  {
+    "id": "8:344",
+    "name": "research-title",
+    "path": "public/assets/inquiry/type/research-title.svg",
+    "width": 340,
+    "height": 58,
+    "offsetX": 3.21600341796875,
+    "offsetY": 11.399993896484375,
+    "bytes": 4253
+  },
+  {
+    "id": "8:362",
+    "name": "platform-title",
+    "path": "public/assets/inquiry/type/platform-title.svg",
+    "width": 614,
+    "height": 58,
+    "offsetX": 1.10400390625,
+    "offsetY": 8.087997436523438,
+    "bytes": 8609
+  },
+  {
+    "id": "82:36",
+    "name": "nav-about",
+    "path": "public/assets/inquiry/type/nav-about.svg",
+    "width": 154,
+    "height": 29,
+    "offsetX": 0.34666669368743896,
+    "offsetY": 3.9999985694885254,
+    "bytes": 3839
+  },
+  {
+    "id": "82:39",
+    "name": "nav-inquiry",
+    "path": "public/assets/inquiry/type/nav-inquiry.svg",
+    "width": 111,
+    "height": 29,
+    "offsetX": 1.5360000133514404,
+    "offsetY": 3.9519991874694824,
+    "bytes": 6055
+  }
+]

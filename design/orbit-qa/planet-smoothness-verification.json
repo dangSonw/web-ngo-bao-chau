@@ -1,0 +1,23 @@
+{
+  "scope": "Seeker planet jitter fix",
+  "changes": [
+    "PlanetOrbit.jsx moves existing source positions with fractional translate3d instead of per-frame left/top",
+    "PlanetOrbit.css creates a composited transform layer for each planet, disabled for reduced motion",
+    "ResizeObserver updates scene dimensions, including reduced motion resize; observer and animation are cleaned up on unmount; render guards detached scene"
+  ],
+  "performance": {
+    "before": "planet-before.json: 121 sampled frames / 2 seconds, 122 layouts, 23.808ms layout work",
+    "after": "planet-after.json: 121 sampled frames / 2 seconds, 0 layouts",
+    "regression": "scripts/check-planet-motion.mjs: 121 frames, 0 layouts, reduced motion passed"
+  },
+  "checks": {
+    "runtime": "motion-results.json: zero errors or warnings or failed HTTP resources",
+    "responsive": "13 Seeker viewports from 375 to 3840, 1200/1201 and 660/661, source positions preserved on resize, no overflow",
+    "navigation": "Back/Forward, cleanup, reload and direct subroute Home reset passed",
+    "hmr": "hmr-results.json: CSS hot update preserved document and route",
+    "build": "npm run build passed",
+    "graph": "Reindexed and source cross-checked; AboutMe -> PlanetOrbit -> render/useReducedMotion",
+    "git": "No .git; no commit"
+  },
+  "limitation": "Measurements are from local headless Chrome, not a measurement of the user's visible browser"
+}

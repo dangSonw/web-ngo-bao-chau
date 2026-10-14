@@ -1,0 +1,82 @@
+{
+  "scope": "Sprituality landing with Wuxing and Planets subpages",
+  "figma": {
+    "fileKey": "xbGrAfGotyuHW835jkUfsn",
+    "frames": [
+      "26:115",
+      "52:2",
+      "52:33",
+      "67:2",
+      "67:26",
+      "67:50",
+      "67:74",
+      "73:4",
+      "74:28",
+      "74:51",
+      "74:166",
+      "77:2",
+      "123:2"
+    ],
+    "connection": "Live Figma Console Desktop Bridge probe and reads succeeded",
+    "nodes": "design/spirituality-live-nodes.json",
+    "assets": "Live image hashes, crop transforms, filters and scale modes matched all local source exports",
+    "typography": "15 cached glyph SVG exports, original cached WUXING title reused for conclusion, temporary helper nodes removed",
+    "backgrounds": "Three background-only composites at 2x; source paint/transform equality verified before reuse"
+  },
+  "implementation": {
+    "files": [
+      "src/pages/Spirituality.jsx",
+      "src/pages/Spirituality.css",
+      "src/data/spiritualityPages.json",
+      "src/App.jsx",
+      "src/components/SubpageLayout.jsx",
+      "src/pages/Home.jsx",
+      "src/data/aboutPages.json"
+    ],
+    "landing": "/spirituality",
+    "wuxing": [
+      "/spirituality/wuxing",
+      "/spirituality/wuxing/fire",
+      "/spirituality/wuxing/wood",
+      "/spirituality/wuxing/earth",
+      "/spirituality/wuxing/metal",
+      "/spirituality/wuxing/water",
+      "/spirituality/wuxing/conclusion"
+    ],
+    "planets": [
+      "/spirituality/planets",
+      "/spirituality/planets/venus",
+      "/spirituality/planets/mars",
+      "/spirituality/planets/saturn",
+      "/spirituality/planets/moon"
+    ],
+    "navigation": "Two landing planet links choose branches. Space from landing enters Wuxing. Arrows, dots and Space loop within the active branch. Clicking Sprituality in the top navigation returns to branch selection. Home opens via the top Home link."
+  },
+  "adaptations": [
+    "Wuxing has seven 40px dot targets for all seven source screens; Planets has five, landing has no dots as in Figma",
+    "Source (wuxing) tags overlapping Wood/Water title are placed after the title; full text kept",
+    "Below width1201 or at height<=660, body stacks above the original collage; collage coordinates and all crop/aspect ratios scale proportionally",
+    "Arrow controls move below content on tablet/mobile and keep at least 40px targets",
+    "Long body text may increase the frame height to keep it fully visible"
+  ],
+  "checks": {
+    "browser": "design/spirituality-qa/results.json: 195 viewport cases, 15 sizes across 13 screens, 375–3840px plus width599/601,1200/1201 and height660/661",
+    "sourceSlots": "All source media x/y/width/height matched within 0.1px relative to the frame at 1440x744",
+    "assets": "PNG dimensions, file byte sizes, SVG roots, UTF-8 docs, JSON and export cleanup verified",
+    "interactions": "Both branch choices, two Space loops per branch, arrow wrap both directions, dots, Arrow/Home/End on pagination, focus/Enter, Back/Forward and section navigation passed",
+    "continuity": "Top navigation DOM and document identity preserved between all Spirituality screens",
+    "reducedMotion": "Immediate transitions verified; regular fade reaches opacity 1",
+    "runtime": "No console errors/warnings, pageerrors or HTTP resource failures",
+    "hmr": "Spirituality CSS update preserved document and branch; Space continued working",
+    "regression": "scripts/check-section-navigation.mjs passed for About, Inquiry, Community, Wuxing and Planets",
+    "bootstrap": "Reload/direct deep spiritual route resets to Home as required by workspace",
+    "build": "npm run build passed",
+    "graph": "Unavailable before and after implementation with Transport closed; actual routes, callers, imports and source were inspected directly",
+    "git": "No .git; no commit"
+  },
+  "limitations": [
+    "Figma Desktop is missing Conthrax; SVG exports preserve cached glyph shapes",
+    "Frame 73:4 is named Community in Figma but contains the Wuxing conclusion and was implemented in that branch",
+    "Codegraph coverage is not verified due to disconnected transport"
+  ]
+}

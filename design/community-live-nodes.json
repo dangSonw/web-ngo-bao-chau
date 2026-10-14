@@ -1,0 +1,5371 @@
+[
+  {
+    "id": "25:17",
+    "type": "FRAME",
+    "name": "Community",
+    "x": 4538,
+    "y": 374,
+    "width": 1440,
+    "height": 744,
+    "visible": true,
+    "rotation": 0,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0.0470588244497776,
+          "g": 0,
+          "b": 0.11764705926179886
+        },
+        "boundVariables": {}
+      }
+    ],
+    "strokes": [],
+    "reactions": [],
+    "children": [
+      {
+        "id": "82:70",
+        "type": "RECTANGLE",
+        "name": "image 20",
+        "x": 490,
+        "y": 55.786285400390625,
+        "width": 711,
+        "height": 958,
+        "visible": true,
+        "rotation": 20.052317298076556,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0.4399999976158142,
+              "contrast": 0,
+              "saturation": 0.6499999761581421,
+              "temperature": -0.550000011920929,
+              "tint": 0.7300000190734863,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "6e63d9d78d5a9ff4f10411f1d716af57bdb37cb9"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "32:14",
+        "type": "RECTANGLE",
+        "name": "image 25",
+        "x": 1313,
+        "y": 421,
+        "width": 88,
+        "height": 88,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.7866666913032532,
+                0,
+                0.1066666692495346
+              ],
+              [
+                0,
+                0.7800000309944153,
+                0.10999999940395355
+              ]
+            ],
+            "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "25:19",
+        "type": "RECTANGLE",
+        "name": "image 24",
+        "x": 1248,
+        "y": 542,
+        "width": 80,
+        "height": 80,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.8695651888847351,
+                0,
+                0.06521739065647125
+              ],
+              [
+                0,
+                0.8695652484893799,
+                0.06521739065647125
+              ]
+            ],
+            "imageHash": "df3946397d0beaa3c9283cfce1a5dbce9323b973"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "25:20",
+        "type": "RECTANGLE",
+        "name": "image 23",
+        "x": 782,
+        "y": 542,
+        "width": 88,
+        "height": 88,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.7866666913032532,
+                0,
+                0.1066666692495346
+              ],
+              [
+                0,
+                0.7800000309944153,
+                0.10999999940395355
+              ]
+            ],
+            "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "25:21",
+        "type": "RECTANGLE",
+        "name": "image 22",
+        "x": 665,
+        "y": 366,
+        "width": 120,
+        "height": 120,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "c1e6cd8f635fa578ee8121e4c383e8a71148479b"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "25:23",
+        "type": "RECTANGLE",
+        "name": "image 19",
+        "x": 0.00006103515625,
+        "y": 801,
+        "width": 857.9999389648438,
+        "height": 1526,
+        "visible": true,
+        "rotation": 90.00000250447806,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 0.30000001192092896,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "25:25",
+        "type": "TEXT",
+        "name": "community",
+        "x": 97,
+        "y": 137,
+        "width": 342,
+        "height": 58,
+        "visible": true,
+        "rotation": 0,
+        "characters": "community",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "32:10",
+        "type": "TEXT",
+        "name": "THE TAY ROOTS",
+        "x": 675,
+        "y": 486,
+        "width": 166,
+        "height": 19,
+        "visible": true,
+        "rotation": 0,
+        "characters": "THE TAY ROOTS",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "32:11",
+        "type": "TEXT",
+        "name": "Ban Sung Project",
+        "x": 734,
+        "y": 638,
+        "width": 183,
+        "height": 19,
+        "visible": true,
+        "rotation": 0,
+        "characters": "Ban Sung Project",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "32:12",
+        "type": "TEXT",
+        "name": "Y4C",
+        "x": 1073,
+        "y": 598,
+        "width": 43,
+        "height": 19,
+        "visible": true,
+        "rotation": 0,
+        "characters": "Y4C",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "32:13",
+        "type": "TEXT",
+        "name": "“Viet Nam Tinh Hoa” Concert",
+        "x": 1141,
+        "y": 628,
+        "width": 295,
+        "height": 19,
+        "visible": true,
+        "rotation": 0,
+        "characters": "“Viet Nam Tinh Hoa” Concert",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "32:16",
+        "type": "TEXT",
+        "name": "Bright Paths Mù Cang Chải",
+        "x": 1208,
+        "y": 517,
+        "width": 280,
+        "height": 19,
+        "visible": true,
+        "rotation": 0,
+        "characters": "Bright Paths Mù Cang Chải ",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "99:234",
+        "type": "RECTANGLE",
+        "name": "image 26",
+        "x": 1248,
+        "y": 542,
+        "width": 80,
+        "height": 80,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.8695651888847351,
+                0,
+                0.06521739065647125
+              ],
+              [
+                0,
+                0.8695652484893799,
+                0.06521739065647125
+              ]
+            ],
+            "imageHash": "df3946397d0beaa3c9283cfce1a5dbce9323b973"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "99:235",
+        "type": "RECTANGLE",
+        "name": "image 27",
+        "x": 782,
+        "y": 542,
+        "width": 88,
+        "height": 88,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0.49000000953674316,
+              "contrast": -1,
+              "saturation": 0.75,
+              "temperature": -0.7900000214576721,
+              "tint": -0.6399999856948853,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.7866666913032532,
+                0,
+                0.1066666692495346
+              ],
+              [
+                0,
+                0.7800000309944153,
+                0.10999999940395355
+              ]
+            ],
+            "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "99:236",
+        "type": "RECTANGLE",
+        "name": "image 28",
+        "x": 665,
+        "y": 366,
+        "width": 120,
+        "height": 120,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "c1e6cd8f635fa578ee8121e4c383e8a71148479b"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "99:237",
+        "type": "RECTANGLE",
+        "name": "image 29",
+        "x": 1033,
+        "y": 469,
+        "width": 125,
+        "height": 125,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0.36000001430511475,
+              "contrast": -0.5333333214124044,
+              "saturation": 0.5400000214576721,
+              "temperature": 0.27000001072883606,
+              "tint": -0.38999998569488525,
+              "highlights": -0.5600000023841858,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "1a49e71d1125070e20149956ee33a71504e163bf"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "25:32",
+        "type": "TEXT",
+        "name": "An answer is rarely the end of the process. When something seems obvious, I want to understand what makes it so: the patterns, connections, and assumptions beneath it. I tend to follow a question further, especially when something does not quite add up. Curiosity, for me, is a way of looking closer and questioning what seems certain. Uranus offers a fitting parallel. Beneath its seemingly simple atmosphere lies a complex interior unlike that of the planets we know best. Perhaps the most interesting answers are things that are hidden beneath what first appears obvious, waiting to be understood.",
+        "x": 97,
+        "y": 201,
+        "width": 452,
+        "height": 310,
+        "visible": true,
+        "rotation": 0,
+        "characters": "An answer is rarely the end of the process.\nWhen something seems obvious, I want to understand what makes it so: the patterns, connections, and assumptions beneath it. I tend to follow a question further, especially when something does not quite add up. Curiosity, for me, is a way of looking closer and questioning what seems certain.\nUranus offers a fitting parallel. Beneath its seemingly simple atmosphere lies a complex interior unlike that of the planets we know best. Perhaps the most interesting answers are things that are hidden beneath what first appears obvious, waiting to be understood.\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "25:33",
+        "type": "GROUP",
+        "name": "Group 2",
+        "x": 685,
+        "y": 702,
+        "width": 70,
+        "height": 10,
+        "visible": true,
+        "rotation": 0,
+        "reactions": [],
+        "children": [
+          {
+            "id": "25:34",
+            "type": "ELLIPSE",
+            "name": "Ellipse 1",
+            "x": 685,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "25:35",
+            "type": "ELLIPSE",
+            "name": "Ellipse 2",
+            "x": 700,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "25:36",
+            "type": "ELLIPSE",
+            "name": "Ellipse 3",
+            "x": 715,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "25:37",
+            "type": "ELLIPSE",
+            "name": "Ellipse 4",
+            "x": 730,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "25:38",
+            "type": "ELLIPSE",
+            "name": "Ellipse 5",
+            "x": 745,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "82:94",
+        "type": "GROUP",
+        "name": "Group 1",
+        "x": 572,
+        "y": 29,
+        "width": 828,
+        "height": 29,
+        "visible": true,
+        "rotation": 0,
+        "reactions": [],
+        "children": [
+          {
+            "id": "82:95",
+            "type": "TEXT",
+            "name": "About Me",
+            "x": 696,
+            "y": 29,
+            "width": 154,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "About Me",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "82:96",
+            "type": "TEXT",
+            "name": "Home",
+            "x": 572,
+            "y": 29,
+            "width": 89,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Home",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "82:97",
+            "type": "TEXT",
+            "name": "Sprituality",
+            "x": 1241,
+            "y": 29,
+            "width": 159,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Sprituality",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "82:98",
+            "type": "TEXT",
+            "name": "inquiry",
+            "x": 885,
+            "y": 29,
+            "width": 111,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "inquiry",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "82:99",
+            "type": "TEXT",
+            "name": "Community",
+            "x": 1031,
+            "y": 29,
+            "width": 175,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Community",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "25:39",
+    "type": "FRAME",
+    "name": "Community",
+    "x": 4538,
+    "y": 1173,
+    "width": 1440,
+    "height": 744,
+    "visible": true,
+    "rotation": 0,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "boundVariables": {}
+      }
+    ],
+    "strokes": [],
+    "reactions": [],
+    "children": [
+      {
+        "id": "25:40",
+        "type": "RECTANGLE",
+        "name": "image 25",
+        "x": -66,
+        "y": 744,
+        "width": 743.9999389648438,
+        "height": 1612,
+        "visible": true,
+        "rotation": 90.00000250447806,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 0.30000001192092896,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "25:42",
+        "type": "TEXT",
+        "name": "THE TAY ROOTS",
+        "x": 213,
+        "y": 132,
+        "width": 496,
+        "height": 58,
+        "visible": true,
+        "rotation": 0,
+        "characters": "THE TAY ROOTS",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "25:49",
+        "type": "TEXT",
+        "name": "I believe education becomes more meaningful when it grows from the community itself. Through The Tay Roots Project, I teach English to nearly 40 students from primary to high school through both online classes and regular trips to Tuyên Quang, where we meet in person every two months. I help develop lessons from foundational to more advanced English, connecting what we teach with local life, Tày culture, and the landscapes around them. Our visits go beyond the classroom. We create opportunities for the students to experience and share their own culture, while bringing small gifts and activities that make each visit something they can look forward to. The project was later featured by Tuyên Quang Newspaper for its work connecting English education with Tày cultural heritage and local communities.",
+        "x": 97,
+        "y": 224,
+        "width": 496,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "characters": "I believe education becomes more meaningful when it grows from the community itself. Through The Tay Roots Project, I teach English to nearly 40 students from primary to high school through both online classes and regular trips to Tuyên Quang, where we meet in person every two months. I help develop lessons from foundational to more advanced English, connecting what we teach with local life, Tày culture, and the landscapes around them.\nOur visits go beyond the classroom. We create opportunities for the students to experience and share their own culture, while bringing small gifts and activities that make each visit something they can look forward to. The project was later featured by Tuyên Quang Newspaper for its work connecting English education with Tày cultural heritage and local communities.",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "25:60",
+        "type": "TEXT",
+        "name": "Facebook: https://www.facebook.com/share/187dh6y6QA/?mibextid=wwXIfr Paper: https://baotuyenquang.com.vn/van-hoa/202608/du-an-tay-roots-mot-nam-gan-ket-tri-thuc-va-van-hoa-65a31e6/ https://baotuyenquang.com.vn/multimedia/video/202608/du-an-tay-roots-tu-tieng-anh-den-tinh-yeu-que-huong-5be4202/?gidzl=lKzN387DhnErL5y3YTIe4BzNNWALqVmNe5K81S3J_qQcKWS7bTprHA1TLGV7YQ4JymW51p84jy4dYica60 https://baotuyenquang.com.vn/xa-hoi/202511/du-an-tay-roots-ket-noi-tri-thuc-lan-toa-van-hoa-nguoi-tay-a170999/?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo https://www.facebook.com/share/v/1NK8mT9Nvs/",
+        "x": 97,
+        "y": 479,
+        "width": 496,
+        "height": 262,
+        "visible": true,
+        "rotation": 0,
+        "characters": "Facebook: https://www.facebook.com/share/187dh6y6QA/?mibextid=wwXIfr Paper:\nhttps://baotuyenquang.com.vn/van-hoa/202608/du-an-tay-roots-mot-nam-gan-ket-tri-thuc-va-van-hoa-65a31e6/\nhttps://baotuyenquang.com.vn/multimedia/video/202608/du-an-tay-roots-tu-tieng-anh-den-tinh-yeu-que-huong-5be4202/?gidzl=lKzN387DhnErL5y3YTIe4BzNNWALqVmNe5K81S3J_qQcKWS7bTprHA1TLGV7YQ4JymW51p84jy4dYica60\nhttps://baotuyenquang.com.vn/xa-hoi/202511/du-an-tay-roots-ket-noi-tri-thuc-lan-toa-van-hoa-nguoi-tay-a170999/?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo\nhttps://www.facebook.com/share/v/1NK8mT9Nvs/\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "25:50",
+        "type": "GROUP",
+        "name": "Group 2",
+        "x": 685,
+        "y": 702,
+        "width": 70,
+        "height": 10,
+        "visible": true,
+        "rotation": 0,
+        "reactions": [],
+        "children": [
+          {
+            "id": "25:51",
+            "type": "ELLIPSE",
+            "name": "Ellipse 1",
+            "x": 685,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "25:52",
+            "type": "ELLIPSE",
+            "name": "Ellipse 2",
+            "x": 700,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "25:53",
+            "type": "ELLIPSE",
+            "name": "Ellipse 3",
+            "x": 715,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "25:54",
+            "type": "ELLIPSE",
+            "name": "Ellipse 4",
+            "x": 730,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "25:55",
+            "type": "ELLIPSE",
+            "name": "Ellipse 5",
+            "x": 745,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "25:56",
+        "type": "RECTANGLE",
+        "name": "image 22",
+        "x": 97,
+        "y": 98,
+        "width": 100,
+        "height": 100,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.8333333134651184,
+                0,
+                0.0833333358168602
+              ],
+              [
+                0,
+                0.8333333134651184,
+                0.0833333358168602
+              ]
+            ],
+            "imageHash": "c1e6cd8f635fa578ee8121e4c383e8a71148479b"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:91",
+        "type": "RECTANGLE",
+        "name": "image 31",
+        "x": 606,
+        "y": 190,
+        "width": 359,
+        "height": 197,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                0.772406280040741,
+                0.22750136256217957
+              ]
+            ],
+            "imageHash": "f322a35aa84e965f3b49edd718a1fc2d8dcad8b1"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:94",
+        "type": "RECTANGLE",
+        "name": "image 33",
+        "x": 606,
+        "y": 403,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.9138895869255066,
+                0,
+                0.043055206537246704
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "3d95ae1f20c38dc9cd7ebfe15628008a185fe291"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:93",
+        "type": "RECTANGLE",
+        "name": "image 32",
+        "x": 981,
+        "y": 132,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                0.9998151659965515,
+                0.00009241046063834801
+              ]
+            ],
+            "imageHash": "70a7ff099ae58d5e1fef23048ebf4c488e2a560b"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:95",
+        "type": "RECTANGLE",
+        "name": "image 34",
+        "x": 981,
+        "y": 403,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.9138895869255066,
+                0,
+                0.043055206537246704
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "c67c255efae36a1e115a5246fba27aa4cade88d2"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "82:101",
+        "type": "GROUP",
+        "name": "Group 1",
+        "x": 572,
+        "y": 29,
+        "width": 828,
+        "height": 29,
+        "visible": true,
+        "rotation": 0,
+        "reactions": [],
+        "children": [
+          {
+            "id": "82:102",
+            "type": "TEXT",
+            "name": "About Me",
+            "x": 696,
+            "y": 29,
+            "width": 154,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "About Me",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "82:103",
+            "type": "TEXT",
+            "name": "Home",
+            "x": 572,
+            "y": 29,
+            "width": 89,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Home",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "82:104",
+            "type": "TEXT",
+            "name": "Sprituality",
+            "x": 1241,
+            "y": 29,
+            "width": 159,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Sprituality",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "82:105",
+            "type": "TEXT",
+            "name": "inquiry",
+            "x": 885,
+            "y": 29,
+            "width": 111,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "inquiry",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "82:106",
+            "type": "TEXT",
+            "name": "Community",
+            "x": 1031,
+            "y": 29,
+            "width": 175,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Community",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "26:2",
+    "type": "FRAME",
+    "name": "Community",
+    "x": 4538,
+    "y": 1998,
+    "width": 1440,
+    "height": 744,
+    "visible": true,
+    "rotation": 0,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "boundVariables": {}
+      }
+    ],
+    "strokes": [],
+    "reactions": [],
+    "children": [
+      {
+        "id": "26:3",
+        "type": "RECTANGLE",
+        "name": "image 25",
+        "x": -66,
+        "y": 744,
+        "width": 743.9999389648438,
+        "height": 1612,
+        "visible": true,
+        "rotation": 90.00000250447806,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 0.30000001192092896,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:5",
+        "type": "TEXT",
+        "name": "Ban Sung Project",
+        "x": 213,
+        "y": 132,
+        "width": 548,
+        "height": 58,
+        "visible": true,
+        "rotation": 0,
+        "characters": "Ban Sung Project",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:12",
+        "type": "TEXT",
+        "name": "Bản Sưng is a Dao community in Hòa Bình, northern Vietnam, where I joined the Bản Sưng Project and worked alongside local villagers to repair 2 km of mountain roads, contributing to safer access and essential community infrastructure. I also spent time with 30+ local households, taking part in cultural exchanges and learning through hands-on experiences such as making Dó paper, dyeing indigo, and exploring the community’s traditional script. Working directly with the community showed me that contribution is not only about what I can bring, but also about what I am willing to learn. I saw how practical work could support everyday life, while cultural exchange gave me a deeper understanding of the traditions behind the community. I left Bản Sưng seeing community engagement as a two-way exchange—one where contributing and learning can happen at the same time.",
+        "x": 97,
+        "y": 224,
+        "width": 452,
+        "height": 187,
+        "visible": true,
+        "rotation": 0,
+        "characters": "Bản Sưng is a Dao community in Hòa Bình, northern Vietnam, where I joined the Bản Sưng Project and worked alongside local villagers to repair 2 km of mountain roads, contributing to safer access and essential community infrastructure. I also spent time with 30+ local households, taking part in cultural exchanges and learning through hands-on experiences such as making Dó paper, dyeing indigo, and exploring the community’s traditional script.\nWorking directly with the community showed me that contribution is not only about what I can bring, but also about what I am willing to learn. I saw how practical work could support everyday life, while cultural exchange gave me a deeper understanding of the traditions behind the community. I left Bản Sưng seeing community engagement as a two-way exchange—one where contributing and learning can happen at the same time.\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:14",
+        "type": "GROUP",
+        "name": "Group 2",
+        "x": 685,
+        "y": 702,
+        "width": 70,
+        "height": 10,
+        "visible": true,
+        "rotation": 0,
+        "reactions": [],
+        "children": [
+          {
+            "id": "26:15",
+            "type": "ELLIPSE",
+            "name": "Ellipse 1",
+            "x": 685,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:16",
+            "type": "ELLIPSE",
+            "name": "Ellipse 2",
+            "x": 700,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:17",
+            "type": "ELLIPSE",
+            "name": "Ellipse 3",
+            "x": 715,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:18",
+            "type": "ELLIPSE",
+            "name": "Ellipse 4",
+            "x": 730,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:19",
+            "type": "ELLIPSE",
+            "name": "Ellipse 5",
+            "x": 745,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "26:96",
+        "type": "RECTANGLE",
+        "name": "image 31",
+        "x": 606,
+        "y": 206,
+        "width": 359,
+        "height": 181,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.9493727087974548,
+                0,
+                0.025313623249530792
+              ],
+              [
+                0,
+                0.7098039388656616,
+                0.29019609093666077
+              ]
+            ],
+            "imageHash": "f15620ac49c2f27f16f88b381b5a9498ca0f2e13"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:97",
+        "type": "RECTANGLE",
+        "name": "image 33",
+        "x": 606,
+        "y": 403,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                0.9464110732078552,
+                0.026794468984007835
+              ]
+            ],
+            "imageHash": "509785470cd75afb0041611fd22b4397bdee10f7"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:98",
+        "type": "RECTANGLE",
+        "name": "image 32",
+        "x": 981,
+        "y": 132,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.94502854347229,
+                0,
+                0.027485718950629234
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "0b7cbb96106be295026c89bf4b152ba061b73b77"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:99",
+        "type": "RECTANGLE",
+        "name": "image 34",
+        "x": 981,
+        "y": 403,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                0.9464110732078552,
+                0.026794468984007835
+              ]
+            ],
+            "imageHash": "6925f4aed02d41495a66d3ec60aae83dab009ec3"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "39:55",
+        "type": "RECTANGLE",
+        "name": "image 23",
+        "x": 93,
+        "y": 103,
+        "width": 104,
+        "height": 103,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.7866666913032532,
+                0,
+                0.1066666692495346
+              ],
+              [
+                0,
+                0.7800000309944153,
+                0.10999999940395355
+              ]
+            ],
+            "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "111:5",
+        "type": "RECTANGLE",
+        "name": "image 27",
+        "x": 93,
+        "y": 101,
+        "width": 110,
+        "height": 109,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0.49000000953674316,
+              "contrast": -1,
+              "saturation": 0.75,
+              "temperature": -0.7900000214576721,
+              "tint": -0.6399999856948853,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.7866666913032532,
+                0,
+                0.1066666692495346
+              ],
+              [
+                0,
+                0.7800000309944153,
+                0.10999999940395355
+              ]
+            ],
+            "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "82:108",
+        "type": "GROUP",
+        "name": "Group 1",
+        "x": 572,
+        "y": 29,
+        "width": 828,
+        "height": 29,
+        "visible": true,
+        "rotation": 0,
+        "reactions": [],
+        "children": [
+          {
+            "id": "82:109",
+            "type": "TEXT",
+            "name": "About Me",
+            "x": 696,
+            "y": 29,
+            "width": 154,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "About Me",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "82:110",
+            "type": "TEXT",
+            "name": "Home",
+            "x": 572,
+            "y": 29,
+            "width": 89,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Home",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "82:111",
+            "type": "TEXT",
+            "name": "Sprituality",
+            "x": 1241,
+            "y": 29,
+            "width": 159,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Sprituality",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "82:112",
+            "type": "TEXT",
+            "name": "inquiry",
+            "x": 885,
+            "y": 29,
+            "width": 111,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "inquiry",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "82:113",
+            "type": "TEXT",
+            "name": "Community",
+            "x": 1031,
+            "y": 29,
+            "width": 175,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Community",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "26:24",
+    "type": "FRAME",
+    "name": "Community",
+    "x": 4538,
+    "y": 2797,
+    "width": 1440,
+    "height": 744,
+    "visible": true,
+    "rotation": 0,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "boundVariables": {}
+      }
+    ],
+    "strokes": [],
+    "reactions": [],
+    "children": [
+      {
+        "id": "26:25",
+        "type": "RECTANGLE",
+        "name": "image 25",
+        "x": -66,
+        "y": 744,
+        "width": 743.9999389648438,
+        "height": 1612,
+        "visible": true,
+        "rotation": 90.00000250447806,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 0.30000001192092896,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:27",
+        "type": "TEXT",
+        "name": "Y4C",
+        "x": 213,
+        "y": 132,
+        "width": 128,
+        "height": 58,
+        "visible": true,
+        "rotation": 0,
+        "characters": "Y4C",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:34",
+        "type": "TEXT",
+        "name": "As a volunteer in the Youth for Community (Y4C) Program by Tiền Phong Newspaper, I joined a rural community initiative that combined practical infrastructure work with STEM education. I helped install over solar-powered streetlights, contributing to safer and more sustainable local infrastructure, while also facilitating interactive STEM sessions for 100+ children, turning scientific concepts into hands-on activities. Working across both community service and education showed me how small, practical interventions can create different kinds of impact: a streetlight can change how a community uses its surroundings after dark, while an engaging STEM activity can change how a child approaches a question. The project was later featured by Tiền Phong Newspaper, highlighting the program’s community work.",
+        "x": 97,
+        "y": 224,
+        "width": 452,
+        "height": 187,
+        "visible": true,
+        "rotation": 0,
+        "characters": "As a volunteer in the Youth for Community (Y4C) Program by Tiền Phong Newspaper, I joined a rural community initiative that combined practical infrastructure work with STEM education. I helped install over solar-powered streetlights, contributing to safer and more sustainable local infrastructure, while also facilitating interactive STEM sessions for 100+ children, turning scientific concepts into hands-on activities.\nWorking across both community service and education showed me how small, practical interventions can create different kinds of impact: a streetlight can change how a community uses its surroundings after dark, while an engaging STEM activity can change how a child approaches a question. The project was later featured by Tiền Phong Newspaper, highlighting the program’s community work.\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:45",
+        "type": "TEXT",
+        "name": "Facebook:https://www.facebook.com/share/19RxcWBkNT/?mibextid=wwXIfrrr Papper: https://tienphong.vn/y4c-den-bao-thang-ngay-khoi-dau-tu-lop-hoc-anh-sang-va-su-se-chia-post1817599.tpo https://share.google/1MGCxUqKH14ROOYYz",
+        "x": 97,
+        "y": 457,
+        "width": 452,
+        "height": 187,
+        "visible": true,
+        "rotation": 0,
+        "characters": "Facebook:https://www.facebook.com/share/19RxcWBkNT/?mibextid=wwXIfrrr\nPapper:\nhttps://tienphong.vn/y4c-den-bao-thang-ngay-khoi-dau-tu-lop-hoc-anh-sang-va-su-se-chia-post1817599.tpo\nhttps://share.google/1MGCxUqKH14ROOYYz\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:35",
+        "type": "GROUP",
+        "name": "Group 2",
+        "x": 685,
+        "y": 702,
+        "width": 70,
+        "height": 10,
+        "visible": true,
+        "rotation": 0,
+        "reactions": [],
+        "children": [
+          {
+            "id": "26:36",
+            "type": "ELLIPSE",
+            "name": "Ellipse 1",
+            "x": 685,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:37",
+            "type": "ELLIPSE",
+            "name": "Ellipse 2",
+            "x": 700,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:38",
+            "type": "ELLIPSE",
+            "name": "Ellipse 3",
+            "x": 715,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:39",
+            "type": "ELLIPSE",
+            "name": "Ellipse 4",
+            "x": 730,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:40",
+            "type": "ELLIPSE",
+            "name": "Ellipse 5",
+            "x": 745,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "26:100",
+        "type": "RECTANGLE",
+        "name": "image 31",
+        "x": 606,
+        "y": 132,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.9958637952804565,
+                0,
+                0.002068111440166831
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "aee76606d030247d03bcadd60d1a2c0b1b487f24"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:101",
+        "type": "RECTANGLE",
+        "name": "image 33",
+        "x": 606,
+        "y": 403,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.9958637952804565,
+                0,
+                0.002068111440166831
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "cef54b946f90050ff6b09deeb8034c0905afb739"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:102",
+        "type": "RECTANGLE",
+        "name": "image 32",
+        "x": 981,
+        "y": 132,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.9958637952804565,
+                0,
+                0.002068111440166831
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "2f8a983bfb7288f607ab1141ff8ecceb1ca2afb1"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:103",
+        "type": "RECTANGLE",
+        "name": "image 34",
+        "x": 981,
+        "y": 403,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.9334848523139954,
+                0,
+                0.03325757011771202
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "48eb9a5dd2563031c6f957856a892a3c78d85a62"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "82:115",
+        "type": "GROUP",
+        "name": "Group 1",
+        "x": 572,
+        "y": 29,
+        "width": 828,
+        "height": 29,
+        "visible": true,
+        "rotation": 0,
+        "reactions": [],
+        "children": [
+          {
+            "id": "82:116",
+            "type": "TEXT",
+            "name": "About Me",
+            "x": 696,
+            "y": 29,
+            "width": 154,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "About Me",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "82:117",
+            "type": "TEXT",
+            "name": "Home",
+            "x": 572,
+            "y": 29,
+            "width": 89,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Home",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "82:118",
+            "type": "TEXT",
+            "name": "Sprituality",
+            "x": 1241,
+            "y": 29,
+            "width": 159,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Sprituality",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "82:119",
+            "type": "TEXT",
+            "name": "inquiry",
+            "x": 885,
+            "y": 29,
+            "width": 111,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "inquiry",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "82:120",
+            "type": "TEXT",
+            "name": "Community",
+            "x": 1031,
+            "y": 29,
+            "width": 175,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Community",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "111:7",
+        "type": "RECTANGLE",
+        "name": "image 29",
+        "x": 97,
+        "y": 118,
+        "width": 92,
+        "height": 91,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0.36000001430511475,
+              "contrast": -0.5333333214124044,
+              "saturation": 0.5400000214576721,
+              "temperature": 0.27000001072883606,
+              "tint": -0.38999998569488525,
+              "highlights": -0.5600000023841858,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "1a49e71d1125070e20149956ee33a71504e163bf"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      }
+    ]
+  },
+  {
+    "id": "26:46",
+    "type": "FRAME",
+    "name": "Community",
+    "x": 4538,
+    "y": 3596,
+    "width": 1440,
+    "height": 744,
+    "visible": true,
+    "rotation": 0,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "boundVariables": {}
+      }
+    ],
+    "strokes": [],
+    "reactions": [],
+    "children": [
+      {
+        "id": "26:47",
+        "type": "RECTANGLE",
+        "name": "image 25",
+        "x": -66,
+        "y": 744,
+        "width": 743.9999389648438,
+        "height": 1612,
+        "visible": true,
+        "rotation": 90.00000250447806,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 0.30000001192092896,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:49",
+        "type": "TEXT",
+        "name": "“Viet Nam Tinh Hoa” Concert",
+        "x": 213,
+        "y": 132,
+        "width": 883,
+        "height": 58,
+        "visible": true,
+        "rotation": 0,
+        "characters": "“Viet Nam Tinh Hoa” Concert",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:56",
+        "type": "TEXT",
+        "name": "Traditional Vietnamese music carries stories that deserve to be heard by new generations. As a Public Relations Specialist for the Aria Project’s “Viet Nam Tinh Hoa” Concert, I worked on making those stories more accessible to younger audiences through modern cultural storytelling. I developed social media strategies, managed the concert’s official Facebook communications, wrote press releases, and produced promotional media assets to build interest and encourage attendance. I also coordinated promotion across channels for the free concert, helping connect its cultural message with a wider audience. Beyond communication, the project contributed to a 50,000,000 VND charity fund supporting children and youth through MSD Vietnam’s community programs. This experience showed me that advocacy can take many forms. Sometimes, it means creating the space for a tradition to be seen, understood, and carried forward by people who might otherwise feel distant from it. For me, communication became a way of connecting culture, younger audiences, and community impact.",
+        "x": 97,
+        "y": 221,
+        "width": 452,
+        "height": 187,
+        "visible": true,
+        "rotation": 0,
+        "characters": "Traditional Vietnamese music carries stories that deserve to be heard by new generations. As a Public Relations Specialist for the Aria Project’s “Viet Nam Tinh Hoa” Concert, I worked on making those stories more accessible to younger audiences through modern cultural storytelling.\nI developed social media strategies, managed the concert’s official Facebook communications, wrote press releases, and produced promotional media assets to build interest and encourage attendance. I also coordinated promotion across channels for the free concert, helping connect its cultural message with a wider audience. Beyond communication, the project contributed to a 50,000,000 VND charity fund supporting children and youth through MSD Vietnam’s community programs.\nThis experience showed me that advocacy can take many forms. Sometimes, it means creating the space for a tradition to be seen, understood, and carried forward by people who might otherwise feel distant from it. For me, communication became a way of connecting culture, younger audiences, and community impact.\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:57",
+        "type": "TEXT",
+        "name": "Facebook: https://www.facebook.com/share/19NYqsvFFH/?mibextid=wwXIfr Papper: https://thieunien.vn/dem-hoa-nhac-viet-nam-tinh-hoa-lan-toa-yeu-thuong-tu-nhung-nguoi-tre-tbd68133.html?gidzl=R9G14k-fprriZ00GvB7EMcM301RxkiPSSea05V3ZoGrnsmH1zBN8MIA9L1AavfDR9jnUH3Im2_vwxQt8KG",
+        "x": 96,
+        "y": 583,
+        "width": 452,
+        "height": 187,
+        "visible": true,
+        "rotation": 0,
+        "characters": "Facebook: https://www.facebook.com/share/19NYqsvFFH/?mibextid=wwXIfr\nPapper:\nhttps://thieunien.vn/dem-hoa-nhac-viet-nam-tinh-hoa-lan-toa-yeu-thuong-tu-nhung-nguoi-tre-tbd68133.html?gidzl=R9G14k-fprriZ00GvB7EMcM301RxkiPSSea05V3ZoGrnsmH1zBN8MIA9L1AavfDR9jnUH3Im2_vwxQt8KG\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:58",
+        "type": "GROUP",
+        "name": "Group 2",
+        "x": 685,
+        "y": 702,
+        "width": 70,
+        "height": 10,
+        "visible": true,
+        "rotation": 0,
+        "reactions": [],
+        "children": [
+          {
+            "id": "26:59",
+            "type": "ELLIPSE",
+            "name": "Ellipse 1",
+            "x": 685,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:60",
+            "type": "ELLIPSE",
+            "name": "Ellipse 2",
+            "x": 700,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:61",
+            "type": "ELLIPSE",
+            "name": "Ellipse 3",
+            "x": 715,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:62",
+            "type": "ELLIPSE",
+            "name": "Ellipse 4",
+            "x": 730,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:63",
+            "type": "ELLIPSE",
+            "name": "Ellipse 5",
+            "x": 745,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "26:105",
+        "type": "RECTANGLE",
+        "name": "image 31",
+        "x": 606,
+        "y": 198,
+        "width": 359,
+        "height": 189,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.969942569732666,
+                0,
+                0.01502870675176382
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "0679d03c3c6d20bfe65cf8394329b9ed33503097"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:106",
+        "type": "RECTANGLE",
+        "name": "image 33",
+        "x": 606,
+        "y": 403,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                0.9716053009033203,
+                0.01419734489172697
+              ]
+            ],
+            "imageHash": "e30a1b252c9a828662921a5558dc98cbce8025c4"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:107",
+        "type": "RECTANGLE",
+        "name": "image 32",
+        "x": 981,
+        "y": 197,
+        "width": 359,
+        "height": 190,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.9038181304931641,
+                0,
+                0.048090919852256775
+              ],
+              [
+                0,
+                0.7450980544090271,
+                0.2549019753932953
+              ]
+            ],
+            "imageHash": "cf83c212a77f1e7f18d25a3cfa808dcaa9a0f7ff"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:108",
+        "type": "RECTANGLE",
+        "name": "image 34",
+        "x": 981,
+        "y": 403,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                0.9723401665687561,
+                0.013829913921654224
+              ]
+            ],
+            "imageHash": "dae1476836c99019690908c3b3ce7a0d4358f6d9"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "39:57",
+        "type": "RECTANGLE",
+        "name": "image 24",
+        "x": 97,
+        "y": 113,
+        "width": 84,
+        "height": 84,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.8695651888847351,
+                0,
+                0.06521739065647125
+              ],
+              [
+                0,
+                0.8695652484893799,
+                0.06521739065647125
+              ]
+            ],
+            "imageHash": "df3946397d0beaa3c9283cfce1a5dbce9323b973"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "82:122",
+        "type": "GROUP",
+        "name": "Group 1",
+        "x": 572,
+        "y": 29,
+        "width": 828,
+        "height": 29,
+        "visible": true,
+        "rotation": 0,
+        "reactions": [],
+        "children": [
+          {
+            "id": "82:123",
+            "type": "TEXT",
+            "name": "About Me",
+            "x": 696,
+            "y": 29,
+            "width": 154,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "About Me",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "82:124",
+            "type": "TEXT",
+            "name": "Home",
+            "x": 572,
+            "y": 29,
+            "width": 89,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Home",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "82:125",
+            "type": "TEXT",
+            "name": "Sprituality",
+            "x": 1241,
+            "y": 29,
+            "width": 159,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Sprituality",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "82:126",
+            "type": "TEXT",
+            "name": "inquiry",
+            "x": 885,
+            "y": 29,
+            "width": 111,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "inquiry",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "82:127",
+            "type": "TEXT",
+            "name": "Community",
+            "x": 1031,
+            "y": 29,
+            "width": 175,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Community",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "26:68",
+    "type": "FRAME",
+    "name": "Community",
+    "x": 4538,
+    "y": 4438,
+    "width": 1440,
+    "height": 744,
+    "visible": true,
+    "rotation": 0,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "boundVariables": {}
+      }
+    ],
+    "strokes": [],
+    "reactions": [],
+    "children": [
+      {
+        "id": "26:69",
+        "type": "RECTANGLE",
+        "name": "image 25",
+        "x": -66,
+        "y": 744,
+        "width": 743.9999389648438,
+        "height": 1612,
+        "visible": true,
+        "rotation": 90.00000250447806,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 0.30000001192092896,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:71",
+        "type": "TEXT",
+        "name": "Bright Paths Mù Cang Chải",
+        "x": 213,
+        "y": 132,
+        "width": 839,
+        "height": 58,
+        "visible": true,
+        "rotation": 0,
+        "characters": "Bright Paths Mù Cang Chải",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:78",
+        "type": "TEXT",
+        "name": "In Mù Cang Chải, Yên Bái, the road to a classroom is sometimes a mountain trail. I joined Bright Paths on a journey into the highlands, carrying books, school supplies, clothes, and small things to brighten the days of over 80 local children. We learned, played, and shared stories together, discovering that cultural exchange can be just as meaningful as what we brought with us. Alongside the local community, we also helped install more than 10 solar lighting poles, bringing light to paths and homes after sunset. For a few days, I stepped outside the familiar world I knew. I learned that making a difference does not always begin with something extraordinary. Sometimes, it begins with carrying a box up a mountain, sitting beside a child, and leaving behind a little light.",
+        "x": 97,
+        "y": 221,
+        "width": 452,
+        "height": 187,
+        "visible": true,
+        "rotation": 0,
+        "characters": "In Mù Cang Chải, Yên Bái, the road to a classroom is sometimes a mountain trail.\nI joined Bright Paths on a journey into the highlands, carrying books, school supplies, clothes, and small things to brighten the days of over 80 local children. We learned, played, and shared stories together, discovering that cultural exchange can be just as meaningful as what we brought with us.\nAlongside the local community, we also helped install more than 10 solar lighting poles, bringing light to paths and homes after sunset.\nFor a few days, I stepped outside the familiar world I knew. I learned that making a difference does not always begin with something extraordinary. Sometimes, it begins with carrying a box up a mountain, sitting beside a child, and leaving behind a little light.\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:80",
+        "type": "GROUP",
+        "name": "Group 2",
+        "x": 685,
+        "y": 702,
+        "width": 70,
+        "height": 10,
+        "visible": true,
+        "rotation": 0,
+        "reactions": [],
+        "children": [
+          {
+            "id": "26:81",
+            "type": "ELLIPSE",
+            "name": "Ellipse 1",
+            "x": 685,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:82",
+            "type": "ELLIPSE",
+            "name": "Ellipse 2",
+            "x": 700,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:83",
+            "type": "ELLIPSE",
+            "name": "Ellipse 3",
+            "x": 715,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:84",
+            "type": "ELLIPSE",
+            "name": "Ellipse 4",
+            "x": 730,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "26:85",
+            "type": "ELLIPSE",
+            "name": "Ellipse 5",
+            "x": 745,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "26:110",
+        "type": "RECTANGLE",
+        "name": "image 31",
+        "x": 606,
+        "y": 201,
+        "width": 359,
+        "height": 200,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.9958637356758118,
+                0,
+                0.002068111440166831
+              ],
+              [
+                0,
+                0.7843137979507446,
+                0.21568629145622253
+              ]
+            ],
+            "imageHash": "aee76606d030247d03bcadd60d1a2c0b1b487f24"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:111",
+        "type": "RECTANGLE",
+        "name": "image 33",
+        "x": 606,
+        "y": 417,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.9958637952804565,
+                0,
+                0.002068111440166831
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "cef54b946f90050ff6b09deeb8034c0905afb739"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:112",
+        "type": "RECTANGLE",
+        "name": "image 32",
+        "x": 981,
+        "y": 204,
+        "width": 359,
+        "height": 197,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.9958637356758118,
+                0,
+                0.002068111440166831
+              ],
+              [
+                0,
+                0.7725490927696228,
+                0.22745099663734436
+              ]
+            ],
+            "imageHash": "2f8a983bfb7288f607ab1141ff8ecceb1ca2afb1"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "26:113",
+        "type": "RECTANGLE",
+        "name": "image 34",
+        "x": 981,
+        "y": 417,
+        "width": 359,
+        "height": 255,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.9334848523139954,
+                0,
+                0.03325757011771202
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "48eb9a5dd2563031c6f957856a892a3c78d85a62"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "39:58",
+        "type": "RECTANGLE",
+        "name": "image 23",
+        "x": 93,
+        "y": 103,
+        "width": 104,
+        "height": 103,
+        "visible": true,
+        "rotation": 0,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.7866666913032532,
+                0,
+                0.1066666692495346
+              ],
+              [
+                0,
+                0.7800000309944153,
+                0.10999999940395355
+              ]
+            ],
+            "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+          }
+        ],
+        "strokes": [],
+        "reactions": []
+      },
+      {
+        "id": "82:129",
+        "type": "GROUP",
+        "name": "Group 1",
+        "x": 572,
+        "y": 29,
+        "width": 828,
+        "height": 29,
+        "visible": true,
+        "rotation": 0,
+        "reactions": [],
+        "children": [
+          {
+            "id": "82:130",
+            "type": "TEXT",
+            "name": "About Me",
+            "x": 696,
+            "y": 29,
+            "width": 154,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "About Me",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "82:131",
+            "type": "TEXT",
+            "name": "Home",
+            "x": 572,
+            "y": 29,
+            "width": 89,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Home",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "82:132",
+            "type": "TEXT",
+            "name": "Sprituality",
+            "x": 1241,
+            "y": 29,
+            "width": 159,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Sprituality",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "reactions": []
+          },
+          {
+            "id": "82:133",
+            "type": "TEXT",
+            "name": "inquiry",
+            "x": 885,
+            "y": 29,
+            "width": 111,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "inquiry",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          },
+          {
+            "id": "82:134",
+            "type": "TEXT",
+            "name": "Community",
+            "x": 1031,
+            "y": 29,
+            "width": 175,
+            "height": 29,
+            "visible": true,
+            "rotation": 0,
+            "characters": "Community",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "reactions": []
+          }
+        ]
+      }
+    ]
+  }
+]

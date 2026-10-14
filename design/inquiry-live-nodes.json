@@ -1,0 +1,3151 @@
+[
+  {
+    "id": "7:240",
+    "name": "inquiry",
+    "type": "FRAME",
+    "x": 3006,
+    "y": 374,
+    "width": 1440,
+    "height": 744,
+    "visible": true,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0.09019608050584793
+        },
+        "boundVariables": {}
+      }
+    ],
+    "opacity": 1,
+    "reactions": [],
+    "children": [
+      {
+        "id": "8:270",
+        "name": "image 20",
+        "type": "RECTANGLE",
+        "x": 490,
+        "y": 55.78628921508789,
+        "width": 711,
+        "height": 958,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0.4399999976158142,
+              "contrast": 0,
+              "saturation": 0.6499999761581421,
+              "temperature": -0.550000011920929,
+              "tint": 0.7300000190734863,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "6e63d9d78d5a9ff4f10411f1d716af57bdb37cb9"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:267",
+        "name": "image 19",
+        "type": "RECTANGLE",
+        "x": 0.00006103515625,
+        "y": 785,
+        "width": 857.9999389648438,
+        "height": 1526,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 0.30000001192092896,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:291",
+        "name": "image 24",
+        "type": "RECTANGLE",
+        "x": 1248,
+        "y": 542,
+        "width": 80,
+        "height": 80,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.8695651888847351,
+                0,
+                0.06521739065647125
+              ],
+              [
+                0,
+                0.8695652484893799,
+                0.06521739065647125
+              ]
+            ],
+            "imageHash": "df3946397d0beaa3c9283cfce1a5dbce9323b973"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:288",
+        "name": "image 23",
+        "type": "RECTANGLE",
+        "x": 782,
+        "y": 542,
+        "width": 88,
+        "height": 88,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0.49000000953674316,
+              "contrast": -1,
+              "saturation": 0.75,
+              "temperature": -0.7900000214576721,
+              "tint": -0.6399999856948853,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.7866666913032532,
+                0,
+                0.1066666692495346
+              ],
+              [
+                0,
+                0.7800000309944153,
+                0.10999999940395355
+              ]
+            ],
+            "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:285",
+        "name": "image 22",
+        "type": "RECTANGLE",
+        "x": 665,
+        "y": 366,
+        "width": 120,
+        "height": 120,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "c1e6cd8f635fa578ee8121e4c383e8a71148479b"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:282",
+        "name": "image 21",
+        "type": "RECTANGLE",
+        "x": 1017,
+        "y": 470,
+        "width": 125,
+        "height": 125,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0.36000001430511475,
+              "contrast": -0.5333333214124044,
+              "saturation": 0.5400000214576721,
+              "temperature": 0.27000001072883606,
+              "tint": -0.38999998569488525,
+              "highlights": -0.5600000023841858,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "1a49e71d1125070e20149956ee33a71504e163bf"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "7:243",
+        "name": "inquiry",
+        "type": "TEXT",
+        "x": 97,
+        "y": 137,
+        "width": 221,
+        "height": 58,
+        "visible": true,
+        "characters": "inquiry",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "textAlignHorizontal": "LEFT",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "7:250",
+        "name": "An answer is rarely the end of the process. When something seems obvious, I want to understand what makes it so: the patterns, connections, and assumptions beneath it. I tend to follow a question further, especially when something does not quite add up. Curiosity, for me, is a way of looking closer and questioning what seems certain. Uranus offers a fitting parallel. Beneath its seemingly simple atmosphere lies a complex interior unlike that of the planets we know best. Perhaps the most interesting answers are things that are hidden beneath what first appears obvious, waiting to be understood.",
+        "type": "TEXT",
+        "x": 97,
+        "y": 201,
+        "width": 452,
+        "height": 310,
+        "visible": true,
+        "characters": "An answer is rarely the end of the process.\nWhen something seems obvious, I want to understand what makes it so: the patterns, connections, and assumptions beneath it. I tend to follow a question further, especially when something does not quite add up. Curiosity, for me, is a way of looking closer and questioning what seems certain.\nUranus offers a fitting parallel. Beneath its seemingly simple atmosphere lies a complex interior unlike that of the planets we know best. Perhaps the most interesting answers are things that are hidden beneath what first appears obvious, waiting to be understood.\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "textAlignHorizontal": "JUSTIFIED",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "7:260",
+        "name": "Group 2",
+        "type": "GROUP",
+        "x": 685,
+        "y": 702,
+        "width": 70,
+        "height": 10,
+        "visible": true,
+        "opacity": 1,
+        "reactions": [],
+        "children": [
+          {
+            "id": "7:261",
+            "name": "Ellipse 1",
+            "type": "ELLIPSE",
+            "x": 685,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "7:262",
+            "name": "Ellipse 2",
+            "type": "ELLIPSE",
+            "x": 700,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "7:263",
+            "name": "Ellipse 3",
+            "type": "ELLIPSE",
+            "x": 715,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "7:264",
+            "name": "Ellipse 4",
+            "type": "ELLIPSE",
+            "x": 730,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "7:265",
+            "name": "Ellipse 5",
+            "type": "ELLIPSE",
+            "x": 745,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "82:35",
+        "name": "Group 1",
+        "type": "GROUP",
+        "x": 572,
+        "y": 29,
+        "width": 828,
+        "height": 29,
+        "visible": true,
+        "opacity": 1,
+        "reactions": [],
+        "children": [
+          {
+            "id": "82:36",
+            "name": "About Me",
+            "type": "TEXT",
+            "x": 696,
+            "y": 29,
+            "width": 154,
+            "height": 29,
+            "visible": true,
+            "characters": "About Me",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:37",
+            "name": "Home",
+            "type": "TEXT",
+            "x": 572,
+            "y": 29,
+            "width": 89,
+            "height": 29,
+            "visible": true,
+            "characters": "Home",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:38",
+            "name": "Sprituality",
+            "type": "TEXT",
+            "x": 1241,
+            "y": 29,
+            "width": 159,
+            "height": 29,
+            "visible": true,
+            "characters": "Sprituality",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:39",
+            "name": "inquiry",
+            "type": "TEXT",
+            "x": 885,
+            "y": 29,
+            "width": 111,
+            "height": 29,
+            "visible": true,
+            "characters": "inquiry",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:40",
+            "name": "Community",
+            "type": "TEXT",
+            "x": 1031,
+            "y": 29,
+            "width": 175,
+            "height": 29,
+            "visible": true,
+            "characters": "Community",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8:298",
+    "name": "inquiry",
+    "type": "FRAME",
+    "x": 3006,
+    "y": 1173,
+    "width": 1440,
+    "height": 744,
+    "visible": true,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "boundVariables": {}
+      }
+    ],
+    "opacity": 1,
+    "reactions": [],
+    "children": [
+      {
+        "id": "8:321",
+        "name": "image 25",
+        "type": "RECTANGLE",
+        "x": -66,
+        "y": 744,
+        "width": 743.9999389648438,
+        "height": 1612,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 0.30000001192092896,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:306",
+        "name": "WICO",
+        "type": "TEXT",
+        "x": 213,
+        "y": 132,
+        "width": 165,
+        "height": 58,
+        "visible": true,
+        "characters": "WICO",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "textAlignHorizontal": "LEFT",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:313",
+        "name": "I started this project by questioning the limits of the traditional 60/40 portfolio during market volatility. Working with four other high school students, I co-developed a quantitative framework and dynamic rebalancing strategy using a composite Shock Score based on rolling correlations, WTI oil momentum, and 10-year Treasury yield shifts. We developed and backtested three algorithm versions against the 60/40 portfolio over 19 years of historical data. I contributed to the framework, model testing, research poster, and presentation. V3 taught me the most: adding another signal introduced noise and weakened performance, showing me that better answers do not always come from adding more, but from questioning what truly deserves to remain. We presented our work at the 2026 World Invention Creativity Olympics in South Korea, where we received a Gold Award.",
+        "type": "TEXT",
+        "x": 97,
+        "y": 224,
+        "width": 452,
+        "height": 310,
+        "visible": true,
+        "characters": "I started this project by questioning the limits of the traditional 60/40 portfolio during market volatility. Working with four other high school students, I co-developed a quantitative framework and dynamic rebalancing strategy using a composite Shock Score based on rolling correlations, WTI oil momentum, and 10-year Treasury yield shifts.\nWe developed and backtested three algorithm versions against the 60/40 portfolio over 19 years of historical data. I contributed to the framework, model testing, research poster, and presentation. V3 taught me the most: adding another signal introduced noise and weakened performance, showing me that better answers do not always come from adding more, but from questioning what truly deserves to remain.\nWe presented our work at the 2026 World Invention Creativity Olympics in South Korea, where we received a Gold Award.\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "textAlignHorizontal": "JUSTIFIED",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:314",
+        "name": "Group 2",
+        "type": "GROUP",
+        "x": 685,
+        "y": 702,
+        "width": 70,
+        "height": 10,
+        "visible": true,
+        "opacity": 1,
+        "reactions": [],
+        "children": [
+          {
+            "id": "8:315",
+            "name": "Ellipse 1",
+            "type": "ELLIPSE",
+            "x": 685,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:316",
+            "name": "Ellipse 2",
+            "type": "ELLIPSE",
+            "x": 700,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:317",
+            "name": "Ellipse 3",
+            "type": "ELLIPSE",
+            "x": 715,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:318",
+            "name": "Ellipse 4",
+            "type": "ELLIPSE",
+            "x": 730,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:319",
+            "name": "Ellipse 5",
+            "type": "ELLIPSE",
+            "x": 745,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "8:302",
+        "name": "image 22",
+        "type": "RECTANGLE",
+        "x": 97,
+        "y": 98,
+        "width": 100,
+        "height": 100,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.8333333134651184,
+                0,
+                0.0833333358168602
+              ],
+              [
+                0,
+                0.8333333134651184,
+                0.0833333358168602
+              ]
+            ],
+            "imageHash": "c1e6cd8f635fa578ee8121e4c383e8a71148479b"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "25:9",
+        "name": "image 28",
+        "type": "RECTANGLE",
+        "x": 717,
+        "y": 99,
+        "width": 163,
+        "height": 273,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "2c37319a312b977c831673209939b61dfd08552e"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "25:12",
+        "name": "image 29",
+        "type": "RECTANGLE",
+        "x": 895,
+        "y": 99,
+        "width": 321,
+        "height": 273,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "d398af2d3166f58f5cb21dfbedc7a0d708301c97"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "25:15",
+        "name": "image 30",
+        "type": "RECTANGLE",
+        "x": 717,
+        "y": 386,
+        "width": 497,
+        "height": 275,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                0.817889928817749,
+                0.06607126444578171
+              ]
+            ],
+            "imageHash": "0867f30fe2dc2785e7d57db4bc4469e46a2d200d"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "82:42",
+        "name": "Group 1",
+        "type": "GROUP",
+        "x": 572,
+        "y": 29,
+        "width": 828,
+        "height": 29,
+        "visible": true,
+        "opacity": 1,
+        "reactions": [],
+        "children": [
+          {
+            "id": "82:43",
+            "name": "About Me",
+            "type": "TEXT",
+            "x": 696,
+            "y": 29,
+            "width": 154,
+            "height": 29,
+            "visible": true,
+            "characters": "About Me",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:44",
+            "name": "Home",
+            "type": "TEXT",
+            "x": 572,
+            "y": 29,
+            "width": 89,
+            "height": 29,
+            "visible": true,
+            "characters": "Home",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:45",
+            "name": "Sprituality",
+            "type": "TEXT",
+            "x": 1241,
+            "y": 29,
+            "width": 159,
+            "height": 29,
+            "visible": true,
+            "characters": "Sprituality",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:46",
+            "name": "inquiry",
+            "type": "TEXT",
+            "x": 885,
+            "y": 29,
+            "width": 111,
+            "height": 29,
+            "visible": true,
+            "characters": "inquiry",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:47",
+            "name": "Community",
+            "type": "TEXT",
+            "x": 1031,
+            "y": 29,
+            "width": 175,
+            "height": 29,
+            "visible": true,
+            "characters": "Community",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8:323",
+    "name": "inquiry",
+    "type": "FRAME",
+    "x": 3006,
+    "y": 1998,
+    "width": 1440,
+    "height": 744,
+    "visible": true,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "boundVariables": {}
+      }
+    ],
+    "opacity": 1,
+    "reactions": [],
+    "children": [
+      {
+        "id": "111:2",
+        "name": "image 46",
+        "type": "RECTANGLE",
+        "x": 97,
+        "y": 102,
+        "width": 107,
+        "height": 106,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0.49000000953674316,
+              "contrast": -1,
+              "saturation": 0.75,
+              "temperature": -0.7900000214576721,
+              "tint": -0.6399999856948853,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.7866666913032532,
+                0,
+                0.1066666692495346
+              ],
+              [
+                0,
+                0.7800000309944153,
+                0.10999999940395355
+              ]
+            ],
+            "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:324",
+        "name": "image 25",
+        "type": "RECTANGLE",
+        "x": -66,
+        "y": 744,
+        "width": 743.9999389648438,
+        "height": 1612,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 0.30000001192092896,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:326",
+        "name": "ICAN",
+        "type": "TEXT",
+        "x": 213,
+        "y": 132,
+        "width": 149,
+        "height": 58,
+        "visible": true,
+        "characters": "ICAN",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "textAlignHorizontal": "LEFT",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:333",
+        "name": "AI compute is often measured by the price of a GPU-hour. I wanted to look at what that number leaves out: the electricity required to keep that GPU running, and the environmental cost that comes with it. As the team leader, I worked alongside four other students throughout the entire project, from collecting and processing data to developing the methodology, analyzing results, designing the research poster, and preparing our presentation. We built an open-source R framework using free public data to quantify the electricity cost and carbon footprint behind each GPU-hour, compare them across countries, and examine whether energy-related assets could partially hedge electricity-cost risk. Our findings showed that electricity is a structural cost of AI compute, while the carbon footprint of the same GPU can vary dramatically depending on where it operates. We presented our research at the 2026 International Invention Innovation Competition in Canada, where we received a Gold Award.",
+        "type": "TEXT",
+        "x": 97,
+        "y": 224,
+        "width": 452,
+        "height": 310,
+        "visible": true,
+        "characters": "AI compute is often measured by the price of a GPU-hour. I wanted to look at what that number leaves out: the electricity required to keep that GPU running, and the environmental cost that comes with it.\nAs the team leader, I worked alongside four other students throughout the entire project, from collecting and processing data to developing the methodology, analyzing results, designing the research poster, and preparing our presentation. We built an open-source R framework using free public data to quantify the electricity cost and carbon footprint behind each GPU-hour, compare them across countries, and examine whether energy-related assets could partially hedge electricity-cost risk.\nOur findings showed that electricity is a structural cost of AI compute, while the carbon footprint of the same GPU can vary dramatically depending on where it operates. We presented our research at the 2026 International Invention Innovation Competition in Canada, where we received a Gold Award.\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "textAlignHorizontal": "JUSTIFIED",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:334",
+        "name": "Group 2",
+        "type": "GROUP",
+        "x": 685,
+        "y": 702,
+        "width": 70,
+        "height": 10,
+        "visible": true,
+        "opacity": 1,
+        "reactions": [],
+        "children": [
+          {
+            "id": "8:335",
+            "name": "Ellipse 1",
+            "type": "ELLIPSE",
+            "x": 685,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:336",
+            "name": "Ellipse 2",
+            "type": "ELLIPSE",
+            "x": 700,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:337",
+            "name": "Ellipse 3",
+            "type": "ELLIPSE",
+            "x": 715,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:338",
+            "name": "Ellipse 4",
+            "type": "ELLIPSE",
+            "x": 730,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:339",
+            "name": "Ellipse 5",
+            "type": "ELLIPSE",
+            "x": 745,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "75:10",
+        "name": "image 45",
+        "type": "RECTANGLE",
+        "x": 685,
+        "y": 224,
+        "width": 536,
+        "height": 380,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "7ccc37136af35ea6f34ac1d7ebdef47488c928fe"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "82:49",
+        "name": "Group 1",
+        "type": "GROUP",
+        "x": 572,
+        "y": 29,
+        "width": 828,
+        "height": 29,
+        "visible": true,
+        "opacity": 1,
+        "reactions": [],
+        "children": [
+          {
+            "id": "82:50",
+            "name": "About Me",
+            "type": "TEXT",
+            "x": 696,
+            "y": 29,
+            "width": 154,
+            "height": 29,
+            "visible": true,
+            "characters": "About Me",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:51",
+            "name": "Home",
+            "type": "TEXT",
+            "x": 572,
+            "y": 29,
+            "width": 89,
+            "height": 29,
+            "visible": true,
+            "characters": "Home",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:52",
+            "name": "Sprituality",
+            "type": "TEXT",
+            "x": 1241,
+            "y": 29,
+            "width": 159,
+            "height": 29,
+            "visible": true,
+            "characters": "Sprituality",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:53",
+            "name": "inquiry",
+            "type": "TEXT",
+            "x": 885,
+            "y": 29,
+            "width": 111,
+            "height": 29,
+            "visible": true,
+            "characters": "inquiry",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:54",
+            "name": "Community",
+            "type": "TEXT",
+            "x": 1031,
+            "y": 29,
+            "width": 175,
+            "height": 29,
+            "visible": true,
+            "characters": "Community",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8:341",
+    "name": "inquiry",
+    "type": "FRAME",
+    "x": 3006,
+    "y": 2806,
+    "width": 1440,
+    "height": 744,
+    "visible": true,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "boundVariables": {}
+      }
+    ],
+    "opacity": 1,
+    "reactions": [],
+    "children": [
+      {
+        "id": "8:342",
+        "name": "image 25",
+        "type": "RECTANGLE",
+        "x": -66,
+        "y": 744,
+        "width": 743.9999389648438,
+        "height": 1612,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 0.30000001192092896,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:344",
+        "name": "RESEARCH",
+        "type": "TEXT",
+        "x": 213,
+        "y": 132,
+        "width": 340,
+        "height": 58,
+        "visible": true,
+        "characters": "RESEARCH",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "textAlignHorizontal": "LEFT",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:351",
+        "name": "Amid growing concerns over sustainability, I became interested in how local agriculture could create value beyond conventional production. I explored the Tam Dao Mushroom Cooperative as a case study of how circular agriculture, health-product innovation, and experiential tourism could be connected within one economic model. To examine this relationship, I used Fuzzy-AHP to evaluate five dimensions of the cooperative’s development, drawing on assessments from seven experts. I structured and analyzed their judgments to identify which factors carried the greatest weight in shaping the model. The analysis highlighted the importance of economic and environmental considerations, while also revealing how health products and experiential tourism could extend the value created through agricultural production. Through the project, I learned to turn a complex real-world system into measurable criteria and use quantitative analysis to examine the trade-offs between economic, environmental, and social objectives.",
+        "type": "TEXT",
+        "x": 97,
+        "y": 224,
+        "width": 452,
+        "height": 249,
+        "visible": true,
+        "characters": "Amid growing concerns over sustainability, I became interested in how local agriculture could create value beyond conventional production. I explored the Tam Dao Mushroom Cooperative as a case study of how circular agriculture, health-product innovation, and experiential tourism could be connected within one economic model.\nTo examine this relationship, I used Fuzzy-AHP to evaluate five dimensions of the cooperative’s development, drawing on assessments from seven experts. I structured and analyzed their judgments to identify which factors carried the greatest weight in shaping the model. The analysis highlighted the importance of economic and environmental considerations, while also revealing how health products and experiential tourism could extend the value created through agricultural production.\nThrough the project, I learned to turn a complex real-world system into measurable criteria and use quantitative analysis to examine the trade-offs between economic, environmental, and social objectives.\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "textAlignHorizontal": "JUSTIFIED",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:352",
+        "name": "Group 2",
+        "type": "GROUP",
+        "x": 685,
+        "y": 715,
+        "width": 70,
+        "height": 10,
+        "visible": true,
+        "opacity": 1,
+        "reactions": [],
+        "children": [
+          {
+            "id": "8:353",
+            "name": "Ellipse 1",
+            "type": "ELLIPSE",
+            "x": 685,
+            "y": 715,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:354",
+            "name": "Ellipse 2",
+            "type": "ELLIPSE",
+            "x": 700,
+            "y": 715,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:355",
+            "name": "Ellipse 3",
+            "type": "ELLIPSE",
+            "x": 715,
+            "y": 715,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:356",
+            "name": "Ellipse 4",
+            "type": "ELLIPSE",
+            "x": 730,
+            "y": 715,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:357",
+            "name": "Ellipse 5",
+            "type": "ELLIPSE",
+            "x": 745,
+            "y": 715,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "52:69",
+        "name": "image 37",
+        "type": "RECTANGLE",
+        "x": 603,
+        "y": 132,
+        "width": 358,
+        "height": 216,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "7d9b31dcc919f5d079ddb9bd6d258cfa5fcb0858"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "52:72",
+        "name": "image 38",
+        "type": "RECTANGLE",
+        "x": 977,
+        "y": 132,
+        "width": 358,
+        "height": 216,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                0.89005047082901,
+                0.0549747534096241
+              ]
+            ],
+            "imageHash": "31e3e6c380f4d211b4822c39f4c08276ab08185e"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "52:71",
+        "name": "https://www.mdpi.com/2673-4060/7/8/142",
+        "type": "TEXT",
+        "x": 602,
+        "y": 355,
+        "width": 246,
+        "height": 17,
+        "visible": true,
+        "characters": "https://www.mdpi.com/2673-4060/7/8/142",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 14,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "textAlignHorizontal": "JUSTIFIED",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "52:74",
+        "name": "https://www.world-economics-journal.com/Papers/CO2-Emissions-Economic-Growth-and-Per-Capita-Income-in-Vietnam-from-a-Green-Economy-Perspective.aspx?ID=985",
+        "type": "TEXT",
+        "x": 977,
+        "y": 355,
+        "width": 386,
+        "height": 46,
+        "visible": true,
+        "characters": "https://www.world-economics-journal.com/Papers/CO2-Emissions-Economic-Growth-and-Per-Capita-Income-in-Vietnam-from-a-Green-Economy-Perspective.aspx?ID=985",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 14,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "textAlignHorizontal": "JUSTIFIED",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "82:56",
+        "name": "Group 1",
+        "type": "GROUP",
+        "x": 572,
+        "y": 29,
+        "width": 828,
+        "height": 29,
+        "visible": true,
+        "opacity": 1,
+        "reactions": [],
+        "children": [
+          {
+            "id": "82:57",
+            "name": "About Me",
+            "type": "TEXT",
+            "x": 696,
+            "y": 29,
+            "width": 154,
+            "height": 29,
+            "visible": true,
+            "characters": "About Me",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:58",
+            "name": "Home",
+            "type": "TEXT",
+            "x": 572,
+            "y": 29,
+            "width": 89,
+            "height": 29,
+            "visible": true,
+            "characters": "Home",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:59",
+            "name": "Sprituality",
+            "type": "TEXT",
+            "x": 1241,
+            "y": 29,
+            "width": 159,
+            "height": 29,
+            "visible": true,
+            "characters": "Sprituality",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:60",
+            "name": "inquiry",
+            "type": "TEXT",
+            "x": 885,
+            "y": 29,
+            "width": 111,
+            "height": 29,
+            "visible": true,
+            "characters": "inquiry",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:61",
+            "name": "Community",
+            "type": "TEXT",
+            "x": 1031,
+            "y": 29,
+            "width": 175,
+            "height": 29,
+            "visible": true,
+            "characters": "Community",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "111:3",
+        "name": "image 21",
+        "type": "RECTANGLE",
+        "x": 88,
+        "y": 114,
+        "width": 94,
+        "height": 93,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0.36000001430511475,
+              "contrast": -0.5333333214124044,
+              "saturation": 0.5400000214576721,
+              "temperature": 0.27000001072883606,
+              "tint": -0.38999998569488525,
+              "highlights": -0.5600000023841858,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "1a49e71d1125070e20149956ee33a71504e163bf"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      }
+    ]
+  },
+  {
+    "id": "8:359",
+    "name": "inquiry",
+    "type": "FRAME",
+    "x": 3006,
+    "y": 3596,
+    "width": 1440,
+    "height": 744,
+    "visible": true,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "boundVariables": {}
+      }
+    ],
+    "opacity": 1,
+    "reactions": [],
+    "children": [
+      {
+        "id": "8:360",
+        "name": "image 25",
+        "type": "RECTANGLE",
+        "x": -66,
+        "y": 744,
+        "width": 743.9999389648438,
+        "height": 1612,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 0.30000001192092896,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:362",
+        "name": "Theicption Platform",
+        "type": "TEXT",
+        "x": 194,
+        "y": 132,
+        "width": 614,
+        "height": 58,
+        "visible": true,
+        "characters": "Theicption Platform",
+        "fontName": {
+          "family": "Conthrax",
+          "style": "Semi Bold"
+        },
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "textAlignHorizontal": "LEFT",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:369",
+        "name": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters. That idea became Theicption, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.",
+        "type": "TEXT",
+        "x": 97,
+        "y": 224,
+        "width": 452,
+        "height": 310,
+        "visible": true,
+        "characters": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters.\nThat idea became Theicption, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.\n",
+        "fontName": {
+          "family": "Abhaya Libre",
+          "style": "Regular"
+        },
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "textAlignHorizontal": "JUSTIFIED",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "8:370",
+        "name": "Group 2",
+        "type": "GROUP",
+        "x": 685,
+        "y": 702,
+        "width": 70,
+        "height": 10,
+        "visible": true,
+        "opacity": 1,
+        "reactions": [],
+        "children": [
+          {
+            "id": "8:371",
+            "name": "Ellipse 1",
+            "type": "ELLIPSE",
+            "x": 685,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:372",
+            "name": "Ellipse 2",
+            "type": "ELLIPSE",
+            "x": 700,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:373",
+            "name": "Ellipse 3",
+            "type": "ELLIPSE",
+            "x": 715,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:374",
+            "name": "Ellipse 4",
+            "type": "ELLIPSE",
+            "x": 730,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "8:375",
+            "name": "Ellipse 5",
+            "type": "ELLIPSE",
+            "x": 745,
+            "y": 702,
+            "width": 10,
+            "height": 10,
+            "visible": true,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          }
+        ]
+      },
+      {
+        "id": "8:300",
+        "name": "image 24",
+        "type": "RECTANGLE",
+        "x": 97,
+        "y": 113,
+        "width": 84,
+        "height": 84,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "CROP",
+            "scalingFactor": 0.5,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                0.8695651888847351,
+                0,
+                0.06521739065647125
+              ],
+              [
+                0,
+                0.8695652484893799,
+                0.06521739065647125
+              ]
+            ],
+            "imageHash": "df3946397d0beaa3c9283cfce1a5dbce9323b973"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "71:7",
+        "name": "image 44",
+        "type": "RECTANGLE",
+        "x": 773,
+        "y": 132,
+        "width": 481,
+        "height": 503,
+        "visible": true,
+        "fills": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "scalingFactor": 0.5,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "imageHash": "0f2bc6af1ce06cd16d59c3b7d51611ffb888c787"
+          }
+        ],
+        "opacity": 1,
+        "reactions": []
+      },
+      {
+        "id": "82:63",
+        "name": "Group 1",
+        "type": "GROUP",
+        "x": 572,
+        "y": 29,
+        "width": 828,
+        "height": 29,
+        "visible": true,
+        "opacity": 1,
+        "reactions": [],
+        "children": [
+          {
+            "id": "82:64",
+            "name": "About Me",
+            "type": "TEXT",
+            "x": 696,
+            "y": 29,
+            "width": 154,
+            "height": 29,
+            "visible": true,
+            "characters": "About Me",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:65",
+            "name": "Home",
+            "type": "TEXT",
+            "x": 572,
+            "y": 29,
+            "width": 89,
+            "height": 29,
+            "visible": true,
+            "characters": "Home",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:66",
+            "name": "Sprituality",
+            "type": "TEXT",
+            "x": 1241,
+            "y": 29,
+            "width": 159,
+            "height": 29,
+            "visible": true,
+            "characters": "Sprituality",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:67",
+            "name": "inquiry",
+            "type": "TEXT",
+            "x": 885,
+            "y": 29,
+            "width": 111,
+            "height": 29,
+            "visible": true,
+            "characters": "inquiry",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": false,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          },
+          {
+            "id": "82:68",
+            "name": "Community",
+            "type": "TEXT",
+            "x": 1031,
+            "y": 29,
+            "width": 175,
+            "height": 29,
+            "visible": true,
+            "characters": "Community",
+            "fontName": {
+              "family": "Conthrax",
+              "style": "Semi Bold"
+            },
+            "fontSize": 24,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "textAlignHorizontal": "LEFT",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ],
+            "opacity": 1,
+            "reactions": []
+          }
+        ]
+      }
+    ]
+  }
+]

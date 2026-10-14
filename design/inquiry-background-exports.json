@@ -1,0 +1,27 @@
+[
+  {
+    "frameId": "7:240",
+    "sourceNodes": [
+      "8:270",
+      "8:267"
+    ],
+    "path": "inquiry/intro-background@2x.png",
+    "width": 2880,
+    "height": 1488,
+    "bytes": 5396900,
+    "scale": 2,
+    "note": "Only source background layers, no text or interactive planets; cloned frame was removed after export"
+  },
+  {
+    "frameId": "8:298",
+    "sourceNodes": [
+      "8:321"
+    ],
+    "path": "inquiry/project-background@2x.png",
+    "width": 2880,
+    "height": 1488,
+    "bytes": 2723963,
+    "scale": 2,
+    "note": "Only rotated source background layer clipped by original frame; reused by the four detail screens"
+  }
+]

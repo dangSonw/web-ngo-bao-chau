@@ -1,0 +1,65 @@
+{
+  "scope": "Community overview and five project screens",
+  "source": {
+    "fileKey": "xbGrAfGotyuHW835jkUfsn",
+    "frames": [
+      "25:17",
+      "25:39",
+      "26:2",
+      "26:24",
+      "26:46",
+      "26:68"
+    ],
+    "connection": "Live Figma Console Desktop Bridge probe and node reads succeeded",
+    "nodes": "design/community-live-nodes.json",
+    "typography": "design/community-type-exports.json: twelve cached glyph SVG exports, temporary clones removed",
+    "assets": "All live media image hashes/crops/filters/scale modes match existing local exports; source-layer duplicates retained",
+    "background": "New Community-only source background composite; detail background verified to match Inquiry exactly before reuse"
+  },
+  "implementation": {
+    "files": [
+      "src/pages/Community.jsx",
+      "src/pages/Community.css",
+      "src/data/communityPages.json",
+      "src/App.jsx",
+      "src/pages/Home.jsx",
+      "src/components/SubpageLayout.jsx",
+      "src/data/aboutPages.json"
+    ],
+    "routes": [
+      "/community",
+      "/community/tay-roots",
+      "/community/ban-sung",
+      "/community/y4c",
+      "/community/concert",
+      "/community/bright-paths"
+    ],
+    "behavior": "Five intro planets plus their full labels link to the projects. Six pagination links and Space loop within Community. Top Home link returns Home."
+  },
+  "responsiveDecisions": [
+    "Preserve media slot coordinates and dimensions at 1440x744; reuse shared vertically centered canvas up to 2560px",
+    "Source Bright Paths caption extended beyond the Figma frame; clamp it inside the canvas so the complete name remains visible",
+    "Body and full source links flow rather than overlap; long detail pages may grow vertically beyond the 744px reference frame",
+    "Mobile gallery keeps all four photos in two columns and preserves source crops; order by shared source bottom edges then left-to-right",
+    "Project intro preserves stacked source image layers; mobile uses readable wrapped text for the source captions"
+  ],
+  "checks": {
+    "browser": "design/community-qa/results.json: 90 cases, 15 sizes per screen, 375–3840px, width599/601,1200/1201,height660/661",
+    "sourceSlots": "All original content image/emblem rectangles matched source x/y/width/height within 0.1px at 1440x744 relative to frame",
+    "interactions": "Two Space loops, six dots without Home, five chapter links, source links and targets, focus/Enter, Arrow keys/Home/End, Back/Forward and main nav passed",
+    "runtime": "No pageerrors, console errors/warnings or HTTP resource errors",
+    "hmr": "design/community-qa/hmr-results.json: hot update without document reload; Space remained functional",
+    "regression": "scripts/check-section-navigation.mjs passed for About, Inquiry and Community; cross-section navigation and Space checked",
+    "bootstrap": "Reload and direct Community subroute reset to Home, as required by workspace",
+    "reducedMotion": "Immediate page transitions; regular 0.25s fade verified",
+    "build": "npm run build passed",
+    "assets": "Asset files, dimensions, SVG roots, UTF-8 docs, manifest and export cleanup verified",
+    "graph": "Graph read before edits succeeded. Reindex and post-edit search both failed with Transport closed. Final callers, routes, imports and styles were checked directly in source; post-edit graph coverage is unverified.",
+    "git": "No .git; no commit"
+  },
+  "limitations": [
+    "Conthrax is missing in Figma Desktop; original cached glyph outlines are used as SVG",
+    "External website availability/content was not tested; hrefs and target behavior match source",
+    "The overview body text matches Figma, including its reuse of the Inquiry introduction"
+  ]
+}

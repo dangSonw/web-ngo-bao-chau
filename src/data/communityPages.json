@@ -1,0 +1,790 @@
+{
+  "pages": [
+    {
+      "key": "overview",
+      "route": "/community",
+      "frameId": "25:17",
+      "title": {
+        "path": "community/type/overview-title.svg",
+        "text": "community",
+        "width": 342,
+        "height": 58,
+        "offsetX": 1.871999979019165,
+        "offsetY": 8.903998374938965,
+        "artWidth": 340.0,
+        "artHeight": 47.0
+      },
+      "titleX": 97,
+      "titleY": 137,
+      "body": "An answer is rarely the end of the process.\nWhen something seems obvious, I want to understand what makes it so: the patterns, connections, and assumptions beneath it. I tend to follow a question further, especially when something does not quite add up. Curiosity, for me, is a way of looking closer and questioning what seems certain.\nUranus offers a fitting parallel. Beneath its seemingly simple atmosphere lies a complex interior unlike that of the planets we know best. Perhaps the most interesting answers are things that are hidden beneath what first appears obvious, waiting to be understood.",
+      "bodyX": 97,
+      "bodyY": 201,
+      "bodyWidth": 452,
+      "background": "community/intro-background@2x.png",
+      "media": [
+        {
+          "nodeId": "32:14",
+          "path": "community/image-25__32-14@2x.png",
+          "x": 1313,
+          "y": 421,
+          "width": 88,
+          "height": 88,
+          "alt": ""
+        },
+        {
+          "nodeId": "25:19",
+          "path": "inquiry/image-24__8-291@2x.png",
+          "x": 1248,
+          "y": 542,
+          "width": 80,
+          "height": 80,
+          "alt": ""
+        },
+        {
+          "nodeId": "25:20",
+          "path": "community/image-25__32-14@2x.png",
+          "x": 782,
+          "y": 542,
+          "width": 88,
+          "height": 88,
+          "alt": ""
+        },
+        {
+          "nodeId": "25:21",
+          "path": "inquiry/image-22__8-285@2x.png",
+          "x": 665,
+          "y": 366,
+          "width": 120,
+          "height": 120,
+          "alt": ""
+        },
+        {
+          "nodeId": "99:234",
+          "path": "inquiry/image-24__8-291@2x.png",
+          "x": 1248,
+          "y": 542,
+          "width": 80,
+          "height": 80,
+          "alt": ""
+        },
+        {
+          "nodeId": "99:235",
+          "path": "inquiry/image-23__8-288@2x.png",
+          "x": 782,
+          "y": 542,
+          "width": 88,
+          "height": 88,
+          "alt": ""
+        },
+        {
+          "nodeId": "99:236",
+          "path": "inquiry/image-22__8-285@2x.png",
+          "x": 665,
+          "y": 366,
+          "width": 120,
+          "height": 120,
+          "alt": ""
+        },
+        {
+          "nodeId": "99:237",
+          "path": "inquiry/image-21__8-282@2x.png",
+          "x": 1033,
+          "y": 469,
+          "width": 125,
+          "height": 125,
+          "alt": ""
+        }
+      ],
+      "emblems": [],
+      "chapters": [
+        {
+          "key": "tay-roots",
+          "route": "/community/tay-roots",
+          "image": {
+            "nodeId": "99:236",
+            "path": "inquiry/image-22__8-285@2x.png",
+            "x": 665,
+            "y": 366,
+            "width": 120,
+            "height": 120,
+            "alt": "THE TAY ROOTS"
+          },
+          "label": {
+            "path": "community/type/tay-roots-label.svg",
+            "text": "THE TAY ROOTS",
+            "width": 166,
+            "height": 19,
+            "offsetX": 0.3680000305175781,
+            "offsetY": 3.799999237060547,
+            "artWidth": 164.0,
+            "artHeight": 12.0
+          },
+          "labelX": 10,
+          "labelY": 120,
+          "sourceLabelX": 675,
+          "sourceLabelY": 486,
+          "layers": [
+            {
+              "nodeId": "25:21",
+              "path": "inquiry/image-22__8-285@2x.png",
+              "x": 665,
+              "y": 366,
+              "width": 120,
+              "height": 120,
+              "alt": ""
+            },
+            {
+              "nodeId": "99:236",
+              "path": "inquiry/image-22__8-285@2x.png",
+              "x": 665,
+              "y": 366,
+              "width": 120,
+              "height": 120,
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "key": "ban-sung",
+          "route": "/community/ban-sung",
+          "image": {
+            "nodeId": "99:235",
+            "path": "inquiry/image-23__8-288@2x.png",
+            "x": 782,
+            "y": 542,
+            "width": 88,
+            "height": 88,
+            "alt": "Ban Sung Project"
+          },
+          "label": {
+            "path": "community/type/ban-sung-label.svg",
+            "text": "Ban Sung Project",
+            "width": 183,
+            "height": 19,
+            "offsetX": 1.2673125267028809,
+            "offsetY": 2.9679994583129883,
+            "artWidth": 182.0,
+            "artHeight": 16.0
+          },
+          "labelX": -48,
+          "labelY": 96,
+          "sourceLabelX": 734,
+          "sourceLabelY": 638,
+          "layers": [
+            {
+              "nodeId": "25:20",
+              "path": "community/image-25__32-14@2x.png",
+              "x": 782,
+              "y": 542,
+              "width": 88,
+              "height": 88,
+              "alt": ""
+            },
+            {
+              "nodeId": "99:235",
+              "path": "inquiry/image-23__8-288@2x.png",
+              "x": 782,
+              "y": 542,
+              "width": 88,
+              "height": 88,
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "key": "y4c",
+          "route": "/community/y4c",
+          "image": {
+            "nodeId": "99:237",
+            "path": "inquiry/image-21__8-282@2x.png",
+            "x": 1033,
+            "y": 469,
+            "width": 125,
+            "height": 125,
+            "alt": "Y4C"
+          },
+          "label": {
+            "path": "community/type/y4c-label.svg",
+            "text": "Y4C",
+            "width": 43,
+            "height": 19,
+            "offsetX": 0.438433438539505,
+            "offsetY": 3.799999237060547,
+            "artWidth": 42.0,
+            "artHeight": 12.0
+          },
+          "labelX": 40,
+          "labelY": 129,
+          "sourceLabelX": 1073,
+          "sourceLabelY": 598,
+          "layers": [
+            {
+              "nodeId": "99:237",
+              "path": "inquiry/image-21__8-282@2x.png",
+              "x": 1033,
+              "y": 469,
+              "width": 125,
+              "height": 125,
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "key": "concert",
+          "route": "/community/concert",
+          "image": {
+            "nodeId": "99:234",
+            "path": "inquiry/image-24__8-291@2x.png",
+            "x": 1248,
+            "y": 542,
+            "width": 80,
+            "height": 80,
+            "alt": "“Viet Nam Tinh Hoa” Concert"
+          },
+          "label": {
+            "path": "community/type/concert-label.svg",
+            "text": "“Viet Nam Tinh Hoa” Concert",
+            "width": 295,
+            "height": 19,
+            "offsetX": 1.4923750162124634,
+            "offsetY": 2.9679994583129883,
+            "artWidth": 293.0,
+            "artHeight": 13.0
+          },
+          "labelX": -111,
+          "labelY": 86,
+          "sourceLabelX": 1141,
+          "sourceLabelY": 628,
+          "layers": [
+            {
+              "nodeId": "25:19",
+              "path": "inquiry/image-24__8-291@2x.png",
+              "x": 1248,
+              "y": 542,
+              "width": 80,
+              "height": 80,
+              "alt": ""
+            },
+            {
+              "nodeId": "99:234",
+              "path": "inquiry/image-24__8-291@2x.png",
+              "x": 1248,
+              "y": 542,
+              "width": 80,
+              "height": 80,
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "key": "bright-paths",
+          "route": "/community/bright-paths",
+          "image": {
+            "nodeId": "32:14",
+            "path": "community/image-25__32-14@2x.png",
+            "x": 1313,
+            "y": 421,
+            "width": 88,
+            "height": 88,
+            "alt": "Bright Paths Mù Cang Chải"
+          },
+          "label": {
+            "path": "community/type/bright-paths-label.svg",
+            "text": "Bright Paths Mù Cang Chải",
+            "width": 280,
+            "height": 19,
+            "offsetX": 1.3923125267028809,
+            "offsetY": 1.9439992904663086,
+            "artWidth": 278.0,
+            "artHeight": 17.0
+          },
+          "labelX": -161,
+          "labelY": 96,
+          "sourceLabelX": 1208,
+          "sourceLabelY": 517,
+          "layers": [
+            {
+              "nodeId": "32:14",
+              "path": "community/image-25__32-14@2x.png",
+              "x": 1313,
+              "y": 421,
+              "width": 88,
+              "height": 88,
+              "alt": ""
+            }
+          ]
+        }
+      ],
+      "sources": []
+    },
+    {
+      "key": "tay-roots",
+      "route": "/community/tay-roots",
+      "frameId": "25:39",
+      "title": {
+        "path": "community/type/tay-roots-title.svg",
+        "text": "THE TAY ROOTS",
+        "width": 496,
+        "height": 58,
+        "offsetX": 1.1040000915527344,
+        "offsetY": 11.39999771118164,
+        "artWidth": 492.0,
+        "artHeight": 34.0
+      },
+      "titleX": 213,
+      "titleY": 132,
+      "body": "I believe education becomes more meaningful when it grows from the community itself. Through The Tay Roots Project, I teach English to nearly 40 students from primary to high school through both online classes and regular trips to Tuyên Quang, where we meet in person every two months. I help develop lessons from foundational to more advanced English, connecting what we teach with local life, Tày culture, and the landscapes around them.\nOur visits go beyond the classroom. We create opportunities for the students to experience and share their own culture, while bringing small gifts and activities that make each visit something they can look forward to. The project was later featured by Tuyên Quang Newspaper for its work connecting English education with Tày cultural heritage and local communities.",
+      "bodyX": 97,
+      "bodyY": 224,
+      "bodyWidth": 496,
+      "background": "inquiry/project-background@2x.png",
+      "media": [
+        {
+          "nodeId": "26:91",
+          "path": "community/image-31__26-91@2x.png",
+          "x": 606,
+          "y": 190,
+          "width": 359,
+          "height": 197,
+          "alt": "THE TAY ROOTS activity photo 2"
+        },
+        {
+          "nodeId": "26:93",
+          "path": "community/image-32__26-93@2x.png",
+          "x": 981,
+          "y": 132,
+          "width": 359,
+          "height": 255,
+          "alt": "THE TAY ROOTS activity photo 1"
+        },
+        {
+          "nodeId": "26:94",
+          "path": "community/image-33__26-94@2x.png",
+          "x": 606,
+          "y": 403,
+          "width": 359,
+          "height": 255,
+          "alt": "THE TAY ROOTS activity photo 3"
+        },
+        {
+          "nodeId": "26:95",
+          "path": "community/image-34__26-95@2x.png",
+          "x": 981,
+          "y": 403,
+          "width": 359,
+          "height": 255,
+          "alt": "THE TAY ROOTS activity photo 4"
+        }
+      ],
+      "emblems": [
+        {
+          "nodeId": "25:56",
+          "path": "inquiry/image-22__8-302@2x.png",
+          "x": 97,
+          "y": 98,
+          "width": 100,
+          "height": 100,
+          "alt": "THE TAY ROOTS planet",
+          "relativeX": 0.0,
+          "relativeY": 0.0,
+          "relativeWidth": 100.0,
+          "relativeHeight": 100.0
+        }
+      ],
+      "chapters": [],
+      "sources": [
+        {
+          "url": "https://www.facebook.com/share/187dh6y6QA/?mibextid=wwXIfr",
+          "prefix": "Facebook: "
+        },
+        {
+          "url": "https://baotuyenquang.com.vn/van-hoa/202608/du-an-tay-roots-mot-nam-gan-ket-tri-thuc-va-van-hoa-65a31e6/",
+          "prefix": "Paper:\n"
+        },
+        {
+          "url": "https://baotuyenquang.com.vn/multimedia/video/202608/du-an-tay-roots-tu-tieng-anh-den-tinh-yeu-que-huong-5be4202/?gidzl=lKzN387DhnErL5y3YTIe4BzNNWALqVmNe5K81S3J_qQcKWS7bTprHA1TLGV7YQ4JymW51p84jy4dYica60",
+          "prefix": ""
+        },
+        {
+          "url": "https://baotuyenquang.com.vn/xa-hoi/202511/du-an-tay-roots-ket-noi-tri-thuc-lan-toa-van-hoa-nguoi-tay-a170999/?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo",
+          "prefix": ""
+        },
+        {
+          "url": "https://www.facebook.com/share/v/1NK8mT9Nvs/",
+          "prefix": ""
+        }
+      ],
+      "sourceNodeId": "25:60",
+      "sourceText": "Facebook: https://www.facebook.com/share/187dh6y6QA/?mibextid=wwXIfr\nPaper:\nhttps://baotuyenquang.com.vn/van-hoa/202608/du-an-tay-roots-mot-nam-gan-ket-tri-thuc-va-van-hoa-65a31e6/\nhttps://baotuyenquang.com.vn/multimedia/video/202608/du-an-tay-roots-tu-tieng-anh-den-tinh-yeu-que-huong-5be4202/?gidzl=lKzN387DhnErL5y3YTIe4BzNNWALqVmNe5K81S3J_qQcKWS7bTprHA1TLGV7YQ4JymW51p84jy4dYica60\nhttps://baotuyenquang.com.vn/xa-hoi/202511/du-an-tay-roots-ket-noi-tri-thuc-lan-toa-van-hoa-nguoi-tay-a170999/?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo\nhttps://www.facebook.com/share/v/1NK8mT9Nvs/"
+    },
+    {
+      "key": "ban-sung",
+      "route": "/community/ban-sung",
+      "frameId": "26:2",
+      "title": {
+        "path": "community/type/ban-sung-title.svg",
+        "text": "Ban Sung Project",
+        "width": 548,
+        "height": 58,
+        "offsetX": 3.2160000801086426,
+        "offsetY": 8.903998374938965,
+        "artWidth": 544.0,
+        "artHeight": 47.0
+      },
+      "titleX": 213,
+      "titleY": 132,
+      "body": "Bản Sưng is a Dao community in Hòa Bình, northern Vietnam, where I joined the Bản Sưng Project and worked alongside local villagers to repair 2 km of mountain roads, contributing to safer access and essential community infrastructure. I also spent time with 30+ local households, taking part in cultural exchanges and learning through hands-on experiences such as making Dó paper, dyeing indigo, and exploring the community’s traditional script.\nWorking directly with the community showed me that contribution is not only about what I can bring, but also about what I am willing to learn. I saw how practical work could support everyday life, while cultural exchange gave me a deeper understanding of the traditions behind the community. I left Bản Sưng seeing community engagement as a two-way exchange—one where contributing and learning can happen at the same time.",
+      "bodyX": 97,
+      "bodyY": 224,
+      "bodyWidth": 452,
+      "background": "inquiry/project-background@2x.png",
+      "media": [
+        {
+          "nodeId": "26:96",
+          "path": "community/image-31__26-96@2x.png",
+          "x": 606,
+          "y": 206,
+          "width": 359,
+          "height": 181,
+          "alt": "Ban Sung Project activity photo 2"
+        },
+        {
+          "nodeId": "26:98",
+          "path": "community/image-32__26-98@2x.png",
+          "x": 981,
+          "y": 132,
+          "width": 359,
+          "height": 255,
+          "alt": "Ban Sung Project activity photo 1"
+        },
+        {
+          "nodeId": "26:97",
+          "path": "community/image-33__26-97@2x.png",
+          "x": 606,
+          "y": 403,
+          "width": 359,
+          "height": 255,
+          "alt": "Ban Sung Project activity photo 3"
+        },
+        {
+          "nodeId": "26:99",
+          "path": "community/image-34__26-99@2x.png",
+          "x": 981,
+          "y": 403,
+          "width": 359,
+          "height": 255,
+          "alt": "Ban Sung Project activity photo 4"
+        }
+      ],
+      "emblems": [
+        {
+          "nodeId": "39:55",
+          "path": "community/image-23__39-55@2x.png",
+          "x": 93,
+          "y": 103,
+          "width": 104,
+          "height": 103,
+          "alt": "Ban Sung Project planet",
+          "relativeX": 0.0,
+          "relativeY": 1.834862385321101,
+          "relativeWidth": 94.54545454545455,
+          "relativeHeight": 94.4954128440367
+        },
+        {
+          "nodeId": "111:5",
+          "path": "community/image-27__111-5@2x.png",
+          "x": 93,
+          "y": 101,
+          "width": 110,
+          "height": 109,
+          "alt": "Ban Sung Project planet",
+          "relativeX": 0.0,
+          "relativeY": 0.0,
+          "relativeWidth": 100.0,
+          "relativeHeight": 100.0
+        }
+      ],
+      "chapters": [],
+      "sources": []
+    },
+    {
+      "key": "y4c",
+      "route": "/community/y4c",
+      "frameId": "26:24",
+      "title": {
+        "path": "community/type/y4c-title.svg",
+        "text": "Y4C",
+        "width": 128,
+        "height": 58,
+        "offsetX": 0.5184253454208374,
+        "offsetY": 11.39999771118164,
+        "artWidth": 125.0,
+        "artHeight": 34.0
+      },
+      "titleX": 213,
+      "titleY": 132,
+      "body": "As a volunteer in the Youth for Community (Y4C) Program by Tiền Phong Newspaper, I joined a rural community initiative that combined practical infrastructure work with STEM education. I helped install over solar-powered streetlights, contributing to safer and more sustainable local infrastructure, while also facilitating interactive STEM sessions for 100+ children, turning scientific concepts into hands-on activities.\nWorking across both community service and education showed me how small, practical interventions can create different kinds of impact: a streetlight can change how a community uses its surroundings after dark, while an engaging STEM activity can change how a child approaches a question. The project was later featured by Tiền Phong Newspaper, highlighting the program’s community work.",
+      "bodyX": 97,
+      "bodyY": 224,
+      "bodyWidth": 452,
+      "background": "inquiry/project-background@2x.png",
+      "media": [
+        {
+          "nodeId": "26:100",
+          "path": "community/image-31__26-100@2x.png",
+          "x": 606,
+          "y": 132,
+          "width": 359,
+          "height": 255,
+          "alt": "Y4C activity photo 1"
+        },
+        {
+          "nodeId": "26:102",
+          "path": "community/image-32__26-102@2x.png",
+          "x": 981,
+          "y": 132,
+          "width": 359,
+          "height": 255,
+          "alt": "Y4C activity photo 2"
+        },
+        {
+          "nodeId": "26:101",
+          "path": "community/image-33__26-101@2x.png",
+          "x": 606,
+          "y": 403,
+          "width": 359,
+          "height": 255,
+          "alt": "Y4C activity photo 3"
+        },
+        {
+          "nodeId": "26:103",
+          "path": "community/image-34__26-103@2x.png",
+          "x": 981,
+          "y": 403,
+          "width": 359,
+          "height": 255,
+          "alt": "Y4C activity photo 4"
+        }
+      ],
+      "emblems": [
+        {
+          "nodeId": "111:7",
+          "path": "community/image-29__111-7@2x.png",
+          "x": 97,
+          "y": 118,
+          "width": 92,
+          "height": 91,
+          "alt": "Y4C planet",
+          "relativeX": 0.0,
+          "relativeY": 0.0,
+          "relativeWidth": 100.0,
+          "relativeHeight": 100.0
+        }
+      ],
+      "chapters": [],
+      "sources": [
+        {
+          "url": "https://www.facebook.com/share/19RxcWBkNT/?mibextid=wwXIfrrr",
+          "prefix": "Facebook: "
+        },
+        {
+          "url": "https://tienphong.vn/y4c-den-bao-thang-ngay-khoi-dau-tu-lop-hoc-anh-sang-va-su-se-chia-post1817599.tpo",
+          "prefix": "Paper:\n"
+        },
+        {
+          "url": "https://share.google/1MGCxUqKH14ROOYYz",
+          "prefix": ""
+        }
+      ],
+      "sourceNodeId": "26:45",
+      "sourceText": "Facebook:https://www.facebook.com/share/19RxcWBkNT/?mibextid=wwXIfrrr\nPapper:\nhttps://tienphong.vn/y4c-den-bao-thang-ngay-khoi-dau-tu-lop-hoc-anh-sang-va-su-se-chia-post1817599.tpo\nhttps://share.google/1MGCxUqKH14ROOYYz"
+    },
+    {
+      "key": "concert",
+      "route": "/community/concert",
+      "frameId": "26:46",
+      "title": {
+        "path": "community/type/concert-title.svg",
+        "text": "“Viet Nam Tinh Hoa” Concert",
+        "width": 883,
+        "height": 58,
+        "offsetX": 3.0240001678466797,
+        "offsetY": 8.903998374938965,
+        "artWidth": 879.0,
+        "artHeight": 37.0
+      },
+      "titleX": 213,
+      "titleY": 132,
+      "body": "Traditional Vietnamese music carries stories that deserve to be heard by new generations. As a Public Relations Specialist for the Aria Project’s “Viet Nam Tinh Hoa” Concert, I worked on making those stories more accessible to younger audiences through modern cultural storytelling.\nI developed social media strategies, managed the concert’s official Facebook communications, wrote press releases, and produced promotional media assets to build interest and encourage attendance. I also coordinated promotion across channels for the free concert, helping connect its cultural message with a wider audience. Beyond communication, the project contributed to a 50,000,000 VND charity fund supporting children and youth through MSD Vietnam’s community programs.\nThis experience showed me that advocacy can take many forms. Sometimes, it means creating the space for a tradition to be seen, understood, and carried forward by people who might otherwise feel distant from it. For me, communication became a way of connecting culture, younger audiences, and community impact.",
+      "bodyX": 97,
+      "bodyY": 221,
+      "bodyWidth": 452,
+      "background": "inquiry/project-background@2x.png",
+      "media": [
+        {
+          "nodeId": "26:105",
+          "path": "community/image-31__26-105@2x.png",
+          "x": 606,
+          "y": 198,
+          "width": 359,
+          "height": 189,
+          "alt": "“Viet Nam Tinh Hoa” Concert activity photo 2"
+        },
+        {
+          "nodeId": "26:107",
+          "path": "community/image-32__26-107@2x.png",
+          "x": 981,
+          "y": 197,
+          "width": 359,
+          "height": 190,
+          "alt": "“Viet Nam Tinh Hoa” Concert activity photo 1"
+        },
+        {
+          "nodeId": "26:106",
+          "path": "community/image-33__26-106@2x.png",
+          "x": 606,
+          "y": 403,
+          "width": 359,
+          "height": 255,
+          "alt": "“Viet Nam Tinh Hoa” Concert activity photo 3"
+        },
+        {
+          "nodeId": "26:108",
+          "path": "community/image-34__26-108@2x.png",
+          "x": 981,
+          "y": 403,
+          "width": 359,
+          "height": 255,
+          "alt": "“Viet Nam Tinh Hoa” Concert activity photo 4"
+        }
+      ],
+      "emblems": [
+        {
+          "nodeId": "39:57",
+          "path": "community/image-24__39-57@2x.png",
+          "x": 97,
+          "y": 113,
+          "width": 84,
+          "height": 84,
+          "alt": "“Viet Nam Tinh Hoa” Concert planet",
+          "relativeX": 0.0,
+          "relativeY": 0.0,
+          "relativeWidth": 100.0,
+          "relativeHeight": 100.0
+        }
+      ],
+      "chapters": [],
+      "sources": [
+        {
+          "url": "https://www.facebook.com/share/19NYqsvFFH/?mibextid=wwXIfr",
+          "prefix": "Facebook: "
+        },
+        {
+          "url": "https://thieunien.vn/dem-hoa-nhac-viet-nam-tinh-hoa-lan-toa-yeu-thuong-tu-nhung-nguoi-tre-tbd68133.html?gidzl=R9G14k-fprriZ00GvB7EMcM301RxkiPSSea05V3ZoGrnsmH1zBN8MIA9L1AavfDR9jnUH3Im2_vwxQt8KG",
+          "prefix": "Paper:\n"
+        }
+      ],
+      "sourceNodeId": "26:57",
+      "sourceText": "Facebook: https://www.facebook.com/share/19NYqsvFFH/?mibextid=wwXIfr\nPapper:\nhttps://thieunien.vn/dem-hoa-nhac-viet-nam-tinh-hoa-lan-toa-yeu-thuong-tu-nhung-nguoi-tre-tbd68133.html?gidzl=R9G14k-fprriZ00GvB7EMcM301RxkiPSSea05V3ZoGrnsmH1zBN8MIA9L1AavfDR9jnUH3Im2_vwxQt8KG"
+    },
+    {
+      "key": "bright-paths",
+      "route": "/community/bright-paths",
+      "frameId": "26:68",
+      "title": {
+        "path": "community/type/bright-paths-title.svg",
+        "text": "Bright Paths Mù Cang Chải",
+        "width": 839,
+        "height": 58,
+        "offsetX": 3.2160000801086426,
+        "offsetY": 5.831997871398926,
+        "artWidth": 832.0,
+        "artHeight": 50.0
+      },
+      "titleX": 213,
+      "titleY": 132,
+      "body": "In Mù Cang Chải, Yên Bái, the road to a classroom is sometimes a mountain trail.\nI joined Bright Paths on a journey into the highlands, carrying books, school supplies, clothes, and small things to brighten the days of over 80 local children. We learned, played, and shared stories together, discovering that cultural exchange can be just as meaningful as what we brought with us.\nAlongside the local community, we also helped install more than 10 solar lighting poles, bringing light to paths and homes after sunset.\nFor a few days, I stepped outside the familiar world I knew. I learned that making a difference does not always begin with something extraordinary. Sometimes, it begins with carrying a box up a mountain, sitting beside a child, and leaving behind a little light.",
+      "bodyX": 97,
+      "bodyY": 221,
+      "bodyWidth": 452,
+      "background": "inquiry/project-background@2x.png",
+      "media": [
+        {
+          "nodeId": "26:110",
+          "path": "community/image-31__26-110@2x.png",
+          "x": 606,
+          "y": 201,
+          "width": 359,
+          "height": 200,
+          "alt": "Bright Paths Mù Cang Chải activity photo 1"
+        },
+        {
+          "nodeId": "26:112",
+          "path": "community/image-32__26-112@2x.png",
+          "x": 981,
+          "y": 204,
+          "width": 359,
+          "height": 197,
+          "alt": "Bright Paths Mù Cang Chải activity photo 2"
+        },
+        {
+          "nodeId": "26:111",
+          "path": "community/image-33__26-101@2x.png",
+          "x": 606,
+          "y": 417,
+          "width": 359,
+          "height": 255,
+          "alt": "Bright Paths Mù Cang Chải activity photo 3"
+        },
+        {
+          "nodeId": "26:113",
+          "path": "community/image-34__26-103@2x.png",
+          "x": 981,
+          "y": 417,
+          "width": 359,
+          "height": 255,
+          "alt": "Bright Paths Mù Cang Chải activity photo 4"
+        }
+      ],
+      "emblems": [
+        {
+          "nodeId": "39:58",
+          "path": "community/image-23__39-55@2x.png",
+          "x": 93,
+          "y": 103,
+          "width": 104,
+          "height": 103,
+          "alt": "Bright Paths Mù Cang Chải planet",
+          "relativeX": 0.0,
+          "relativeY": 0.0,
+          "relativeWidth": 100.0,
+          "relativeHeight": 100.0
+        }
+      ],
+      "chapters": [],
+      "sources": []
+    }
+  ],
+  "navigationLabels": {
+    "about": {
+      "path": "inquiry/type/nav-about.svg",
+      "text": "About Me",
+      "width": 154,
+      "height": 29,
+      "offsetX": 0.34666669368743896,
+      "offsetY": 3.9999985694885254,
+      "artWidth": 153,
+      "artHeight": 18
+    },
+    "community": {
+      "path": "community/type/nav-community.svg",
+      "text": "Community",
+      "width": 175,
+      "height": 29,
+      "offsetX": 1.4160001277923584,
+      "offsetY": 3.9519991874694824,
+      "artWidth": 175.0,
+      "artHeight": 26.0
+    }
+  }
+}

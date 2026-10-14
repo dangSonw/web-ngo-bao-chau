@@ -1,0 +1,332 @@
+[
+  {
+    "name": "reference",
+    "width": 1440,
+    "height": 744,
+    "layout": {
+      "width": 1440,
+      "height": 744,
+      "client": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 744,
+      "items": [
+        {
+          "name": "home__title",
+          "x": 74,
+          "y": 483,
+          "width": 619,
+          "height": 236,
+          "right": 693,
+          "bottom": 719
+        },
+        {
+          "name": "home__link home__link--about",
+          "x": 819,
+          "y": 515,
+          "width": 262,
+          "height": 59,
+          "right": 1081,
+          "bottom": 574
+        },
+        {
+          "name": "home__link home__link--community",
+          "x": 819,
+          "y": 613,
+          "width": 262,
+          "height": 78,
+          "right": 1081,
+          "bottom": 691
+        },
+        {
+          "name": "home__link home__link--inquiry",
+          "x": 1184,
+          "y": 434,
+          "width": 238,
+          "height": 78,
+          "right": 1422,
+          "bottom": 512
+        },
+        {
+          "name": "home__link home__link--spirituality",
+          "x": 1184,
+          "y": 574,
+          "width": 238,
+          "height": 78,
+          "right": 1422,
+          "bottom": 652
+        }
+      ]
+    },
+    "focus": {
+      "path": "/about-me",
+      "visible": true
+    },
+    "reducedMotion": "passed",
+    "bootstrap": "passed",
+    "errors": []
+  },
+  {
+    "name": "mobile",
+    "width": 375,
+    "height": 812,
+    "layout": {
+      "width": 375,
+      "height": 812,
+      "client": 375,
+      "scrollWidth": 375,
+      "scrollHeight": 812,
+      "items": [
+        {
+          "name": "home__title",
+          "x": 24,
+          "y": 291.828125,
+          "width": 327,
+          "height": 103.421875,
+          "right": 351,
+          "bottom": 395.25
+        },
+        {
+          "name": "home__link home__link--about",
+          "x": 24,
+          "y": 431.25,
+          "width": 327,
+          "height": 51.1875,
+          "right": 351,
+          "bottom": 482.4375
+        },
+        {
+          "name": "home__link home__link--community",
+          "x": 24,
+          "y": 510.4375,
+          "width": 327,
+          "height": 71.1875,
+          "right": 351,
+          "bottom": 581.625
+        },
+        {
+          "name": "home__link home__link--inquiry",
+          "x": 24,
+          "y": 609.625,
+          "width": 327,
+          "height": 71.1875,
+          "right": 351,
+          "bottom": 680.8125
+        },
+        {
+          "name": "home__link home__link--spirituality",
+          "x": 24,
+          "y": 708.8125,
+          "width": 327,
+          "height": 71.1875,
+          "right": 351,
+          "bottom": 780
+        }
+      ]
+    },
+    "focus": {
+      "path": "/about-me",
+      "visible": true
+    },
+    "reducedMotion": "passed",
+    "bootstrap": "passed",
+    "errors": []
+  },
+  {
+    "name": "tablet",
+    "width": 768,
+    "height": 1024,
+    "layout": {
+      "width": 768,
+      "height": 1024,
+      "client": 768,
+      "scrollWidth": 768,
+      "scrollHeight": 1024,
+      "items": [
+        {
+          "name": "home__title",
+          "x": 39.46875,
+          "y": 609.15625,
+          "width": 550,
+          "height": 173.96875,
+          "right": 589.46875,
+          "bottom": 783.125
+        },
+        {
+          "name": "home__link home__link--about",
+          "x": 39.46875,
+          "y": 823.125,
+          "width": 321.484375,
+          "height": 48.4375,
+          "right": 360.953125,
+          "bottom": 871.5625
+        },
+        {
+          "name": "home__link home__link--community",
+          "x": 39.46875,
+          "y": 899.5625,
+          "width": 321.484375,
+          "height": 68.4375,
+          "right": 360.953125,
+          "bottom": 968
+        },
+        {
+          "name": "home__link home__link--inquiry",
+          "x": 407.03125,
+          "y": 823.125,
+          "width": 321.5,
+          "height": 68.4375,
+          "right": 728.53125,
+          "bottom": 891.5625
+        },
+        {
+          "name": "home__link home__link--spirituality",
+          "x": 407.03125,
+          "y": 919.5625,
+          "width": 321.5,
+          "height": 68.4375,
+          "right": 728.53125,
+          "bottom": 988
+        }
+      ]
+    },
+    "focus": {
+      "path": "/about-me",
+      "visible": true
+    },
+    "reducedMotion": "passed",
+    "bootstrap": "passed",
+    "errors": []
+  },
+  {
+    "name": "full-hd",
+    "width": 1920,
+    "height": 1080,
+    "layout": {
+      "width": 1920,
+      "height": 1080,
+      "client": 1920,
+      "scrollWidth": 1920,
+      "scrollHeight": 1080,
+      "items": [
+        {
+          "name": "home__title",
+          "x": 98.65625,
+          "y": 732.015625,
+          "width": 825.328125,
+          "height": 314.65625,
+          "right": 923.984375,
+          "bottom": 1046.671875
+        },
+        {
+          "name": "home__link home__link--about",
+          "x": 1091.984375,
+          "y": 774.6875,
+          "width": 349.328125,
+          "height": 78.65625,
+          "right": 1441.3125,
+          "bottom": 853.34375
+        },
+        {
+          "name": "home__link home__link--community",
+          "x": 1091.984375,
+          "y": 905.34375,
+          "width": 349.328125,
+          "height": 103.984375,
+          "right": 1441.3125,
+          "bottom": 1009.328125
+        },
+        {
+          "name": "home__link home__link--inquiry",
+          "x": 1578.640625,
+          "y": 666.6875,
+          "width": 317.34375,
+          "height": 103.984375,
+          "right": 1895.984375,
+          "bottom": 770.671875
+        },
+        {
+          "name": "home__link home__link--spirituality",
+          "x": 1578.640625,
+          "y": 853.328125,
+          "width": 317.34375,
+          "height": 103.984375,
+          "right": 1895.984375,
+          "bottom": 957.3125
+        }
+      ]
+    },
+    "focus": {
+      "path": "/about-me",
+      "visible": true
+    },
+    "reducedMotion": "passed",
+    "bootstrap": "passed",
+    "errors": []
+  },
+  {
+    "name": "4k",
+    "width": 3840,
+    "height": 2160,
+    "layout": {
+      "width": 3840,
+      "height": 2160,
+      "client": 3840,
+      "scrollWidth": 3840,
+      "scrollHeight": 2160,
+      "items": [
+        {
+          "name": "home__title",
+          "x": 771.546875,
+          "y": 1696.015625,
+          "width": 1100.4375,
+          "height": 419.546875,
+          "right": 1871.984375,
+          "bottom": 2115.5625
+        },
+        {
+          "name": "home__link home__link--about",
+          "x": 2095.984375,
+          "y": 1752.90625,
+          "width": 465.765625,
+          "height": 104.890625,
+          "right": 2561.75,
+          "bottom": 1857.796875
+        },
+        {
+          "name": "home__link home__link--community",
+          "x": 2095.984375,
+          "y": 1927.125,
+          "width": 465.765625,
+          "height": 138.671875,
+          "right": 2561.75,
+          "bottom": 2065.796875
+        },
+        {
+          "name": "home__link home__link--inquiry",
+          "x": 2744.859375,
+          "y": 1608.90625,
+          "width": 423.125,
+          "height": 138.671875,
+          "right": 3167.984375,
+          "bottom": 1747.578125
+        },
+        {
+          "name": "home__link home__link--spirituality",
+          "x": 2744.859375,
+          "y": 1857.796875,
+          "width": 423.125,
+          "height": 138.671875,
+          "right": 3167.984375,
+          "bottom": 1996.46875
+        }
+      ]
+    },
+    "focus": {
+      "path": "/about-me",
+      "visible": true
+    },
+    "reducedMotion": "passed",
+    "bootstrap": "passed",
+    "errors": []
+  }
+]

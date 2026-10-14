@@ -1,0 +1,26 @@
+.figma-label {
+  --label-unit: var(--u, 1px);
+  display: block;
+  position: relative;
+  width: calc(var(--label-width) * var(--label-unit));
+  height: calc(var(--label-height) * var(--label-unit));
+}
+
+.figma-label img {
+  display: block;
+  position: absolute;
+  top: calc(var(--label-y) * var(--label-unit));
+  left: calc(var(--label-x) * var(--label-unit));
+  width: calc(var(--label-art-width) * var(--label-unit));
+  height: auto;
+  max-width: none;
+}
+
+.figma-label__text {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}

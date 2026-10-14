@@ -1,0 +1,24 @@
+{
+  "scope": "Logician slower zoom, Tab navigation, original-resolution certificates; Seeker five-planet orbit",
+  "source": "Live Figma Desktop Bridge verified original image dimensions and neutral FILL transforms; full source image bytes extracted without resampling",
+  "behavior": [
+    "Zoom easing reduced from rate 7 to 3 (~1 second to 95%), center easing rate 5",
+    "Tab/Shift+Tab traverse all eleven certificates including back cards via keyboard; pointer still selects front cards only",
+    "Escape restores rotation and permits Tab to leave",
+    "Images render at their displayed dimensions instead of magnifying a small rasterized CSS layer",
+    "Seeker five upright planets revolve around source point (1000,395), elliptical vertical ratio .75, one turn per 180 seconds",
+    "Reduced motion disables both automatic orbits and zoom transitions"
+  ],
+  "checks": {
+    "browser": "design/orbit-qa/results.json and motion-results.json",
+    "responsive": "13 sizes per affected route, 375 through 3840, 1200/1201 and 660/661 breakpoints",
+    "fullPlanetOrbit": "Analytical full-orbit extents fit the responsive scene for all five planets",
+    "runtime": "Zero console warnings/errors, resource HTTP errors or page errors",
+    "navigation": "Back/Forward, reload and direct subroute bootstrap reset passed",
+    "build": "npm run build passed",
+    "math": "node scripts/check-certificate-orbit.mjs passed",
+    "graph": "Reindexed; AboutMe -> CertificateOrbit/cycle/select and PlanetOrbit/render/useReducedMotion verified",
+    "git": "Project has no .git; no commit"
+  },
+  "assets": "design/orbit-source-assets.json; 11 original images, 1508–2048px longest edge; source resolution is the maximum available detail"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "25:25",
+    "name": "overview-title",
+    "path": "public/assets/community/type/overview-title.svg",
+    "width": 342,
+    "height": 58,
+    "offsetX": 1.871999979019165,
+    "offsetY": 8.903998374938965,
+    "bytes": 4513
+  },
+  {
+    "id": "25:42",
+    "name": "tay-roots-title",
+    "path": "public/assets/community/type/tay-roots-title.svg",
+    "width": 496,
+    "height": 58,
+    "offsetX": 1.1040000915527344,
+    "offsetY": 11.39999771118164,
+    "bytes": 4970
+  },
+  {
+    "id": "26:5",
+    "name": "ban-sung-title",
+    "path": "public/assets/community/type/ban-sung-title.svg",
+    "width": 548,
+    "height": 58,
+    "offsetX": 3.2160000801086426,
+    "offsetY": 8.903998374938965,
+    "bytes": 7244
+  },
+  {
+    "id": "26:27",
+    "name": "y4c-title",
+    "path": "public/assets/community/type/y4c-title.svg",
+    "width": 128,
+    "height": 58,
+    "offsetX": 0.5184253454208374,
+    "offsetY": 11.39999771118164,
+    "bytes": 1615
+  },
+  {
+    "id": "26:49",
+    "name": "concert-title",
+    "path": "public/assets/community/type/concert-title.svg",
+    "width": 883,
+    "height": 58,
+    "offsetX": 3.0240001678466797,
+    "offsetY": 8.903998374938965,
+    "bytes": 11818
+  },
+  {
+    "id": "26:71",
+    "name": "bright-paths-title",
+    "path": "public/assets/community/type/bright-paths-title.svg",
+    "width": 839,
+    "height": 58,
+    "offsetX": 3.2160000801086426,
+    "offsetY": 5.831997871398926,
+    "bytes": 11877
+  },
+  {
+    "id": "32:10",
+    "name": "tay-roots-label",
+    "path": "public/assets/community/type/tay-roots-label.svg",
+    "width": 166,
+    "height": 19,
+    "offsetX": 0.3680000305175781,
+    "offsetY": 3.799999237060547,
+    "bytes": 4862
+  },
+  {
+    "id": "32:11",
+    "name": "ban-sung-label",
+    "path": "public/assets/community/type/ban-sung-label.svg",
+    "width": 183,
+    "height": 19,
+    "offsetX": 1.2673125267028809,
+    "offsetY": 2.9679994583129883,
+    "bytes": 7013
+  },
+  {
+    "id": "32:12",
+    "name": "y4c-label",
+    "path": "public/assets/community/type/y4c-label.svg",
+    "width": 43,
+    "height": 19,
+    "offsetX": 0.438433438539505,
+    "offsetY": 3.799999237060547,
+    "bytes": 1571
+  },
+  {
+    "id": "32:13",
+    "name": "concert-label",
+    "path": "public/assets/community/type/concert-label.svg",
+    "width": 295,
+    "height": 19,
+    "offsetX": 1.4923750162124634,
+    "offsetY": 2.9679994583129883,
+    "bytes": 11492
+  },
+  {
+    "id": "32:16",
+    "name": "bright-paths-label",
+    "path": "public/assets/community/type/bright-paths-label.svg",
+    "width": 280,
+    "height": 19,
+    "offsetX": 1.3923125267028809,
+    "offsetY": 1.9439992904663086,
+    "bytes": 11575
+  },
+  {
+    "id": "82:99",
+    "name": "nav-community",
+    "path": "public/assets/community/type/nav-community.svg",
+    "width": 175,
+    "height": 29,
+    "offsetX": 1.4160001277923584,
+    "offsetY": 3.9519991874694824,
+    "bytes": 8581
+  }
+]

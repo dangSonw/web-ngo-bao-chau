@@ -1,0 +1,208 @@
+@font-face {
+  font-family: 'Abhaya Libre';
+  src: url('/assets/fonts/AbhayaLibre-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+.about__frame {
+  --u: calc(100cqw / 1440);
+  position: relative;
+  width: 100%;
+  height: calc(744 * var(--u));
+  font-family: 'Abhaya Libre', 'Times New Roman', serif;
+}
+
+.about__title {
+  position: absolute;
+  left: calc(var(--title-x) * var(--u));
+  top: calc(var(--title-y) * var(--u));
+  margin: 0;
+}
+
+.about__subtitle {
+  position: absolute;
+  left: calc(82 * var(--u));
+  top: calc(var(--subtitle-y) * var(--u));
+  font-size: calc(36.362319946 * var(--u));
+  line-height: calc(43 * var(--u));
+  font-weight: 400;
+  margin: 0;
+}
+
+.about__body {
+  position: absolute;
+  left: calc(var(--body-x) * var(--u));
+  top: calc(var(--body-y) * var(--u));
+  width: calc(var(--body-width) * var(--u));
+  font-size: max(14px, calc(16 * var(--u)));
+  line-height: 1.5;
+  margin: 0;
+  text-align: justify;
+  white-space: pre-line;
+}
+
+.about__frame--overview .about__body {
+  line-height: 1.1796875;
+}
+
+.about__frame--seeker .about__body {
+  text-align: left;
+}
+
+.about__choice {
+  position: absolute;
+  left: calc(var(--choice-x) * var(--u));
+  top: calc(var(--choice-y) * var(--u));
+  width: calc(525 * var(--u));
+  height: max(40px, calc(56 * var(--u)));
+  text-decoration: none;
+  color: inherit;
+}
+
+.about__choice .figma-label {
+  position: absolute;
+  left: calc(var(--choice-title-x) * var(--u));
+  top: 0;
+}
+
+.about__choice-caption {
+  position: absolute;
+  right: calc(var(--caption-right) * var(--u));
+  top: calc(var(--caption-y) * var(--u));
+  font-size: max(13px, calc(13 * var(--u)));
+  line-height: calc(15 * var(--u));
+  white-space: nowrap;
+}
+
+.about__choice-line {
+  position: absolute;
+  left: calc(-6 * var(--u));
+  top: calc(var(--line-y) * var(--u));
+  width: calc(421 * var(--u));
+  height: auto;
+}
+
+.about__media img {
+  position: absolute;
+  left: calc(var(--media-x) * var(--u));
+  top: calc(var(--media-y) * var(--u));
+  width: calc(var(--media-width) * var(--u));
+  height: calc(var(--media-height) * var(--u));
+  object-fit: contain;
+}
+
+@media (max-width: 1200px), (max-height: 660px) {
+  .about__frame {
+    --u: 1px;
+    height: auto;
+    padding: 28px 32px 48px;
+    flex: 1;
+  }
+
+  .about__title {
+    position: relative;
+    left: auto;
+    top: auto;
+    margin-bottom: 12px;
+  }
+
+  .about__title .figma-label {
+    --label-unit: min(1px, calc((100cqw - 64px) / var(--label-width)));
+  }
+
+  .about__subtitle {
+    position: static;
+    margin: 8px 0 24px;
+    font-size: clamp(26px, 4vw, 36.36232px);
+    line-height: 1.2;
+  }
+
+  .about__body,
+  .about__frame--overview .about__body {
+    position: static;
+    width: min(100%, 620px);
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: left;
+  }
+
+  .about__choices {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 28px;
+    margin-top: 48px;
+  }
+
+  .about__choice {
+    position: relative;
+    left: auto;
+    top: auto;
+    width: 100%;
+    height: auto;
+    min-height: 80px;
+    text-align: right;
+    container-type: inline-size;
+  }
+
+  .about__choice .figma-label {
+    --label-unit: min(0.9px, calc(100cqw / var(--label-width)));
+    position: relative;
+    left: auto;
+    margin-left: auto;
+  }
+
+  .about__choice-caption {
+    position: static;
+    display: block;
+    margin: 8px 0 16px;
+    font-size: 16px;
+    line-height: 1.25;
+    white-space: normal;
+  }
+
+  .about__choice-line {
+    position: static;
+    width: 100%;
+    display: block;
+  }
+
+  .about__media--seeker {
+    position: relative;
+    width: min(100%, 600px);
+    aspect-ratio: 600 / 520;
+    margin: 32px auto 0;
+    container-type: inline-size;
+  }
+
+  .about__media--seeker img {
+    --media-unit: calc(100cqw / 600);
+    left: calc((var(--media-x) - 700) * var(--media-unit));
+    top: calc((var(--media-y) - 130) * var(--media-unit));
+    width: calc(var(--media-width) * var(--media-unit));
+    height: calc(var(--media-height) * var(--media-unit));
+  }
+}
+
+@media (max-width: 600px) {
+  .about__frame {
+    padding: 24px 24px 36px;
+  }
+
+  .about__title .figma-label {
+    --label-unit: min(1px, calc((100cqw - 48px) / var(--label-width)));
+  }
+
+  .about__choices {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 32px;
+    margin-top: 32px;
+  }
+
+  .about__choice {
+    max-width: 421px;
+    justify-self: end;
+  }
+
+}

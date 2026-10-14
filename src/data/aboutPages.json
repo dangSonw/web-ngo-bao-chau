@@ -1,0 +1,518 @@
+{
+  "labels": {
+    "about-title": {
+      "path": "about/type/about-title.svg",
+      "text": "About Me",
+      "width": 308,
+      "height": 58,
+      "artWidth": 305.0,
+      "artHeight": 36.0,
+      "offsetX": 0.693359375,
+      "offsetY": 9
+    },
+    "choice-logician": {
+      "path": "about/type/choice-logician.svg",
+      "text": "The Logician",
+      "width": 201,
+      "height": 29,
+      "artWidth": 199.0,
+      "artHeight": 24.0,
+      "offsetX": 0.5517578125,
+      "offsetY": 3.9521484375
+    },
+    "choice-adventurer": {
+      "path": "about/type/choice-adventurer.svg",
+      "text": "The Adventurer",
+      "width": 254,
+      "height": 29,
+      "artWidth": 253.0,
+      "artHeight": 18.0,
+      "offsetX": 0.5517578125,
+      "offsetY": 4
+    },
+    "choice-seeker": {
+      "path": "about/type/choice-seeker.svg",
+      "text": "The seeker",
+      "width": 178,
+      "height": 29,
+      "artWidth": 177.0,
+      "artHeight": 18.0,
+      "offsetX": 0.5517578125,
+      "offsetY": 4
+    },
+    "logician-title": {
+      "path": "about/type/logician-title.svg",
+      "text": "THE LOGICIAN",
+      "width": 625,
+      "height": 83,
+      "artWidth": 619.0,
+      "artHeight": 49.0,
+      "offsetX": 1.5869140625,
+      "offsetY": 15.7001953125
+    },
+    "adventurer-title": {
+      "path": "about/type/adventurer-title.svg",
+      "text": "THE ADVENTURER",
+      "width": 835,
+      "height": 83,
+      "artWidth": 831.0,
+      "artHeight": 49.0,
+      "offsetX": 1.5869140625,
+      "offsetY": 15.7001953125
+    },
+    "seeker-title": {
+      "path": "about/type/seeker-title.svg",
+      "text": "THE SEEKER",
+      "width": 559,
+      "height": 83,
+      "artWidth": 556.0,
+      "artHeight": 49.0,
+      "offsetX": 1.5869140625,
+      "offsetY": 15.7001953125
+    },
+    "nav-home": {
+      "path": "about/type/nav-home.svg",
+      "text": "Home",
+      "width": 89,
+      "height": 29,
+      "artWidth": 86.0,
+      "artHeight": 17.0,
+      "offsetX": 1.6083984375,
+      "offsetY": 5.2001953125
+    },
+    "nav-about": {
+      "path": "about/type/nav-about.svg",
+      "text": "About Me",
+      "width": 154,
+      "height": 29,
+      "artWidth": 155.0,
+      "artHeight": 20.0,
+      "offsetX": 0.3466796875,
+      "offsetY": 4
+    },
+    "nav-inquiry": {
+      "path": "about/type/nav-inquiry.svg",
+      "text": "inquiry",
+      "width": 111,
+      "height": 29,
+      "artWidth": 109.0,
+      "artHeight": 24.0,
+      "offsetX": 1.5361328125,
+      "offsetY": 3.9521484375
+    },
+    "nav-community": {
+      "path": "about/type/nav-community.svg",
+      "text": "Community",
+      "width": 175,
+      "height": 29,
+      "artWidth": 173.0,
+      "artHeight": 24.0,
+      "offsetX": 1.416015625,
+      "offsetY": 3.9521484375
+    },
+    "nav-spirituality": {
+      "path": "about/type/nav-spirituality.svg",
+      "text": "Sprituality",
+      "width": 159,
+      "height": 29,
+      "artWidth": 158.0,
+      "artHeight": 24.0,
+      "offsetX": 1.3203125,
+      "offsetY": 3.9521484375
+    }
+  },
+  "pages": [
+    {
+      "key": "overview",
+      "route": "/about-me",
+      "frameId": "7:107",
+      "title": {
+        "path": "about/type/about-title.svg",
+        "text": "About Me",
+        "width": 308,
+        "height": 58,
+        "artWidth": 305.0,
+        "artHeight": 36.0,
+        "offsetX": 0.693359375,
+        "offsetY": 9
+      },
+      "titleX": 97,
+      "titleY": 103,
+      "body": "I’m Ngo Bao Chau, a student at the Foreign Language Specialised School, specializing in Korean.\n\nMy universe begins with curiosity.\n\nI have always been fascinated by the idea of a personal universe, where every planet carries its own story and its own way of seeing. Among them, Uranus has always stood out to me. Tilted almost on its side, it exists from an orientation unlike any other.\n\nThat feels strangely familiar. It reminds me that changing the way we look at something can change what we are able to see.\n\nI see myself in much the same way, not through a single identity, but through different ways of thinking, exploring, seeking, and creating.",
+      "bodyX": 97,
+      "bodyY": 167,
+      "bodyWidth": 452,
+      "background": "about/intro-background@2x.png",
+      "media": []
+    },
+    {
+      "key": "logician",
+      "route": "/about-me/logician",
+      "frameId": "7:135",
+      "title": {
+        "path": "about/type/logician-title.svg",
+        "text": "THE LOGICIAN",
+        "width": 625,
+        "height": 83,
+        "artWidth": 619.0,
+        "artHeight": 49.0,
+        "offsetX": 1.5869140625,
+        "offsetY": 15.7001953125
+      },
+      "titleX": 73,
+      "titleY": 108,
+      "body": "My pursuit of knowledge has taken me beyond conventional learning, from conducting research to challenging myself through international academic competitions such as iCAN and WICO. \nAlongside these experiences, I have earned recognition through various academic awards, each encouraging me to explore unfamiliar questions and approach problems from different perspectives. \nThese experiences have shaped the way I learn, not simply to find answers, but to understand the reasoning behind them.",
+      "bodyX": 82,
+      "bodyY": 266.66650390625,
+      "bodyWidth": 452,
+      "background": "about/image-10__7-164@2x.png",
+      "media": [
+        {
+          "nodeId": "28:3",
+          "path": "about/0002-1__28-3@source.png",
+          "x": 973,
+          "y": 224,
+          "width": 209,
+          "height": 148,
+          "alt": "Academic award certificate 2"
+        },
+        {
+          "nodeId": "28:7",
+          "path": "about/0006-1__28-7@source.png",
+          "x": 1190,
+          "y": 231,
+          "width": 199.70672607421875,
+          "height": 141.1229248046875,
+          "alt": "Academic award certificate 6"
+        },
+        {
+          "nodeId": "28:4",
+          "path": "about/0003-1__28-4@source.png",
+          "x": 604,
+          "y": 325,
+          "width": 141.1229248046875,
+          "height": 199.70672607421875,
+          "alt": "Academic award certificate 3"
+        },
+        {
+          "nodeId": "52:57",
+          "path": "about/image-35__52-57@source.png",
+          "x": 1190,
+          "y": 383,
+          "width": 200,
+          "height": 143,
+          "alt": "Academic award certificate 11"
+        },
+        {
+          "nodeId": "28:5",
+          "path": "about/0004-1__28-5@source.png",
+          "x": 755,
+          "y": 384,
+          "width": 200.0308837890625,
+          "height": 141.35198974609375,
+          "alt": "Academic award certificate 4"
+        },
+        {
+          "nodeId": "66:4",
+          "path": "about/image-40__66-4@source.png",
+          "x": 961,
+          "y": 384,
+          "width": 221,
+          "height": 143,
+          "alt": "Academic award certificate 10"
+        },
+        {
+          "nodeId": "28:2",
+          "path": "about/0001-1__28-2@source.png",
+          "x": 1190,
+          "y": 536,
+          "width": 199.70672607421875,
+          "height": 141.1229248046875,
+          "alt": "Academic award certificate 1"
+        },
+        {
+          "nodeId": "52:63",
+          "path": "about/image-36__52-63@source.png",
+          "x": 361,
+          "y": 537.0400390625,
+          "width": 197,
+          "height": 140,
+          "alt": "Academic award certificate 9"
+        },
+        {
+          "nodeId": "28:8",
+          "path": "about/0007-1__28-8@source.png",
+          "x": 566,
+          "y": 537,
+          "width": 199.70672607421875,
+          "height": 141.1229248046875,
+          "alt": "Academic award certificate 7"
+        },
+        {
+          "nodeId": "28:9",
+          "path": "about/0008-1__28-9@source.png",
+          "x": 774,
+          "y": 537.0400390625,
+          "width": 199.70672607421875,
+          "height": 141.1229248046875,
+          "alt": "Academic award certificate 8"
+        },
+        {
+          "nodeId": "28:6",
+          "path": "about/0005-1__28-6@source.png",
+          "x": 982,
+          "y": 537.0400390625,
+          "width": 200.0308837890625,
+          "height": 141.35198974609375,
+          "alt": "Academic award certificate 5"
+        }
+      ],
+      "subtitle": "How I make sense of the world",
+      "subtitleX": 82,
+      "subtitleY": 206
+    },
+    {
+      "key": "adventurer",
+      "route": "/about-me/adventurer",
+      "frameId": "7:176",
+      "title": {
+        "path": "about/type/adventurer-title.svg",
+        "text": "THE ADVENTURER",
+        "width": 835,
+        "height": 83,
+        "artWidth": 831.0,
+        "artHeight": 49.0,
+        "offsetX": 1.5869140625,
+        "offsetY": 15.7001953125
+      },
+      "titleX": 73,
+      "titleY": 108,
+      "body": "Knowledge becomes different once it is shared.\nA word learned in a classroom can become a bridge. A local tradition can become a story worth carrying forward. I have seen this through teaching English, the Youth for Community Program by Tiền Phong Newspaper, and projects exploring Vietnamese culture and storytelling.\nWhat matters to me is not simply discovering something new, but discovering what becomes possible when knowledge travels.",
+      "bodyX": 82,
+      "bodyY": 251.66650390625,
+      "bodyWidth": 452,
+      "background": "about/image-11__7-194@2x.png",
+      "media": [],
+      "subtitle": "How I discover the world",
+      "subtitleX": 82,
+      "subtitleY": 191
+    },
+    {
+      "key": "seeker",
+      "route": "/about-me/seeker",
+      "frameId": "7:196",
+      "title": {
+        "path": "about/type/seeker-title.svg",
+        "text": "THE SEEKER",
+        "width": 559,
+        "height": 83,
+        "artWidth": 556.0,
+        "artHeight": 49.0,
+        "offsetX": 1.5869140625,
+        "offsetY": 15.7001953125
+      },
+      "titleX": 73,
+      "titleY": 108,
+      "body": "A birth chart is just a chart.\nFive Elements are just five elements.\nAnd yet, people have built entire ways of understanding themselves around them.\nThat is the part I find interesting.\nI like picking apart the ideas behind astrology, birth charts, and Eastern spiritual traditions, not because I need them to be true, but because they offer another language for things that are often difficult to put into words. The parts of ourselves we notice only when someone gives us a different way to look.",
+      "bodyX": 82,
+      "bodyY": 342,
+      "bodyWidth": 452,
+      "background": "about/image-12__7-214@2x.png",
+      "media": [
+        {
+          "nodeId": "7:217",
+          "path": "about/image-13__7-217@2x.png",
+          "x": 942,
+          "y": 151,
+          "width": 127,
+          "height": 127,
+          "alt": "Mars"
+        },
+        {
+          "nodeId": "7:235",
+          "path": "about/image-17__7-235@2x.png",
+          "x": 1061,
+          "y": 445,
+          "width": 178,
+          "height": 178,
+          "alt": "Saturn"
+        },
+        {
+          "nodeId": "7:238",
+          "path": "about/image-18__7-238@2x.png",
+          "x": 835,
+          "y": 491,
+          "width": 150,
+          "height": 150,
+          "alt": "Jupiter"
+        },
+        {
+          "nodeId": "7:226",
+          "path": "about/image-15__7-226@2x.png",
+          "x": 755,
+          "y": 289,
+          "width": 138,
+          "height": 137,
+          "alt": "Mercury"
+        },
+        {
+          "nodeId": "7:229",
+          "path": "about/image-16__7-229@2x.png",
+          "x": 1131,
+          "y": 262,
+          "width": 132,
+          "height": 132,
+          "alt": "Venus"
+        }
+      ],
+      "subtitle": "How I look for what lies beneath",
+      "subtitleX": 82,
+      "subtitleY": 193
+    }
+  ],
+  "choices": [
+    {
+      "key": "logician",
+      "route": "/about-me/logician",
+      "title": {
+        "path": "about/type/choice-logician.svg",
+        "text": "The Logician",
+        "width": 201,
+        "height": 29,
+        "artWidth": 199.0,
+        "artHeight": 24.0,
+        "offsetX": 0.5517578125,
+        "offsetY": 3.9521484375
+      },
+      "x": 907,
+      "y": 194,
+      "titleX": 303,
+      "caption": "Patterns, Systems, Clarity.",
+      "captionY": 23,
+      "captionRight": 114,
+      "lineY": 42,
+      "linePath": "about/vector-1__7-126.svg"
+    },
+    {
+      "key": "adventurer",
+      "route": "/about-me/adventurer",
+      "title": {
+        "path": "about/type/choice-adventurer.svg",
+        "text": "The Adventurer",
+        "width": 254,
+        "height": 29,
+        "artWidth": 253.0,
+        "artHeight": 18.0,
+        "offsetX": 0.5517578125,
+        "offsetY": 4
+      },
+      "x": 907,
+      "y": 379,
+      "titleX": 271,
+      "caption": "Curiosity, Movement, Growth.",
+      "captionY": 18,
+      "captionRight": 116,
+      "lineY": 43,
+      "linePath": "about/vector-1__7-126.svg"
+    },
+    {
+      "key": "seeker",
+      "route": "/about-me/seeker",
+      "title": {
+        "path": "about/type/choice-seeker.svg",
+        "text": "The seeker",
+        "width": 178,
+        "height": 29,
+        "artWidth": 177.0,
+        "artHeight": 18.0,
+        "offsetX": 0.5517578125,
+        "offsetY": 4
+      },
+      "x": 907,
+      "y": 557,
+      "titleX": 314,
+      "caption": "Meaning, Dept, Connection.",
+      "captionY": 20,
+      "captionRight": 114,
+      "lineY": 44,
+      "linePath": "about/vector-1__7-126.svg"
+    }
+  ],
+  "navigation": [
+    {
+      "key": "home",
+      "route": "/",
+      "available": true,
+      "label": {
+        "path": "about/type/nav-home.svg",
+        "text": "Home",
+        "width": 89,
+        "height": 29,
+        "artWidth": 86.0,
+        "artHeight": 17.0,
+        "offsetX": 1.6083984375,
+        "offsetY": 5.2001953125
+      }
+    },
+    {
+      "key": "about",
+      "route": "/about-me",
+      "available": true,
+      "label": {
+        "path": "about/type/nav-about.svg",
+        "text": "About Me",
+        "width": 154,
+        "height": 29,
+        "artWidth": 155.0,
+        "artHeight": 20.0,
+        "offsetX": 0.3466796875,
+        "offsetY": 4
+      }
+    },
+    {
+      "key": "inquiry",
+      "route": "/inquiry",
+      "available": true,
+      "label": {
+        "path": "about/type/nav-inquiry.svg",
+        "text": "inquiry",
+        "width": 111,
+        "height": 29,
+        "artWidth": 109.0,
+        "artHeight": 24.0,
+        "offsetX": 1.5361328125,
+        "offsetY": 3.9521484375
+      }
+    },
+    {
+      "key": "community",
+      "route": "/community",
+      "available": true,
+      "label": {
+        "path": "about/type/nav-community.svg",
+        "text": "Community",
+        "width": 175,
+        "height": 29,
+        "artWidth": 173.0,
+        "artHeight": 24.0,
+        "offsetX": 1.416015625,
+        "offsetY": 3.9521484375
+      }
+    },
+    {
+      "key": "spirituality",
+      "route": "/spirituality",
+      "available": true,
+      "label": {
+        "path": "about/type/nav-spirituality.svg",
+        "text": "Sprituality",
+        "width": 159,
+        "height": 29,
+        "artWidth": 158.0,
+        "artHeight": 24.0,
+        "offsetX": 1.3203125,
+        "offsetY": 3.9521484375
+      }
+    }
+  ]
+}

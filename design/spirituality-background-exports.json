@@ -1,0 +1,37 @@
+[
+  {
+    "frameId": "26:115",
+    "sourceNodes": [
+      "82:141",
+      "26:121"
+    ],
+    "path": "spirituality/intro-background@2x.png",
+    "bytes": 5264619,
+    "width": 2880,
+    "height": 1488,
+    "scale": 2
+  },
+  {
+    "frameId": "52:2",
+    "sourceNodes": [
+      "52:8",
+      "52:9"
+    ],
+    "path": "spirituality/chapter-background@2x.png",
+    "bytes": 3323020,
+    "width": 2880,
+    "height": 1488,
+    "scale": 2
+  },
+  {
+    "frameId": "77:2",
+    "sourceNodes": [
+      "77:3"
+    ],
+    "path": "spirituality/planet-background@2x.png",
+    "bytes": 3449703,
+    "width": 2880,
+    "height": 1488,
+    "scale": 2
+  }
+]

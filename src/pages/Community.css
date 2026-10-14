@@ -1,0 +1,224 @@
+.community__frame {
+  --u: calc(100cqw / 1440);
+  position: relative;
+  width: 100%;
+  min-height: calc(744 * var(--u));
+  padding-top: calc(var(--body-y) * var(--u));
+  padding-bottom: calc(48 * var(--u));
+  font-family: 'Abhaya Libre', 'Times New Roman', serif;
+}
+
+.community__title {
+  position: absolute;
+  left: calc(var(--title-x) * var(--u));
+  top: calc(var(--title-y) * var(--u));
+  margin: 0;
+}
+
+.community__emblem img,
+.community__gallery img,
+.community__chapter {
+  position: absolute;
+  left: calc(var(--media-x) * var(--u));
+  top: calc(var(--media-y) * var(--u));
+  width: calc(var(--media-width) * var(--u));
+  height: calc(var(--media-height) * var(--u));
+  object-fit: contain;
+}
+
+.community__copy {
+  width: calc(var(--body-width) * var(--u));
+  margin-left: calc(var(--body-x) * var(--u));
+  font-size: max(14px, calc(16 * var(--u)));
+  line-height: 1.1796875;
+}
+
+.community__body {
+  margin: 0;
+  text-align: justify;
+  white-space: pre-line;
+}
+
+.community__sources {
+  margin-top: calc(12 * var(--u));
+  overflow-wrap: anywhere;
+  white-space: pre-line;
+}
+
+.community__sources a {
+  display: block;
+  min-height: 40px;
+  margin-bottom: calc(4 * var(--u));
+  color: inherit;
+}
+
+.community__chapter {
+  min-width: 40px;
+  min-height: 40px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.community__chapter-image {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.community__chapter-image img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.community__chapter-label {
+  position: absolute;
+  left: calc(var(--caption-x) * var(--u));
+  top: calc(var(--caption-y) * var(--u));
+}
+
+.community__chapter-text {
+  display: none;
+}
+
+@media (max-width: 1200px), (max-height: 660px) {
+  .community__frame {
+    --u: 1px;
+    min-height: 0;
+    padding: 28px 32px 48px;
+    flex: 1;
+  }
+
+  .community__heading {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+
+  .community__emblem {
+    position: relative;
+    width: 64px;
+    height: 64px;
+    flex: 0 0 64px;
+  }
+
+  .community__emblem img {
+    left: calc(var(--relative-x) * 1%);
+    top: calc(var(--relative-y) * 1%);
+    width: calc(var(--relative-width) * 1%);
+    height: calc(var(--relative-height) * 1%);
+  }
+
+  .community__title {
+    position: static;
+    min-width: 0;
+  }
+
+  .community__title .figma-label {
+    --label-unit: min(1px, calc((100cqw - 64px - var(--title-inset, 80px)) / var(--label-width)));
+  }
+
+  .community__frame--overview {
+    --title-inset: 0px;
+  }
+
+  .community__copy {
+    width: min(100%, 620px);
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+  .community__body {
+    text-align: left;
+  }
+
+  .community__sources {
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 1.4;
+  }
+
+  .community__sources a {
+    margin-bottom: 12px;
+  }
+
+  .community__gallery {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: end;
+    gap: 16px;
+    width: min(100%, 734px);
+    margin: 32px auto 0;
+  }
+
+  .community__gallery img {
+    position: static;
+    width: 100%;
+    height: auto;
+  }
+
+  .community__chapters {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    align-items: start;
+    gap: 28px 24px;
+    max-width: 660px;
+    margin: 32px auto 0;
+  }
+
+  .community__chapter {
+    position: static;
+    width: auto;
+    height: auto;
+    text-align: center;
+  }
+
+  .community__chapter-image {
+    width: min(100%, 125px);
+    height: auto;
+    aspect-ratio: 1;
+    margin: 0 auto;
+  }
+
+  .community__chapter-label {
+    display: none;
+  }
+
+  .community__chapter-text {
+    display: block;
+    margin-top: 10px;
+    font-size: 18px;
+    line-height: 1.25;
+  }
+}
+
+@media (max-width: 600px) {
+  .community__frame {
+    padding: 24px 24px 36px;
+  }
+
+  .community__title .figma-label {
+    --label-unit: min(1px, calc((100cqw - 48px - var(--title-inset, 80px)) / var(--label-width)));
+  }
+
+  .community__frame--concert .community__heading,
+  .community__frame--bright-paths .community__heading {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .community__frame--concert,
+  .community__frame--bright-paths {
+    --title-inset: 0px;
+  }
+
+  .community__chapters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+  }
+}

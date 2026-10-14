@@ -1,0 +1,5858 @@
+[
+  {
+    "topic": "overview",
+    "width": 1440,
+    "height": 744,
+    "layout": {
+      "width": 1440,
+      "height": 744,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 744,
+      "rects": [
+        {
+          "className": "A",
+          "x": 572,
+          "y": 23.5,
+          "width": 89,
+          "height": 40,
+          "right": 661,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 696,
+          "y": 23.5,
+          "width": 154,
+          "height": 40,
+          "right": 850,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 885,
+          "y": 23.5,
+          "width": 111,
+          "height": 40,
+          "right": 996,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 1031,
+          "y": 23.5,
+          "width": 175,
+          "height": 40,
+          "right": 1206,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 1241,
+          "y": 23.5,
+          "width": 159,
+          "height": 40,
+          "right": 1400,
+          "bottom": 63.5
+        },
+        {
+          "className": "IMG",
+          "x": 97.6875,
+          "y": 112,
+          "width": 305,
+          "height": 36,
+          "right": 402.6875,
+          "bottom": 148
+        },
+        {
+          "className": "about__body",
+          "x": 97,
+          "y": 167,
+          "width": 452,
+          "height": 283.125,
+          "right": 549,
+          "bottom": 450.125
+        },
+        {
+          "className": "about__choice",
+          "x": 907,
+          "y": 194,
+          "width": 525,
+          "height": 56,
+          "right": 1432,
+          "bottom": 250
+        },
+        {
+          "className": "about__choice",
+          "x": 907,
+          "y": 379,
+          "width": 525,
+          "height": 56,
+          "right": 1432,
+          "bottom": 435
+        },
+        {
+          "className": "about__choice",
+          "x": 907,
+          "y": 557,
+          "width": 525,
+          "height": 56,
+          "right": 1432,
+          "bottom": 613
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 1440,
+    "height": 744,
+    "layout": {
+      "width": 1440,
+      "height": 744,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 744,
+      "rects": [
+        {
+          "className": "A",
+          "x": 572,
+          "y": 23.5,
+          "width": 89,
+          "height": 40,
+          "right": 661,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 696,
+          "y": 23.5,
+          "width": 154,
+          "height": 40,
+          "right": 850,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 885,
+          "y": 23.5,
+          "width": 111,
+          "height": 40,
+          "right": 996,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 1031,
+          "y": 23.5,
+          "width": 175,
+          "height": 40,
+          "right": 1206,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 1241,
+          "y": 23.5,
+          "width": 159,
+          "height": 40,
+          "right": 1400,
+          "bottom": 63.5
+        },
+        {
+          "className": "IMG",
+          "x": 74.578125,
+          "y": 123.6875,
+          "width": 619,
+          "height": 49,
+          "right": 693.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 82,
+          "y": 206,
+          "width": 446.40625,
+          "height": 43,
+          "right": 528.40625,
+          "bottom": 249
+        },
+        {
+          "className": "about__body",
+          "x": 82,
+          "y": 266.65625,
+          "width": 452,
+          "height": 192,
+          "right": 534,
+          "bottom": 458.65625
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 1440,
+    "height": 744,
+    "layout": {
+      "width": 1440,
+      "height": 744,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 744,
+      "rects": [
+        {
+          "className": "A",
+          "x": 572,
+          "y": 23.5,
+          "width": 89,
+          "height": 40,
+          "right": 661,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 696,
+          "y": 23.5,
+          "width": 154,
+          "height": 40,
+          "right": 850,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 885,
+          "y": 23.5,
+          "width": 111,
+          "height": 40,
+          "right": 996,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 1031,
+          "y": 23.5,
+          "width": 175,
+          "height": 40,
+          "right": 1206,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 1241,
+          "y": 23.5,
+          "width": 159,
+          "height": 40,
+          "right": 1400,
+          "bottom": 63.5
+        },
+        {
+          "className": "IMG",
+          "x": 74.578125,
+          "y": 123.6875,
+          "width": 831,
+          "height": 49,
+          "right": 905.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 82,
+          "y": 191,
+          "width": 366.234375,
+          "height": 43,
+          "right": 448.234375,
+          "bottom": 234
+        },
+        {
+          "className": "about__body",
+          "x": 82,
+          "y": 251.65625,
+          "width": 452,
+          "height": 192,
+          "right": 534,
+          "bottom": 443.65625
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 1440,
+    "height": 744,
+    "layout": {
+      "width": 1440,
+      "height": 744,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 744,
+      "rects": [
+        {
+          "className": "A",
+          "x": 572,
+          "y": 23.5,
+          "width": 89,
+          "height": 40,
+          "right": 661,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 696,
+          "y": 23.5,
+          "width": 154,
+          "height": 40,
+          "right": 850,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 885,
+          "y": 23.5,
+          "width": 111,
+          "height": 40,
+          "right": 996,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 1031,
+          "y": 23.5,
+          "width": 175,
+          "height": 40,
+          "right": 1206,
+          "bottom": 63.5
+        },
+        {
+          "className": "A",
+          "x": 1241,
+          "y": 23.5,
+          "width": 159,
+          "height": 40,
+          "right": 1400,
+          "bottom": 63.5
+        },
+        {
+          "className": "IMG",
+          "x": 74.578125,
+          "y": 123.6875,
+          "width": 556,
+          "height": 49,
+          "right": 630.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 82,
+          "y": 193,
+          "width": 474.53125,
+          "height": 43,
+          "right": 556.53125,
+          "bottom": 236
+        },
+        {
+          "className": "about__body",
+          "x": 82,
+          "y": 342,
+          "width": 452,
+          "height": 240,
+          "right": 534,
+          "bottom": 582
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 375,
+    "height": 812,
+    "layout": {
+      "width": 375,
+      "height": 812,
+      "clientWidth": 375,
+      "scrollWidth": 375,
+      "scrollHeight": 1269,
+      "rects": [
+        {
+          "className": "A",
+          "x": 78.3125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 149.5,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 173.5,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 296.6875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 61.09375,
+          "y": 68,
+          "width": 88.796875,
+          "height": 40,
+          "right": 149.890625,
+          "bottom": 108
+        },
+        {
+          "className": "A",
+          "x": 173.890625,
+          "y": 68,
+          "width": 140,
+          "height": 40,
+          "right": 313.890625,
+          "bottom": 108
+        },
+        {
+          "className": "A",
+          "x": 123.90625,
+          "y": 116,
+          "width": 127.1875,
+          "height": 40,
+          "right": 251.09375,
+          "bottom": 156
+        },
+        {
+          "className": "IMG",
+          "x": 24.6875,
+          "y": 209,
+          "width": 305,
+          "height": 36,
+          "right": 329.6875,
+          "bottom": 245
+        },
+        {
+          "className": "about__body",
+          "x": 24,
+          "y": 270,
+          "width": 327,
+          "height": 567,
+          "right": 351,
+          "bottom": 837
+        },
+        {
+          "className": "about__choice",
+          "x": 24,
+          "y": 869,
+          "width": 327,
+          "height": 80,
+          "right": 351,
+          "bottom": 949
+        },
+        {
+          "className": "about__choice",
+          "x": 24,
+          "y": 981,
+          "width": 327,
+          "height": 80,
+          "right": 351,
+          "bottom": 1061
+        },
+        {
+          "className": "about__choice",
+          "x": 24,
+          "y": 1093,
+          "width": 327,
+          "height": 80,
+          "right": 351,
+          "bottom": 1173
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 375,
+    "height": 812,
+    "layout": {
+      "width": 375,
+      "height": 812,
+      "clientWidth": 375,
+      "scrollWidth": 375,
+      "scrollHeight": 1090,
+      "rects": [
+        {
+          "className": "A",
+          "x": 78.3125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 149.5,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 173.5,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 296.6875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 61.09375,
+          "y": 68,
+          "width": 88.796875,
+          "height": 40,
+          "right": 149.890625,
+          "bottom": 108
+        },
+        {
+          "className": "A",
+          "x": 173.890625,
+          "y": 68,
+          "width": 140,
+          "height": 40,
+          "right": 313.890625,
+          "bottom": 108
+        },
+        {
+          "className": "A",
+          "x": 123.90625,
+          "y": 116,
+          "width": 127.1875,
+          "height": 40,
+          "right": 251.09375,
+          "bottom": 156
+        },
+        {
+          "className": "IMG",
+          "x": 24.828125,
+          "y": 208.203125,
+          "width": 323.859375,
+          "height": 25.625,
+          "right": 348.6875,
+          "bottom": 233.828125
+        },
+        {
+          "className": "about__subtitle",
+          "x": 24,
+          "y": 255.421875,
+          "width": 327,
+          "height": 31.1875,
+          "right": 351,
+          "bottom": 286.609375
+        },
+        {
+          "className": "about__body",
+          "x": 24,
+          "y": 310.609375,
+          "width": 327,
+          "height": 351,
+          "right": 351,
+          "bottom": 661.609375
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 375,
+    "height": 812,
+    "layout": {
+      "width": 375,
+      "height": 812,
+      "clientWidth": 375,
+      "scrollWidth": 375,
+      "scrollHeight": 812,
+      "rects": [
+        {
+          "className": "A",
+          "x": 78.3125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 149.5,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 173.5,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 296.6875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 61.09375,
+          "y": 68,
+          "width": 88.796875,
+          "height": 40,
+          "right": 149.890625,
+          "bottom": 108
+        },
+        {
+          "className": "A",
+          "x": 173.890625,
+          "y": 68,
+          "width": 140,
+          "height": 40,
+          "right": 313.890625,
+          "bottom": 108
+        },
+        {
+          "className": "A",
+          "x": 123.90625,
+          "y": 116,
+          "width": 127.1875,
+          "height": 40,
+          "right": 251.09375,
+          "bottom": 156
+        },
+        {
+          "className": "IMG",
+          "x": 24.609375,
+          "y": 206.140625,
+          "width": 325.421875,
+          "height": 19.1875,
+          "right": 350.03125,
+          "bottom": 225.328125
+        },
+        {
+          "className": "about__subtitle",
+          "x": 24,
+          "y": 244.5,
+          "width": 327,
+          "height": 31.1875,
+          "right": 351,
+          "bottom": 275.6875
+        },
+        {
+          "className": "about__body",
+          "x": 24,
+          "y": 299.6875,
+          "width": 327,
+          "height": 351,
+          "right": 351,
+          "bottom": 650.6875
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 375,
+    "height": 812,
+    "layout": {
+      "width": 375,
+      "height": 812,
+      "clientWidth": 375,
+      "scrollWidth": 375,
+      "scrollHeight": 1097,
+      "rects": [
+        {
+          "className": "A",
+          "x": 78.3125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 149.5,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 173.5,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 296.6875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 61.09375,
+          "y": 68,
+          "width": 88.796875,
+          "height": 40,
+          "right": 149.890625,
+          "bottom": 108
+        },
+        {
+          "className": "A",
+          "x": 173.890625,
+          "y": 68,
+          "width": 140,
+          "height": 40,
+          "right": 313.890625,
+          "bottom": 108
+        },
+        {
+          "className": "A",
+          "x": 123.90625,
+          "y": 116,
+          "width": 127.1875,
+          "height": 40,
+          "right": 251.09375,
+          "bottom": 156
+        },
+        {
+          "className": "IMG",
+          "x": 24.921875,
+          "y": 209.171875,
+          "width": 325.234375,
+          "height": 28.65625,
+          "right": 350.15625,
+          "bottom": 237.828125
+        },
+        {
+          "className": "about__subtitle",
+          "x": 24,
+          "y": 260.546875,
+          "width": 327,
+          "height": 62.375,
+          "right": 351,
+          "bottom": 322.921875
+        },
+        {
+          "className": "about__body",
+          "x": 24,
+          "y": 346.921875,
+          "width": 327,
+          "height": 351,
+          "right": 351,
+          "bottom": 697.921875
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 420,
+    "height": 896,
+    "layout": {
+      "width": 420,
+      "height": 896,
+      "clientWidth": 420,
+      "scrollWidth": 420,
+      "scrollHeight": 1196,
+      "rects": [
+        {
+          "className": "A",
+          "x": 44.40625,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 115.59375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 139.59375,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 262.78125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 286.78125,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 375.578125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 64.40625,
+          "y": 68,
+          "width": 140,
+          "height": 40,
+          "right": 204.40625,
+          "bottom": 108
+        },
+        {
+          "className": "A",
+          "x": 228.40625,
+          "y": 68,
+          "width": 127.1875,
+          "height": 40,
+          "right": 355.59375,
+          "bottom": 108
+        },
+        {
+          "className": "IMG",
+          "x": 24.6875,
+          "y": 161,
+          "width": 305,
+          "height": 36,
+          "right": 329.6875,
+          "bottom": 197
+        },
+        {
+          "className": "about__body",
+          "x": 24,
+          "y": 222,
+          "width": 372,
+          "height": 540,
+          "right": 396,
+          "bottom": 762
+        },
+        {
+          "className": "about__choice",
+          "x": 24,
+          "y": 794,
+          "width": 372,
+          "height": 80.6875,
+          "right": 396,
+          "bottom": 874.6875
+        },
+        {
+          "className": "about__choice",
+          "x": 24,
+          "y": 906.6875,
+          "width": 372,
+          "height": 80.6875,
+          "right": 396,
+          "bottom": 987.375
+        },
+        {
+          "className": "about__choice",
+          "x": 24,
+          "y": 1019.375,
+          "width": 372,
+          "height": 80.6875,
+          "right": 396,
+          "bottom": 1100.0625
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 420,
+    "height": 896,
+    "layout": {
+      "width": 420,
+      "height": 896,
+      "clientWidth": 420,
+      "scrollWidth": 420,
+      "scrollHeight": 1021,
+      "rects": [
+        {
+          "className": "A",
+          "x": 44.40625,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 115.59375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 139.59375,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 262.78125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 286.78125,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 375.578125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 64.40625,
+          "y": 68,
+          "width": 140,
+          "height": 40,
+          "right": 204.40625,
+          "bottom": 108
+        },
+        {
+          "className": "A",
+          "x": 228.40625,
+          "y": 68,
+          "width": 127.1875,
+          "height": 40,
+          "right": 355.59375,
+          "bottom": 108
+        },
+        {
+          "className": "IMG",
+          "x": 24.9375,
+          "y": 161.34375,
+          "width": 368.421875,
+          "height": 29.15625,
+          "right": 393.359375,
+          "bottom": 190.5
+        },
+        {
+          "className": "about__subtitle",
+          "x": 24,
+          "y": 213.390625,
+          "width": 372,
+          "height": 31.1875,
+          "right": 396,
+          "bottom": 244.578125
+        },
+        {
+          "className": "about__body",
+          "x": 24,
+          "y": 268.578125,
+          "width": 372,
+          "height": 324,
+          "right": 396,
+          "bottom": 592.578125
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 420,
+    "height": 896,
+    "layout": {
+      "width": 420,
+      "height": 896,
+      "clientWidth": 420,
+      "scrollWidth": 420,
+      "scrollHeight": 896,
+      "rects": [
+        {
+          "className": "A",
+          "x": 44.40625,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 115.59375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 139.59375,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 262.78125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 286.78125,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 375.578125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 64.40625,
+          "y": 68,
+          "width": 140,
+          "height": 40,
+          "right": 204.40625,
+          "bottom": 108
+        },
+        {
+          "className": "A",
+          "x": 228.40625,
+          "y": 68,
+          "width": 127.1875,
+          "height": 40,
+          "right": 355.59375,
+          "bottom": 108
+        },
+        {
+          "className": "IMG",
+          "x": 24.703125,
+          "y": 158.984375,
+          "width": 370.203125,
+          "height": 21.828125,
+          "right": 394.90625,
+          "bottom": 180.8125
+        },
+        {
+          "className": "about__subtitle",
+          "x": 24,
+          "y": 200.96875,
+          "width": 372,
+          "height": 31.1875,
+          "right": 396,
+          "bottom": 232.15625
+        },
+        {
+          "className": "about__body",
+          "x": 24,
+          "y": 256.15625,
+          "width": 372,
+          "height": 270,
+          "right": 396,
+          "bottom": 526.15625
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 420,
+    "height": 896,
+    "layout": {
+      "width": 420,
+      "height": 896,
+      "clientWidth": 420,
+      "scrollWidth": 420,
+      "scrollHeight": 1035,
+      "rects": [
+        {
+          "className": "A",
+          "x": 44.40625,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 115.59375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 139.59375,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 262.78125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 286.78125,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 375.578125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 64.40625,
+          "y": 68,
+          "width": 140,
+          "height": 40,
+          "right": 204.40625,
+          "bottom": 108
+        },
+        {
+          "className": "A",
+          "x": 228.40625,
+          "y": 68,
+          "width": 127.1875,
+          "height": 40,
+          "right": 355.59375,
+          "bottom": 108
+        },
+        {
+          "className": "IMG",
+          "x": 25.046875,
+          "y": 162.4375,
+          "width": 370,
+          "height": 32.59375,
+          "right": 395.046875,
+          "bottom": 195.03125
+        },
+        {
+          "className": "about__subtitle",
+          "x": 24,
+          "y": 219.21875,
+          "width": 372,
+          "height": 31.1875,
+          "right": 396,
+          "bottom": 250.40625
+        },
+        {
+          "className": "about__body",
+          "x": 24,
+          "y": 274.40625,
+          "width": 372,
+          "height": 324,
+          "right": 396,
+          "bottom": 598.40625
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 599,
+    "height": 800,
+    "layout": {
+      "width": 599,
+      "height": 800,
+      "clientWidth": 599,
+      "scrollWidth": 599,
+      "scrollHeight": 1065,
+      "rects": [
+        {
+          "className": "A",
+          "x": 51.90625,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 123.09375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 147.09375,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 270.28125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 294.28125,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 383.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 407.078125,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 547.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 235.90625,
+          "y": 68,
+          "width": 127.1875,
+          "height": 40,
+          "right": 363.09375,
+          "bottom": 108
+        },
+        {
+          "className": "IMG",
+          "x": 24.6875,
+          "y": 161,
+          "width": 305,
+          "height": 36,
+          "right": 329.6875,
+          "bottom": 197
+        },
+        {
+          "className": "about__body",
+          "x": 24,
+          "y": 222,
+          "width": 551,
+          "height": 405,
+          "right": 575,
+          "bottom": 627
+        },
+        {
+          "className": "about__choice",
+          "x": 154,
+          "y": 659,
+          "width": 421,
+          "height": 82.09375,
+          "right": 575,
+          "bottom": 741.09375
+        },
+        {
+          "className": "about__choice",
+          "x": 154,
+          "y": 773.09375,
+          "width": 421,
+          "height": 82.09375,
+          "right": 575,
+          "bottom": 855.1875
+        },
+        {
+          "className": "about__choice",
+          "x": 154,
+          "y": 887.1875,
+          "width": 421,
+          "height": 82.09375,
+          "right": 575,
+          "bottom": 969.28125
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 599,
+    "height": 800,
+    "layout": {
+      "width": 599,
+      "height": 800,
+      "clientWidth": 599,
+      "scrollWidth": 599,
+      "scrollHeight": 948,
+      "rects": [
+        {
+          "className": "A",
+          "x": 51.90625,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 123.09375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 147.09375,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 270.28125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 294.28125,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 383.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 407.078125,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 547.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 235.90625,
+          "y": 68,
+          "width": 127.1875,
+          "height": 40,
+          "right": 363.09375,
+          "bottom": 108
+        },
+        {
+          "className": "IMG",
+          "x": 25.390625,
+          "y": 165.828125,
+          "width": 545.703125,
+          "height": 43.1875,
+          "right": 571.09375,
+          "bottom": 209.015625
+        },
+        {
+          "className": "about__subtitle",
+          "x": 24,
+          "y": 237.171875,
+          "width": 551,
+          "height": 31.1875,
+          "right": 575,
+          "bottom": 268.359375
+        },
+        {
+          "className": "about__body",
+          "x": 24,
+          "y": 292.359375,
+          "width": 551,
+          "height": 216,
+          "right": 575,
+          "bottom": 508.359375
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 599,
+    "height": 800,
+    "layout": {
+      "width": 599,
+      "height": 800,
+      "clientWidth": 599,
+      "scrollWidth": 599,
+      "scrollHeight": 800,
+      "rects": [
+        {
+          "className": "A",
+          "x": 51.90625,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 123.09375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 147.09375,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 270.28125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 294.28125,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 383.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 407.078125,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 547.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 235.90625,
+          "y": 68,
+          "width": 127.1875,
+          "height": 40,
+          "right": 363.09375,
+          "bottom": 108
+        },
+        {
+          "className": "IMG",
+          "x": 25.046875,
+          "y": 162.359375,
+          "width": 548.359375,
+          "height": 32.328125,
+          "right": 573.40625,
+          "bottom": 194.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 24,
+          "y": 218.765625,
+          "width": 551,
+          "height": 31.1875,
+          "right": 575,
+          "bottom": 249.953125
+        },
+        {
+          "className": "about__body",
+          "x": 24,
+          "y": 273.953125,
+          "width": 551,
+          "height": 189,
+          "right": 575,
+          "bottom": 462.953125
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 599,
+    "height": 800,
+    "layout": {
+      "width": 599,
+      "height": 800,
+      "clientWidth": 599,
+      "scrollWidth": 599,
+      "scrollHeight": 1156,
+      "rects": [
+        {
+          "className": "A",
+          "x": 51.90625,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 123.09375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 147.09375,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 270.28125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 294.28125,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 383.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 407.078125,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 547.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 235.90625,
+          "y": 68,
+          "width": 127.1875,
+          "height": 40,
+          "right": 363.09375,
+          "bottom": 108
+        },
+        {
+          "className": "IMG",
+          "x": 25.5625,
+          "y": 167.46875,
+          "width": 548.03125,
+          "height": 48.296875,
+          "right": 573.59375,
+          "bottom": 215.765625
+        },
+        {
+          "className": "about__subtitle",
+          "x": 24,
+          "y": 245.796875,
+          "width": 551,
+          "height": 31.1875,
+          "right": 575,
+          "bottom": 276.984375
+        },
+        {
+          "className": "about__body",
+          "x": 24,
+          "y": 300.984375,
+          "width": 551,
+          "height": 270,
+          "right": 575,
+          "bottom": 570.984375
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 601,
+    "height": 800,
+    "layout": {
+      "width": 601,
+      "height": 800,
+      "clientWidth": 601,
+      "scrollWidth": 601,
+      "scrollHeight": 882,
+      "rects": [
+        {
+          "className": "A",
+          "x": 52.90625,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 124.09375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 148.09375,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 271.28125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 295.28125,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 384.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 408.078125,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 548.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 236.90625,
+          "y": 68,
+          "width": 127.1875,
+          "height": 40,
+          "right": 364.09375,
+          "bottom": 108
+        },
+        {
+          "className": "IMG",
+          "x": 32.6875,
+          "y": 165,
+          "width": 305,
+          "height": 36,
+          "right": 337.6875,
+          "bottom": 201
+        },
+        {
+          "className": "about__body",
+          "x": 32,
+          "y": 226,
+          "width": 537,
+          "height": 405,
+          "right": 569,
+          "bottom": 631
+        },
+        {
+          "className": "about__choice",
+          "x": 32,
+          "y": 679,
+          "width": 160.328125,
+          "height": 94.65625,
+          "right": 192.328125,
+          "bottom": 773.65625
+        },
+        {
+          "className": "about__choice",
+          "x": 220.328125,
+          "y": 679,
+          "width": 160.328125,
+          "height": 94.65625,
+          "right": 380.65625,
+          "bottom": 773.65625
+        },
+        {
+          "className": "about__choice",
+          "x": 408.65625,
+          "y": 679,
+          "width": 160.328125,
+          "height": 94.65625,
+          "right": 568.984375,
+          "bottom": 773.65625
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 601,
+    "height": 800,
+    "layout": {
+      "width": 601,
+      "height": 800,
+      "clientWidth": 601,
+      "scrollWidth": 601,
+      "scrollHeight": 963,
+      "rects": [
+        {
+          "className": "A",
+          "x": 52.90625,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 124.09375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 148.09375,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 271.28125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 295.28125,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 384.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 408.078125,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 548.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 236.90625,
+          "y": 68,
+          "width": 127.1875,
+          "height": 40,
+          "right": 364.09375,
+          "bottom": 108
+        },
+        {
+          "className": "IMG",
+          "x": 33.359375,
+          "y": 169.484375,
+          "width": 531.84375,
+          "height": 42.09375,
+          "right": 565.203125,
+          "bottom": 211.578125
+        },
+        {
+          "className": "about__subtitle",
+          "x": 32,
+          "y": 239.3125,
+          "width": 537,
+          "height": 31.1875,
+          "right": 569,
+          "bottom": 270.5
+        },
+        {
+          "className": "about__body",
+          "x": 32,
+          "y": 294.5,
+          "width": 537,
+          "height": 216,
+          "right": 569,
+          "bottom": 510.5
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 601,
+    "height": 800,
+    "layout": {
+      "width": 601,
+      "height": 800,
+      "clientWidth": 601,
+      "scrollWidth": 601,
+      "scrollHeight": 800,
+      "rects": [
+        {
+          "className": "A",
+          "x": 52.90625,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 124.09375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 148.09375,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 271.28125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 295.28125,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 384.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 408.078125,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 548.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 236.90625,
+          "y": 68,
+          "width": 127.1875,
+          "height": 40,
+          "right": 364.09375,
+          "bottom": 108
+        },
+        {
+          "className": "IMG",
+          "x": 33.015625,
+          "y": 166.09375,
+          "width": 534.421875,
+          "height": 31.5,
+          "right": 567.4375,
+          "bottom": 197.59375
+        },
+        {
+          "className": "about__subtitle",
+          "x": 32,
+          "y": 221.375,
+          "width": 537,
+          "height": 31.1875,
+          "right": 569,
+          "bottom": 252.5625
+        },
+        {
+          "className": "about__body",
+          "x": 32,
+          "y": 276.5625,
+          "width": 537,
+          "height": 189,
+          "right": 569,
+          "bottom": 465.5625
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 601,
+    "height": 800,
+    "layout": {
+      "width": 601,
+      "height": 800,
+      "clientWidth": 601,
+      "scrollWidth": 601,
+      "scrollHeight": 1158,
+      "rects": [
+        {
+          "className": "A",
+          "x": 52.90625,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 124.09375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 148.09375,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 271.28125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 295.28125,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 384.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 408.078125,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 548.078125,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 236.90625,
+          "y": 68,
+          "width": 127.1875,
+          "height": 40,
+          "right": 364.09375,
+          "bottom": 108
+        },
+        {
+          "className": "IMG",
+          "x": 33.515625,
+          "y": 171.078125,
+          "width": 534.109375,
+          "height": 47.0625,
+          "right": 567.625,
+          "bottom": 218.140625
+        },
+        {
+          "className": "about__subtitle",
+          "x": 32,
+          "y": 247.71875,
+          "width": 537,
+          "height": 31.1875,
+          "right": 569,
+          "bottom": 278.90625
+        },
+        {
+          "className": "about__body",
+          "x": 32,
+          "y": 302.90625,
+          "width": 537,
+          "height": 270,
+          "right": 569,
+          "bottom": 572.90625
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 768,
+    "height": 1024,
+    "layout": {
+      "width": 768,
+      "height": 1024,
+      "clientWidth": 768,
+      "scrollWidth": 768,
+      "scrollHeight": 1024,
+      "rects": [
+        {
+          "className": "A",
+          "x": 60.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 132,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 156,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 279.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 303.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 391.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 415.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 555.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 579.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 707.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 32.6875,
+          "y": 117,
+          "width": 305,
+          "height": 36,
+          "right": 337.6875,
+          "bottom": 153
+        },
+        {
+          "className": "about__body",
+          "x": 32,
+          "y": 178,
+          "width": 620,
+          "height": 405,
+          "right": 652,
+          "bottom": 583
+        },
+        {
+          "className": "about__choice",
+          "x": 32,
+          "y": 631,
+          "width": 216,
+          "height": 80,
+          "right": 248,
+          "bottom": 711
+        },
+        {
+          "className": "about__choice",
+          "x": 276,
+          "y": 631,
+          "width": 216,
+          "height": 80,
+          "right": 492,
+          "bottom": 711
+        },
+        {
+          "className": "about__choice",
+          "x": 520,
+          "y": 631,
+          "width": 216,
+          "height": 80,
+          "right": 736,
+          "bottom": 711
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 768,
+    "height": 1024,
+    "layout": {
+      "width": 768,
+      "height": 1024,
+      "clientWidth": 768,
+      "scrollWidth": 768,
+      "scrollHeight": 1024,
+      "rects": [
+        {
+          "className": "A",
+          "x": 60.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 132,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 156,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 279.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 303.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 391.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 415.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 555.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 579.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 707.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 33.578125,
+          "y": 123.6875,
+          "width": 619,
+          "height": 49,
+          "right": 652.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 32,
+          "y": 203,
+          "width": 704,
+          "height": 36.859375,
+          "right": 736,
+          "bottom": 239.859375
+        },
+        {
+          "className": "about__body",
+          "x": 32,
+          "y": 263.859375,
+          "width": 620,
+          "height": 216,
+          "right": 652,
+          "bottom": 479.859375
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 768,
+    "height": 1024,
+    "layout": {
+      "width": 768,
+      "height": 1024,
+      "clientWidth": 768,
+      "scrollWidth": 768,
+      "scrollHeight": 1024,
+      "rects": [
+        {
+          "className": "A",
+          "x": 60.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 132,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 156,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 279.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 303.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 391.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 415.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 555.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 579.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 707.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 33.328125,
+          "y": 121.234375,
+          "width": 700.625,
+          "height": 41.296875,
+          "right": 733.953125,
+          "bottom": 162.53125
+        },
+        {
+          "className": "about__subtitle",
+          "x": 32,
+          "y": 189.96875,
+          "width": 704,
+          "height": 36.859375,
+          "right": 736,
+          "bottom": 226.828125
+        },
+        {
+          "className": "about__body",
+          "x": 32,
+          "y": 250.828125,
+          "width": 620,
+          "height": 189,
+          "right": 652,
+          "bottom": 439.828125
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 768,
+    "height": 1024,
+    "layout": {
+      "width": 768,
+      "height": 1024,
+      "clientWidth": 768,
+      "scrollWidth": 768,
+      "scrollHeight": 1200,
+      "rects": [
+        {
+          "className": "A",
+          "x": 60.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 132,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 156,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 279.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 303.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 391.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 415.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 555.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 579.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 707.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 33.578125,
+          "y": 123.6875,
+          "width": 556,
+          "height": 49,
+          "right": 589.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 32,
+          "y": 203,
+          "width": 704,
+          "height": 36.859375,
+          "right": 736,
+          "bottom": 239.859375
+        },
+        {
+          "className": "about__body",
+          "x": 32,
+          "y": 263.859375,
+          "width": 620,
+          "height": 216,
+          "right": 652,
+          "bottom": 479.859375
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 880,
+    "height": 900,
+    "layout": {
+      "width": 880,
+      "height": 900,
+      "clientWidth": 880,
+      "scrollWidth": 880,
+      "scrollHeight": 900,
+      "rects": [
+        {
+          "className": "A",
+          "x": 116.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 188,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 212,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 335.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 359.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 447.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 471.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 611.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 635.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 763.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 32.6875,
+          "y": 117,
+          "width": 305,
+          "height": 36,
+          "right": 337.6875,
+          "bottom": 153
+        },
+        {
+          "className": "about__body",
+          "x": 32,
+          "y": 178,
+          "width": 620,
+          "height": 405,
+          "right": 652,
+          "bottom": 583
+        },
+        {
+          "className": "about__choice",
+          "x": 32,
+          "y": 631,
+          "width": 253.328125,
+          "height": 80,
+          "right": 285.328125,
+          "bottom": 711
+        },
+        {
+          "className": "about__choice",
+          "x": 313.328125,
+          "y": 631,
+          "width": 253.328125,
+          "height": 80,
+          "right": 566.65625,
+          "bottom": 711
+        },
+        {
+          "className": "about__choice",
+          "x": 594.65625,
+          "y": 631,
+          "width": 253.328125,
+          "height": 80,
+          "right": 847.984375,
+          "bottom": 711
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 880,
+    "height": 900,
+    "layout": {
+      "width": 880,
+      "height": 900,
+      "clientWidth": 880,
+      "scrollWidth": 880,
+      "scrollHeight": 1083,
+      "rects": [
+        {
+          "className": "A",
+          "x": 116.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 188,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 212,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 335.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 359.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 447.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 471.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 611.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 635.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 763.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 33.578125,
+          "y": 123.6875,
+          "width": 619,
+          "height": 49,
+          "right": 652.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 32,
+          "y": 203,
+          "width": 816,
+          "height": 42.234375,
+          "right": 848,
+          "bottom": 245.234375
+        },
+        {
+          "className": "about__body",
+          "x": 32,
+          "y": 269.234375,
+          "width": 620,
+          "height": 216,
+          "right": 652,
+          "bottom": 485.234375
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 880,
+    "height": 900,
+    "layout": {
+      "width": 880,
+      "height": 900,
+      "clientWidth": 880,
+      "scrollWidth": 880,
+      "scrollHeight": 900,
+      "rects": [
+        {
+          "className": "A",
+          "x": 116.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 188,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 212,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 335.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 359.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 447.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 471.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 611.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 635.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 763.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 33.546875,
+          "y": 123.328125,
+          "width": 812.078125,
+          "height": 47.875,
+          "right": 845.625,
+          "bottom": 171.203125
+        },
+        {
+          "className": "about__subtitle",
+          "x": 32,
+          "y": 201.109375,
+          "width": 816,
+          "height": 42.234375,
+          "right": 848,
+          "bottom": 243.34375
+        },
+        {
+          "className": "about__body",
+          "x": 32,
+          "y": 267.34375,
+          "width": 620,
+          "height": 189,
+          "right": 652,
+          "bottom": 456.34375
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 880,
+    "height": 900,
+    "layout": {
+      "width": 880,
+      "height": 900,
+      "clientWidth": 880,
+      "scrollWidth": 880,
+      "scrollHeight": 1205,
+      "rects": [
+        {
+          "className": "A",
+          "x": 116.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 188,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 212,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 335.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 359.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 447.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 471.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 611.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 635.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 763.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 33.578125,
+          "y": 123.6875,
+          "width": 556,
+          "height": 49,
+          "right": 589.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 32,
+          "y": 203,
+          "width": 816,
+          "height": 42.234375,
+          "right": 848,
+          "bottom": 245.234375
+        },
+        {
+          "className": "about__body",
+          "x": 32,
+          "y": 269.234375,
+          "width": 620,
+          "height": 216,
+          "right": 652,
+          "bottom": 485.234375
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 1199,
+    "height": 900,
+    "layout": {
+      "width": 1199,
+      "height": 900,
+      "clientWidth": 1199,
+      "scrollWidth": 1199,
+      "scrollHeight": 900,
+      "rects": [
+        {
+          "className": "A",
+          "x": 276.3125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 347.5,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 371.5,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 494.6875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 518.6875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 607.484375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 631.484375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 771.484375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 795.484375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 922.671875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 82.1875,
+          "y": 117,
+          "width": 305,
+          "height": 36,
+          "right": 387.1875,
+          "bottom": 153
+        },
+        {
+          "className": "about__body",
+          "x": 81.5,
+          "y": 178,
+          "width": 620,
+          "height": 405,
+          "right": 701.5,
+          "bottom": 583
+        },
+        {
+          "className": "about__choice",
+          "x": 81.5,
+          "y": 631,
+          "width": 326.65625,
+          "height": 80,
+          "right": 408.15625,
+          "bottom": 711
+        },
+        {
+          "className": "about__choice",
+          "x": 436.15625,
+          "y": 631,
+          "width": 326.671875,
+          "height": 80,
+          "right": 762.828125,
+          "bottom": 711
+        },
+        {
+          "className": "about__choice",
+          "x": 790.828125,
+          "y": 631,
+          "width": 326.65625,
+          "height": 80,
+          "right": 1117.484375,
+          "bottom": 711
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 1199,
+    "height": 900,
+    "layout": {
+      "width": 1199,
+      "height": 900,
+      "clientWidth": 1199,
+      "scrollWidth": 1199,
+      "scrollHeight": 1127,
+      "rects": [
+        {
+          "className": "A",
+          "x": 276.3125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 347.5,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 371.5,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 494.6875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 518.6875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 607.484375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 631.484375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 771.484375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 795.484375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 922.671875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 83.078125,
+          "y": 123.6875,
+          "width": 619,
+          "height": 49,
+          "right": 702.078125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 81.5,
+          "y": 203,
+          "width": 1036,
+          "height": 43.625,
+          "right": 1117.5,
+          "bottom": 246.625
+        },
+        {
+          "className": "about__body",
+          "x": 81.5,
+          "y": 270.625,
+          "width": 620,
+          "height": 216,
+          "right": 701.5,
+          "bottom": 486.625
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 1199,
+    "height": 900,
+    "layout": {
+      "width": 1199,
+      "height": 900,
+      "clientWidth": 1199,
+      "scrollWidth": 1199,
+      "scrollHeight": 900,
+      "rects": [
+        {
+          "className": "A",
+          "x": 276.3125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 347.5,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 371.5,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 494.6875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 518.6875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 607.484375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 631.484375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 771.484375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 795.484375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 922.671875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 83.078125,
+          "y": 123.6875,
+          "width": 831,
+          "height": 49,
+          "right": 914.078125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 81.5,
+          "y": 203,
+          "width": 1036,
+          "height": 43.625,
+          "right": 1117.5,
+          "bottom": 246.625
+        },
+        {
+          "className": "about__body",
+          "x": 81.5,
+          "y": 270.625,
+          "width": 620,
+          "height": 189,
+          "right": 701.5,
+          "bottom": 459.625
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 1199,
+    "height": 900,
+    "layout": {
+      "width": 1199,
+      "height": 900,
+      "clientWidth": 1199,
+      "scrollWidth": 1199,
+      "scrollHeight": 1207,
+      "rects": [
+        {
+          "className": "A",
+          "x": 276.3125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 347.5,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 371.5,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 494.6875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 518.6875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 607.484375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 631.484375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 771.484375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 795.484375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 922.671875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 83.078125,
+          "y": 123.6875,
+          "width": 556,
+          "height": 49,
+          "right": 639.078125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 81.5,
+          "y": 203,
+          "width": 1036,
+          "height": 43.625,
+          "right": 1117.5,
+          "bottom": 246.625
+        },
+        {
+          "className": "about__body",
+          "x": 81.5,
+          "y": 270.625,
+          "width": 620,
+          "height": 216,
+          "right": 701.5,
+          "bottom": 486.625
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 1200,
+    "height": 900,
+    "layout": {
+      "width": 1200,
+      "height": 900,
+      "clientWidth": 1200,
+      "scrollWidth": 1200,
+      "scrollHeight": 900,
+      "rects": [
+        {
+          "className": "A",
+          "x": 276.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 348,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 372,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 495.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 519.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 607.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 631.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 771.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 795.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 923.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 82.6875,
+          "y": 117,
+          "width": 305,
+          "height": 36,
+          "right": 387.6875,
+          "bottom": 153
+        },
+        {
+          "className": "about__body",
+          "x": 82,
+          "y": 178,
+          "width": 620,
+          "height": 405,
+          "right": 702,
+          "bottom": 583
+        },
+        {
+          "className": "about__choice",
+          "x": 82,
+          "y": 631,
+          "width": 326.65625,
+          "height": 80,
+          "right": 408.65625,
+          "bottom": 711
+        },
+        {
+          "className": "about__choice",
+          "x": 436.65625,
+          "y": 631,
+          "width": 326.671875,
+          "height": 80,
+          "right": 763.328125,
+          "bottom": 711
+        },
+        {
+          "className": "about__choice",
+          "x": 791.328125,
+          "y": 631,
+          "width": 326.65625,
+          "height": 80,
+          "right": 1117.984375,
+          "bottom": 711
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 1200,
+    "height": 900,
+    "layout": {
+      "width": 1200,
+      "height": 900,
+      "clientWidth": 1200,
+      "scrollWidth": 1200,
+      "scrollHeight": 1127,
+      "rects": [
+        {
+          "className": "A",
+          "x": 276.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 348,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 372,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 495.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 519.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 607.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 631.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 771.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 795.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 923.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 83.578125,
+          "y": 123.6875,
+          "width": 619,
+          "height": 49,
+          "right": 702.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 82,
+          "y": 203,
+          "width": 1036,
+          "height": 43.625,
+          "right": 1118,
+          "bottom": 246.625
+        },
+        {
+          "className": "about__body",
+          "x": 82,
+          "y": 270.625,
+          "width": 620,
+          "height": 216,
+          "right": 702,
+          "bottom": 486.625
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 1200,
+    "height": 900,
+    "layout": {
+      "width": 1200,
+      "height": 900,
+      "clientWidth": 1200,
+      "scrollWidth": 1200,
+      "scrollHeight": 900,
+      "rects": [
+        {
+          "className": "A",
+          "x": 276.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 348,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 372,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 495.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 519.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 607.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 631.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 771.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 795.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 923.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 83.578125,
+          "y": 123.6875,
+          "width": 831,
+          "height": 49,
+          "right": 914.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 82,
+          "y": 203,
+          "width": 1036,
+          "height": 43.625,
+          "right": 1118,
+          "bottom": 246.625
+        },
+        {
+          "className": "about__body",
+          "x": 82,
+          "y": 270.625,
+          "width": 620,
+          "height": 189,
+          "right": 702,
+          "bottom": 459.625
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 1200,
+    "height": 900,
+    "layout": {
+      "width": 1200,
+      "height": 900,
+      "clientWidth": 1200,
+      "scrollWidth": 1200,
+      "scrollHeight": 1207,
+      "rects": [
+        {
+          "className": "A",
+          "x": 276.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 348,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 372,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 495.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 519.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 607.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 631.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 771.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 795.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 923.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 83.578125,
+          "y": 123.6875,
+          "width": 556,
+          "height": 49,
+          "right": 639.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 82,
+          "y": 203,
+          "width": 1036,
+          "height": 43.625,
+          "right": 1118,
+          "bottom": 246.625
+        },
+        {
+          "className": "about__body",
+          "x": 82,
+          "y": 270.625,
+          "width": 620,
+          "height": 216,
+          "right": 702,
+          "bottom": 486.625
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 1201,
+    "height": 900,
+    "layout": {
+      "width": 1201,
+      "height": 900,
+      "clientWidth": 1201,
+      "scrollWidth": 1201,
+      "scrollHeight": 900,
+      "rects": [
+        {
+          "className": "A",
+          "x": 477.109375,
+          "y": 19.59375,
+          "width": 74.21875,
+          "height": 40,
+          "right": 551.328125,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 580.515625,
+          "y": 19.59375,
+          "width": 128.4375,
+          "height": 40,
+          "right": 708.953125,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 738.140625,
+          "y": 19.59375,
+          "width": 92.5625,
+          "height": 40,
+          "right": 830.703125,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 859.890625,
+          "y": 19.59375,
+          "width": 145.953125,
+          "height": 40,
+          "right": 1005.84375,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 1035.03125,
+          "y": 19.59375,
+          "width": 132.609375,
+          "height": 40,
+          "right": 1167.640625,
+          "bottom": 59.59375
+        },
+        {
+          "className": "IMG",
+          "x": 81.46875,
+          "y": 233.125,
+          "width": 254.375,
+          "height": 30.015625,
+          "right": 335.84375,
+          "bottom": 263.140625
+        },
+        {
+          "className": "about__body",
+          "x": 80.890625,
+          "y": 279.015625,
+          "width": 376.96875,
+          "height": 264.25,
+          "right": 457.859375,
+          "bottom": 543.265625
+        },
+        {
+          "className": "about__choice",
+          "x": 756.453125,
+          "y": 301.53125,
+          "width": 437.859375,
+          "height": 46.703125,
+          "right": 1194.3125,
+          "bottom": 348.234375
+        },
+        {
+          "className": "about__choice",
+          "x": 756.453125,
+          "y": 455.828125,
+          "width": 437.859375,
+          "height": 46.703125,
+          "right": 1194.3125,
+          "bottom": 502.53125
+        },
+        {
+          "className": "about__choice",
+          "x": 756.453125,
+          "y": 604.28125,
+          "width": 437.859375,
+          "height": 46.703125,
+          "right": 1194.3125,
+          "bottom": 650.984375
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 1201,
+    "height": 900,
+    "layout": {
+      "width": 1201,
+      "height": 900,
+      "clientWidth": 1201,
+      "scrollWidth": 1201,
+      "scrollHeight": 900,
+      "rects": [
+        {
+          "className": "A",
+          "x": 477.109375,
+          "y": 19.59375,
+          "width": 74.21875,
+          "height": 40,
+          "right": 551.328125,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 580.515625,
+          "y": 19.59375,
+          "width": 128.4375,
+          "height": 40,
+          "right": 708.953125,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 738.140625,
+          "y": 19.59375,
+          "width": 92.5625,
+          "height": 40,
+          "right": 830.703125,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 859.890625,
+          "y": 19.59375,
+          "width": 145.953125,
+          "height": 40,
+          "right": 1005.84375,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 1035.03125,
+          "y": 19.59375,
+          "width": 132.609375,
+          "height": 40,
+          "right": 1167.640625,
+          "bottom": 59.59375
+        },
+        {
+          "className": "IMG",
+          "x": 62.1875,
+          "y": 242.890625,
+          "width": 516.25,
+          "height": 40.859375,
+          "right": 578.4375,
+          "bottom": 283.75
+        },
+        {
+          "className": "about__subtitle",
+          "x": 68.375,
+          "y": 311.53125,
+          "width": 372.25,
+          "height": 35.859375,
+          "right": 440.625,
+          "bottom": 347.390625
+        },
+        {
+          "className": "about__body",
+          "x": 68.375,
+          "y": 362.140625,
+          "width": 376.96875,
+          "height": 189,
+          "right": 445.34375,
+          "bottom": 551.140625
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 1201,
+    "height": 900,
+    "layout": {
+      "width": 1201,
+      "height": 900,
+      "clientWidth": 1201,
+      "scrollWidth": 1201,
+      "scrollHeight": 900,
+      "rects": [
+        {
+          "className": "A",
+          "x": 477.109375,
+          "y": 19.59375,
+          "width": 74.21875,
+          "height": 40,
+          "right": 551.328125,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 580.515625,
+          "y": 19.59375,
+          "width": 128.4375,
+          "height": 40,
+          "right": 708.953125,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 738.140625,
+          "y": 19.59375,
+          "width": 92.5625,
+          "height": 40,
+          "right": 830.703125,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 859.890625,
+          "y": 19.59375,
+          "width": 145.953125,
+          "height": 40,
+          "right": 1005.84375,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 1035.03125,
+          "y": 19.59375,
+          "width": 132.609375,
+          "height": 40,
+          "right": 1167.640625,
+          "bottom": 59.59375
+        },
+        {
+          "className": "IMG",
+          "x": 62.1875,
+          "y": 242.890625,
+          "width": 693.0625,
+          "height": 40.859375,
+          "right": 755.25,
+          "bottom": 283.75
+        },
+        {
+          "className": "about__subtitle",
+          "x": 68.375,
+          "y": 299.03125,
+          "width": 305.40625,
+          "height": 35.859375,
+          "right": 373.78125,
+          "bottom": 334.890625
+        },
+        {
+          "className": "about__body",
+          "x": 68.375,
+          "y": 349.625,
+          "width": 376.96875,
+          "height": 168,
+          "right": 445.34375,
+          "bottom": 517.625
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 1201,
+    "height": 900,
+    "layout": {
+      "width": 1201,
+      "height": 900,
+      "clientWidth": 1201,
+      "scrollWidth": 1201,
+      "scrollHeight": 900,
+      "rects": [
+        {
+          "className": "A",
+          "x": 477.109375,
+          "y": 19.59375,
+          "width": 74.21875,
+          "height": 40,
+          "right": 551.328125,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 580.515625,
+          "y": 19.59375,
+          "width": 128.4375,
+          "height": 40,
+          "right": 708.953125,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 738.140625,
+          "y": 19.59375,
+          "width": 92.5625,
+          "height": 40,
+          "right": 830.703125,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 859.890625,
+          "y": 19.59375,
+          "width": 145.953125,
+          "height": 40,
+          "right": 1005.84375,
+          "bottom": 59.59375
+        },
+        {
+          "className": "A",
+          "x": 1035.03125,
+          "y": 19.59375,
+          "width": 132.609375,
+          "height": 40,
+          "right": 1167.640625,
+          "bottom": 59.59375
+        },
+        {
+          "className": "IMG",
+          "x": 62.1875,
+          "y": 242.890625,
+          "width": 463.71875,
+          "height": 40.859375,
+          "right": 525.90625,
+          "bottom": 283.75
+        },
+        {
+          "className": "about__subtitle",
+          "x": 68.375,
+          "y": 300.6875,
+          "width": 395.703125,
+          "height": 35.859375,
+          "right": 464.078125,
+          "bottom": 336.546875
+        },
+        {
+          "className": "about__body",
+          "x": 68.375,
+          "y": 424.96875,
+          "width": 376.96875,
+          "height": 210,
+          "right": 445.34375,
+          "bottom": 634.96875
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 1920,
+    "height": 1080,
+    "layout": {
+      "width": 1920,
+      "height": 1080,
+      "clientWidth": 1920,
+      "scrollWidth": 1920,
+      "scrollHeight": 1080,
+      "rects": [
+        {
+          "className": "A",
+          "x": 762.734375,
+          "y": 31.328125,
+          "width": 118.65625,
+          "height": 53.328125,
+          "right": 881.390625,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 928.046875,
+          "y": 31.328125,
+          "width": 205.328125,
+          "height": 53.328125,
+          "right": 1133.375,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 1180.03125,
+          "y": 31.328125,
+          "width": 148,
+          "height": 53.328125,
+          "right": 1328.03125,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 1374.6875,
+          "y": 31.328125,
+          "width": 233.328125,
+          "height": 53.328125,
+          "right": 1608.015625,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 1654.671875,
+          "y": 31.328125,
+          "width": 212,
+          "height": 53.328125,
+          "right": 1866.671875,
+          "bottom": 84.65625
+        },
+        {
+          "className": "IMG",
+          "x": 130.25,
+          "y": 193.328125,
+          "width": 406.65625,
+          "height": 47.984375,
+          "right": 536.90625,
+          "bottom": 241.3125
+        },
+        {
+          "className": "about__body",
+          "x": 129.328125,
+          "y": 266.65625,
+          "width": 602.65625,
+          "height": 377.34375,
+          "right": 731.984375,
+          "bottom": 644
+        },
+        {
+          "className": "about__choice",
+          "x": 1209.328125,
+          "y": 302.65625,
+          "width": 700,
+          "height": 74.65625,
+          "right": 1909.328125,
+          "bottom": 377.3125
+        },
+        {
+          "className": "about__choice",
+          "x": 1209.328125,
+          "y": 549.328125,
+          "width": 700,
+          "height": 74.65625,
+          "right": 1909.328125,
+          "bottom": 623.984375
+        },
+        {
+          "className": "about__choice",
+          "x": 1209.328125,
+          "y": 786.65625,
+          "width": 700,
+          "height": 74.65625,
+          "right": 1909.328125,
+          "bottom": 861.3125
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 1920,
+    "height": 1080,
+    "layout": {
+      "width": 1920,
+      "height": 1080,
+      "clientWidth": 1920,
+      "scrollWidth": 1920,
+      "scrollHeight": 1080,
+      "rects": [
+        {
+          "className": "A",
+          "x": 762.734375,
+          "y": 31.328125,
+          "width": 118.65625,
+          "height": 53.328125,
+          "right": 881.390625,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 928.046875,
+          "y": 31.328125,
+          "width": 205.328125,
+          "height": 53.328125,
+          "right": 1133.375,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 1180.03125,
+          "y": 31.328125,
+          "width": 148,
+          "height": 53.328125,
+          "right": 1328.03125,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 1374.6875,
+          "y": 31.328125,
+          "width": 233.328125,
+          "height": 53.328125,
+          "right": 1608.015625,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 1654.671875,
+          "y": 31.328125,
+          "width": 212,
+          "height": 53.328125,
+          "right": 1866.671875,
+          "bottom": 84.65625
+        },
+        {
+          "className": "IMG",
+          "x": 99.4375,
+          "y": 208.921875,
+          "width": 825.328125,
+          "height": 65.328125,
+          "right": 924.765625,
+          "bottom": 274.25
+        },
+        {
+          "className": "about__subtitle",
+          "x": 109.328125,
+          "y": 318.65625,
+          "width": 595.21875,
+          "height": 57.328125,
+          "right": 704.546875,
+          "bottom": 375.984375
+        },
+        {
+          "className": "about__body",
+          "x": 109.328125,
+          "y": 399.546875,
+          "width": 602.65625,
+          "height": 255.875,
+          "right": 711.984375,
+          "bottom": 655.421875
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 1920,
+    "height": 1080,
+    "layout": {
+      "width": 1920,
+      "height": 1080,
+      "clientWidth": 1920,
+      "scrollWidth": 1920,
+      "scrollHeight": 1080,
+      "rects": [
+        {
+          "className": "A",
+          "x": 762.734375,
+          "y": 31.328125,
+          "width": 118.65625,
+          "height": 53.328125,
+          "right": 881.390625,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 928.046875,
+          "y": 31.328125,
+          "width": 205.328125,
+          "height": 53.328125,
+          "right": 1133.375,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 1180.03125,
+          "y": 31.328125,
+          "width": 148,
+          "height": 53.328125,
+          "right": 1328.03125,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 1374.6875,
+          "y": 31.328125,
+          "width": 233.328125,
+          "height": 53.328125,
+          "right": 1608.015625,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 1654.671875,
+          "y": 31.328125,
+          "width": 212,
+          "height": 53.328125,
+          "right": 1866.671875,
+          "bottom": 84.65625
+        },
+        {
+          "className": "IMG",
+          "x": 99.4375,
+          "y": 208.921875,
+          "width": 1108,
+          "height": 65.328125,
+          "right": 1207.4375,
+          "bottom": 274.25
+        },
+        {
+          "className": "about__subtitle",
+          "x": 109.328125,
+          "y": 298.65625,
+          "width": 488.3125,
+          "height": 57.328125,
+          "right": 597.640625,
+          "bottom": 355.984375
+        },
+        {
+          "className": "about__body",
+          "x": 109.328125,
+          "y": 379.546875,
+          "width": 602.65625,
+          "height": 255.875,
+          "right": 711.984375,
+          "bottom": 635.421875
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 1920,
+    "height": 1080,
+    "layout": {
+      "width": 1920,
+      "height": 1080,
+      "clientWidth": 1920,
+      "scrollWidth": 1920,
+      "scrollHeight": 1080,
+      "rects": [
+        {
+          "className": "A",
+          "x": 762.734375,
+          "y": 31.328125,
+          "width": 118.65625,
+          "height": 53.328125,
+          "right": 881.390625,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 928.046875,
+          "y": 31.328125,
+          "width": 205.328125,
+          "height": 53.328125,
+          "right": 1133.375,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 1180.03125,
+          "y": 31.328125,
+          "width": 148,
+          "height": 53.328125,
+          "right": 1328.03125,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 1374.6875,
+          "y": 31.328125,
+          "width": 233.328125,
+          "height": 53.328125,
+          "right": 1608.015625,
+          "bottom": 84.65625
+        },
+        {
+          "className": "A",
+          "x": 1654.671875,
+          "y": 31.328125,
+          "width": 212,
+          "height": 53.328125,
+          "right": 1866.671875,
+          "bottom": 84.65625
+        },
+        {
+          "className": "IMG",
+          "x": 99.4375,
+          "y": 208.921875,
+          "width": 741.328125,
+          "height": 65.328125,
+          "right": 840.765625,
+          "bottom": 274.25
+        },
+        {
+          "className": "about__subtitle",
+          "x": 109.328125,
+          "y": 301.328125,
+          "width": 632.703125,
+          "height": 57.328125,
+          "right": 742.03125,
+          "bottom": 358.65625
+        },
+        {
+          "className": "about__body",
+          "x": 109.328125,
+          "y": 500,
+          "width": 602.65625,
+          "height": 319.84375,
+          "right": 711.984375,
+          "bottom": 819.84375
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 2560,
+    "height": 1440,
+    "layout": {
+      "width": 2560,
+      "height": 1440,
+      "clientWidth": 2560,
+      "scrollWidth": 2560,
+      "scrollHeight": 1440,
+      "rects": [
+        {
+          "className": "A",
+          "x": 1016.9375,
+          "y": 41.765625,
+          "width": 158.21875,
+          "height": 71.109375,
+          "right": 1175.15625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1237.375,
+          "y": 41.765625,
+          "width": 273.765625,
+          "height": 71.109375,
+          "right": 1511.140625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1573.359375,
+          "y": 41.765625,
+          "width": 197.328125,
+          "height": 71.109375,
+          "right": 1770.6875,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1832.90625,
+          "y": 41.765625,
+          "width": 311.109375,
+          "height": 71.109375,
+          "right": 2144.015625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2206.234375,
+          "y": 41.765625,
+          "width": 282.65625,
+          "height": 71.109375,
+          "right": 2488.890625,
+          "bottom": 112.875
+        },
+        {
+          "className": "IMG",
+          "x": 173.65625,
+          "y": 257.78125,
+          "width": 542.21875,
+          "height": 63.984375,
+          "right": 715.875,
+          "bottom": 321.765625
+        },
+        {
+          "className": "about__body",
+          "x": 172.4375,
+          "y": 355.546875,
+          "width": 803.546875,
+          "height": 503.203125,
+          "right": 975.984375,
+          "bottom": 858.75
+        },
+        {
+          "className": "about__choice",
+          "x": 1612.4375,
+          "y": 403.546875,
+          "width": 933.328125,
+          "height": 99.546875,
+          "right": 2545.765625,
+          "bottom": 503.09375
+        },
+        {
+          "className": "about__choice",
+          "x": 1612.4375,
+          "y": 732.4375,
+          "width": 933.328125,
+          "height": 99.546875,
+          "right": 2545.765625,
+          "bottom": 831.984375
+        },
+        {
+          "className": "about__choice",
+          "x": 1612.4375,
+          "y": 1048.890625,
+          "width": 933.328125,
+          "height": 99.546875,
+          "right": 2545.765625,
+          "bottom": 1148.4375
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 2560,
+    "height": 1440,
+    "layout": {
+      "width": 2560,
+      "height": 1440,
+      "clientWidth": 2560,
+      "scrollWidth": 2560,
+      "scrollHeight": 1440,
+      "rects": [
+        {
+          "className": "A",
+          "x": 1016.9375,
+          "y": 41.765625,
+          "width": 158.21875,
+          "height": 71.109375,
+          "right": 1175.15625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1237.375,
+          "y": 41.765625,
+          "width": 273.765625,
+          "height": 71.109375,
+          "right": 1511.140625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1573.359375,
+          "y": 41.765625,
+          "width": 197.328125,
+          "height": 71.109375,
+          "right": 1770.6875,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1832.90625,
+          "y": 41.765625,
+          "width": 311.109375,
+          "height": 71.109375,
+          "right": 2144.015625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2206.234375,
+          "y": 41.765625,
+          "width": 282.65625,
+          "height": 71.109375,
+          "right": 2488.890625,
+          "bottom": 112.875
+        },
+        {
+          "className": "IMG",
+          "x": 132.578125,
+          "y": 278.578125,
+          "width": 1100.4375,
+          "height": 87.109375,
+          "right": 1233.015625,
+          "bottom": 365.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 145.765625,
+          "y": 424.890625,
+          "width": 793.609375,
+          "height": 76.4375,
+          "right": 939.375,
+          "bottom": 501.328125
+        },
+        {
+          "className": "about__body",
+          "x": 145.765625,
+          "y": 532.734375,
+          "width": 803.546875,
+          "height": 341.25,
+          "right": 949.3125,
+          "bottom": 873.984375
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 2560,
+    "height": 1440,
+    "layout": {
+      "width": 2560,
+      "height": 1440,
+      "clientWidth": 2560,
+      "scrollWidth": 2560,
+      "scrollHeight": 1440,
+      "rects": [
+        {
+          "className": "A",
+          "x": 1016.9375,
+          "y": 41.765625,
+          "width": 158.21875,
+          "height": 71.109375,
+          "right": 1175.15625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1237.375,
+          "y": 41.765625,
+          "width": 273.765625,
+          "height": 71.109375,
+          "right": 1511.140625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1573.359375,
+          "y": 41.765625,
+          "width": 197.328125,
+          "height": 71.109375,
+          "right": 1770.6875,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1832.90625,
+          "y": 41.765625,
+          "width": 311.109375,
+          "height": 71.109375,
+          "right": 2144.015625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2206.234375,
+          "y": 41.765625,
+          "width": 282.65625,
+          "height": 71.109375,
+          "right": 2488.890625,
+          "bottom": 112.875
+        },
+        {
+          "className": "IMG",
+          "x": 132.578125,
+          "y": 278.578125,
+          "width": 1477.328125,
+          "height": 87.109375,
+          "right": 1609.90625,
+          "bottom": 365.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 145.765625,
+          "y": 398.21875,
+          "width": 651.078125,
+          "height": 76.4375,
+          "right": 796.84375,
+          "bottom": 474.65625
+        },
+        {
+          "className": "about__body",
+          "x": 145.765625,
+          "y": 506.078125,
+          "width": 803.546875,
+          "height": 341.25,
+          "right": 949.3125,
+          "bottom": 847.328125
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 2560,
+    "height": 1440,
+    "layout": {
+      "width": 2560,
+      "height": 1440,
+      "clientWidth": 2560,
+      "scrollWidth": 2560,
+      "scrollHeight": 1440,
+      "rects": [
+        {
+          "className": "A",
+          "x": 1016.9375,
+          "y": 41.765625,
+          "width": 158.21875,
+          "height": 71.109375,
+          "right": 1175.15625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1237.375,
+          "y": 41.765625,
+          "width": 273.765625,
+          "height": 71.109375,
+          "right": 1511.140625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1573.359375,
+          "y": 41.765625,
+          "width": 197.328125,
+          "height": 71.109375,
+          "right": 1770.6875,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1832.90625,
+          "y": 41.765625,
+          "width": 311.109375,
+          "height": 71.109375,
+          "right": 2144.015625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2206.234375,
+          "y": 41.765625,
+          "width": 282.65625,
+          "height": 71.109375,
+          "right": 2488.890625,
+          "bottom": 112.875
+        },
+        {
+          "className": "IMG",
+          "x": 132.578125,
+          "y": 278.578125,
+          "width": 988.4375,
+          "height": 87.109375,
+          "right": 1121.015625,
+          "bottom": 365.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 145.765625,
+          "y": 401.78125,
+          "width": 843.609375,
+          "height": 76.4375,
+          "right": 989.375,
+          "bottom": 478.21875
+        },
+        {
+          "className": "about__body",
+          "x": 145.765625,
+          "y": 666.671875,
+          "width": 803.546875,
+          "height": 426.5625,
+          "right": 949.3125,
+          "bottom": 1093.234375
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 3840,
+    "height": 2160,
+    "layout": {
+      "width": 3840,
+      "height": 2160,
+      "clientWidth": 3840,
+      "scrollWidth": 3840,
+      "scrollHeight": 2160,
+      "rects": [
+        {
+          "className": "A",
+          "x": 1656.9375,
+          "y": 41.765625,
+          "width": 158.21875,
+          "height": 71.109375,
+          "right": 1815.15625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1877.375,
+          "y": 41.765625,
+          "width": 273.765625,
+          "height": 71.109375,
+          "right": 2151.140625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2213.359375,
+          "y": 41.765625,
+          "width": 197.328125,
+          "height": 71.109375,
+          "right": 2410.6875,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2472.90625,
+          "y": 41.765625,
+          "width": 311.109375,
+          "height": 71.109375,
+          "right": 2784.015625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2846.234375,
+          "y": 41.765625,
+          "width": 282.65625,
+          "height": 71.109375,
+          "right": 3128.890625,
+          "bottom": 112.875
+        },
+        {
+          "className": "IMG",
+          "x": 813.65625,
+          "y": 617.78125,
+          "width": 542.21875,
+          "height": 63.984375,
+          "right": 1355.875,
+          "bottom": 681.765625
+        },
+        {
+          "className": "about__body",
+          "x": 812.4375,
+          "y": 715.546875,
+          "width": 803.546875,
+          "height": 503.203125,
+          "right": 1615.984375,
+          "bottom": 1218.75
+        },
+        {
+          "className": "about__choice",
+          "x": 2252.4375,
+          "y": 763.546875,
+          "width": 933.328125,
+          "height": 99.546875,
+          "right": 3185.765625,
+          "bottom": 863.09375
+        },
+        {
+          "className": "about__choice",
+          "x": 2252.4375,
+          "y": 1092.4375,
+          "width": 933.328125,
+          "height": 99.546875,
+          "right": 3185.765625,
+          "bottom": 1191.984375
+        },
+        {
+          "className": "about__choice",
+          "x": 2252.4375,
+          "y": 1408.890625,
+          "width": 933.328125,
+          "height": 99.546875,
+          "right": 3185.765625,
+          "bottom": 1508.4375
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 3840,
+    "height": 2160,
+    "layout": {
+      "width": 3840,
+      "height": 2160,
+      "clientWidth": 3840,
+      "scrollWidth": 3840,
+      "scrollHeight": 2160,
+      "rects": [
+        {
+          "className": "A",
+          "x": 1656.9375,
+          "y": 41.765625,
+          "width": 158.21875,
+          "height": 71.109375,
+          "right": 1815.15625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1877.375,
+          "y": 41.765625,
+          "width": 273.765625,
+          "height": 71.109375,
+          "right": 2151.140625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2213.359375,
+          "y": 41.765625,
+          "width": 197.328125,
+          "height": 71.109375,
+          "right": 2410.6875,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2472.90625,
+          "y": 41.765625,
+          "width": 311.109375,
+          "height": 71.109375,
+          "right": 2784.015625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2846.234375,
+          "y": 41.765625,
+          "width": 282.65625,
+          "height": 71.109375,
+          "right": 3128.890625,
+          "bottom": 112.875
+        },
+        {
+          "className": "IMG",
+          "x": 772.578125,
+          "y": 638.578125,
+          "width": 1100.4375,
+          "height": 87.109375,
+          "right": 1873.015625,
+          "bottom": 725.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 785.765625,
+          "y": 784.890625,
+          "width": 793.609375,
+          "height": 76.4375,
+          "right": 1579.375,
+          "bottom": 861.328125
+        },
+        {
+          "className": "about__body",
+          "x": 785.765625,
+          "y": 892.734375,
+          "width": 803.546875,
+          "height": 341.25,
+          "right": 1589.3125,
+          "bottom": 1233.984375
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 3840,
+    "height": 2160,
+    "layout": {
+      "width": 3840,
+      "height": 2160,
+      "clientWidth": 3840,
+      "scrollWidth": 3840,
+      "scrollHeight": 2160,
+      "rects": [
+        {
+          "className": "A",
+          "x": 1656.9375,
+          "y": 41.765625,
+          "width": 158.21875,
+          "height": 71.109375,
+          "right": 1815.15625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1877.375,
+          "y": 41.765625,
+          "width": 273.765625,
+          "height": 71.109375,
+          "right": 2151.140625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2213.359375,
+          "y": 41.765625,
+          "width": 197.328125,
+          "height": 71.109375,
+          "right": 2410.6875,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2472.90625,
+          "y": 41.765625,
+          "width": 311.109375,
+          "height": 71.109375,
+          "right": 2784.015625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2846.234375,
+          "y": 41.765625,
+          "width": 282.65625,
+          "height": 71.109375,
+          "right": 3128.890625,
+          "bottom": 112.875
+        },
+        {
+          "className": "IMG",
+          "x": 772.578125,
+          "y": 638.578125,
+          "width": 1477.328125,
+          "height": 87.109375,
+          "right": 2249.90625,
+          "bottom": 725.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 785.765625,
+          "y": 758.21875,
+          "width": 651.078125,
+          "height": 76.4375,
+          "right": 1436.84375,
+          "bottom": 834.65625
+        },
+        {
+          "className": "about__body",
+          "x": 785.765625,
+          "y": 866.078125,
+          "width": 803.546875,
+          "height": 341.25,
+          "right": 1589.3125,
+          "bottom": 1207.328125
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 3840,
+    "height": 2160,
+    "layout": {
+      "width": 3840,
+      "height": 2160,
+      "clientWidth": 3840,
+      "scrollWidth": 3840,
+      "scrollHeight": 2160,
+      "rects": [
+        {
+          "className": "A",
+          "x": 1656.9375,
+          "y": 41.765625,
+          "width": 158.21875,
+          "height": 71.109375,
+          "right": 1815.15625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 1877.375,
+          "y": 41.765625,
+          "width": 273.765625,
+          "height": 71.109375,
+          "right": 2151.140625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2213.359375,
+          "y": 41.765625,
+          "width": 197.328125,
+          "height": 71.109375,
+          "right": 2410.6875,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2472.90625,
+          "y": 41.765625,
+          "width": 311.109375,
+          "height": 71.109375,
+          "right": 2784.015625,
+          "bottom": 112.875
+        },
+        {
+          "className": "A",
+          "x": 2846.234375,
+          "y": 41.765625,
+          "width": 282.65625,
+          "height": 71.109375,
+          "right": 3128.890625,
+          "bottom": 112.875
+        },
+        {
+          "className": "IMG",
+          "x": 772.578125,
+          "y": 638.578125,
+          "width": 988.4375,
+          "height": 87.109375,
+          "right": 1761.015625,
+          "bottom": 725.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 785.765625,
+          "y": 761.78125,
+          "width": 843.609375,
+          "height": 76.4375,
+          "right": 1629.375,
+          "bottom": 838.21875
+        },
+        {
+          "className": "about__body",
+          "x": 785.765625,
+          "y": 1026.671875,
+          "width": 803.546875,
+          "height": 426.5625,
+          "right": 1589.3125,
+          "bottom": 1453.234375
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 1440,
+    "height": 660,
+    "layout": {
+      "width": 1440,
+      "height": 660,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 819,
+      "rects": [
+        {
+          "className": "A",
+          "x": 396.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 468,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 492,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 615.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 639.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 727.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 751.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 891.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 915.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 1043.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 202.6875,
+          "y": 117,
+          "width": 305,
+          "height": 36,
+          "right": 507.6875,
+          "bottom": 153
+        },
+        {
+          "className": "about__body",
+          "x": 202,
+          "y": 178,
+          "width": 620,
+          "height": 405,
+          "right": 822,
+          "bottom": 583
+        },
+        {
+          "className": "about__choice",
+          "x": 202,
+          "y": 631,
+          "width": 326.65625,
+          "height": 80,
+          "right": 528.65625,
+          "bottom": 711
+        },
+        {
+          "className": "about__choice",
+          "x": 556.65625,
+          "y": 631,
+          "width": 326.671875,
+          "height": 80,
+          "right": 883.328125,
+          "bottom": 711
+        },
+        {
+          "className": "about__choice",
+          "x": 911.328125,
+          "y": 631,
+          "width": 326.65625,
+          "height": 80,
+          "right": 1237.984375,
+          "bottom": 711
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 1440,
+    "height": 660,
+    "layout": {
+      "width": 1440,
+      "height": 660,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 1127,
+      "rects": [
+        {
+          "className": "A",
+          "x": 396.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 468,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 492,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 615.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 639.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 727.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 751.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 891.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 915.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 1043.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 203.578125,
+          "y": 123.6875,
+          "width": 619,
+          "height": 49,
+          "right": 822.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 202,
+          "y": 203,
+          "width": 1036,
+          "height": 43.625,
+          "right": 1238,
+          "bottom": 246.625
+        },
+        {
+          "className": "about__body",
+          "x": 202,
+          "y": 270.625,
+          "width": 620,
+          "height": 216,
+          "right": 822,
+          "bottom": 486.625
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 1440,
+    "height": 660,
+    "layout": {
+      "width": 1440,
+      "height": 660,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 660,
+      "rects": [
+        {
+          "className": "A",
+          "x": 396.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 468,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 492,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 615.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 639.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 727.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 751.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 891.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 915.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 1043.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 203.578125,
+          "y": 123.6875,
+          "width": 831,
+          "height": 49,
+          "right": 1034.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 202,
+          "y": 203,
+          "width": 1036,
+          "height": 43.625,
+          "right": 1238,
+          "bottom": 246.625
+        },
+        {
+          "className": "about__body",
+          "x": 202,
+          "y": 270.625,
+          "width": 620,
+          "height": 189,
+          "right": 822,
+          "bottom": 459.625
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 1440,
+    "height": 660,
+    "layout": {
+      "width": 1440,
+      "height": 660,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 1207,
+      "rects": [
+        {
+          "className": "A",
+          "x": 396.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 468,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 492,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 615.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 639.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 727.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 751.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 891.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 915.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 1043.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 203.578125,
+          "y": 123.6875,
+          "width": 556,
+          "height": 49,
+          "right": 759.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 202,
+          "y": 203,
+          "width": 1036,
+          "height": 43.625,
+          "right": 1238,
+          "bottom": 246.625
+        },
+        {
+          "className": "about__body",
+          "x": 202,
+          "y": 270.625,
+          "width": 620,
+          "height": 216,
+          "right": 822,
+          "bottom": 486.625
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 1440,
+    "height": 661,
+    "layout": {
+      "width": 1440,
+      "height": 661,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 661,
+      "rects": [
+        {
+          "className": "A",
+          "x": 588.5625,
+          "y": 20.875,
+          "width": 79.0625,
+          "height": 40,
+          "right": 667.625,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 698.71875,
+          "y": 20.875,
+          "width": 136.8125,
+          "height": 40,
+          "right": 835.53125,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 866.625,
+          "y": 20.875,
+          "width": 98.609375,
+          "height": 40,
+          "right": 965.234375,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 996.328125,
+          "y": 20.875,
+          "width": 155.46875,
+          "height": 40,
+          "right": 1151.796875,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 1182.890625,
+          "y": 20.875,
+          "width": 141.25,
+          "height": 40,
+          "right": 1324.140625,
+          "bottom": 60.875
+        },
+        {
+          "className": "IMG",
+          "x": 167.109375,
+          "y": 99.484375,
+          "width": 270.96875,
+          "height": 31.96875,
+          "right": 438.078125,
+          "bottom": 131.453125
+        },
+        {
+          "className": "about__body",
+          "x": 166.5,
+          "y": 148.359375,
+          "width": 401.5625,
+          "height": 251.484375,
+          "right": 568.0625,
+          "bottom": 399.84375
+        },
+        {
+          "className": "about__choice",
+          "x": 886.125,
+          "y": 172.34375,
+          "width": 466.421875,
+          "height": 49.75,
+          "right": 1352.546875,
+          "bottom": 222.09375
+        },
+        {
+          "className": "about__choice",
+          "x": 886.125,
+          "y": 336.703125,
+          "width": 466.421875,
+          "height": 49.75,
+          "right": 1352.546875,
+          "bottom": 386.453125
+        },
+        {
+          "className": "about__choice",
+          "x": 886.125,
+          "y": 494.84375,
+          "width": 466.421875,
+          "height": 49.75,
+          "right": 1352.546875,
+          "bottom": 544.59375
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 1440,
+    "height": 661,
+    "layout": {
+      "width": 1440,
+      "height": 661,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 661,
+      "rects": [
+        {
+          "className": "A",
+          "x": 588.5625,
+          "y": 20.875,
+          "width": 79.0625,
+          "height": 40,
+          "right": 667.625,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 698.71875,
+          "y": 20.875,
+          "width": 136.8125,
+          "height": 40,
+          "right": 835.53125,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 866.625,
+          "y": 20.875,
+          "width": 98.609375,
+          "height": 40,
+          "right": 965.234375,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 996.328125,
+          "y": 20.875,
+          "width": 155.46875,
+          "height": 40,
+          "right": 1151.796875,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 1182.890625,
+          "y": 20.875,
+          "width": 141.25,
+          "height": 40,
+          "right": 1324.140625,
+          "bottom": 60.875
+        },
+        {
+          "className": "IMG",
+          "x": 146.578125,
+          "y": 109.875,
+          "width": 549.9375,
+          "height": 43.53125,
+          "right": 696.515625,
+          "bottom": 153.40625
+        },
+        {
+          "className": "about__subtitle",
+          "x": 153.171875,
+          "y": 183.015625,
+          "width": 396.5625,
+          "height": 38.203125,
+          "right": 549.734375,
+          "bottom": 221.21875
+        },
+        {
+          "className": "about__body",
+          "x": 153.171875,
+          "y": 236.90625,
+          "width": 401.5625,
+          "height": 170.625,
+          "right": 554.734375,
+          "bottom": 407.53125
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 1440,
+    "height": 661,
+    "layout": {
+      "width": 1440,
+      "height": 661,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 661,
+      "rects": [
+        {
+          "className": "A",
+          "x": 588.5625,
+          "y": 20.875,
+          "width": 79.0625,
+          "height": 40,
+          "right": 667.625,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 698.71875,
+          "y": 20.875,
+          "width": 136.8125,
+          "height": 40,
+          "right": 835.53125,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 866.625,
+          "y": 20.875,
+          "width": 98.609375,
+          "height": 40,
+          "right": 965.234375,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 996.328125,
+          "y": 20.875,
+          "width": 155.46875,
+          "height": 40,
+          "right": 1151.796875,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 1182.890625,
+          "y": 20.875,
+          "width": 141.25,
+          "height": 40,
+          "right": 1324.140625,
+          "bottom": 60.875
+        },
+        {
+          "className": "IMG",
+          "x": 146.578125,
+          "y": 109.875,
+          "width": 738.28125,
+          "height": 43.53125,
+          "right": 884.859375,
+          "bottom": 153.40625
+        },
+        {
+          "className": "about__subtitle",
+          "x": 153.171875,
+          "y": 169.6875,
+          "width": 325.34375,
+          "height": 38.203125,
+          "right": 478.515625,
+          "bottom": 207.890625
+        },
+        {
+          "className": "about__body",
+          "x": 153.171875,
+          "y": 223.578125,
+          "width": 401.5625,
+          "height": 170.625,
+          "right": 554.734375,
+          "bottom": 394.203125
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 1440,
+    "height": 661,
+    "layout": {
+      "width": 1440,
+      "height": 661,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 661,
+      "rects": [
+        {
+          "className": "A",
+          "x": 588.5625,
+          "y": 20.875,
+          "width": 79.0625,
+          "height": 40,
+          "right": 667.625,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 698.71875,
+          "y": 20.875,
+          "width": 136.8125,
+          "height": 40,
+          "right": 835.53125,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 866.625,
+          "y": 20.875,
+          "width": 98.609375,
+          "height": 40,
+          "right": 965.234375,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 996.328125,
+          "y": 20.875,
+          "width": 155.46875,
+          "height": 40,
+          "right": 1151.796875,
+          "bottom": 60.875
+        },
+        {
+          "className": "A",
+          "x": 1182.890625,
+          "y": 20.875,
+          "width": 141.25,
+          "height": 40,
+          "right": 1324.140625,
+          "bottom": 60.875
+        },
+        {
+          "className": "IMG",
+          "x": 146.578125,
+          "y": 109.875,
+          "width": 493.96875,
+          "height": 43.53125,
+          "right": 640.546875,
+          "bottom": 153.40625
+        },
+        {
+          "className": "about__subtitle",
+          "x": 153.171875,
+          "y": 171.453125,
+          "width": 421.546875,
+          "height": 38.203125,
+          "right": 574.71875,
+          "bottom": 209.65625
+        },
+        {
+          "className": "about__body",
+          "x": 153.171875,
+          "y": 303.84375,
+          "width": 401.5625,
+          "height": 213.28125,
+          "right": 554.734375,
+          "bottom": 517.125
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  },
+  {
+    "topic": "overview",
+    "width": 1920,
+    "height": 600,
+    "layout": {
+      "width": 1920,
+      "height": 600,
+      "clientWidth": 1920,
+      "scrollWidth": 1920,
+      "scrollHeight": 819,
+      "rects": [
+        {
+          "className": "A",
+          "x": 636.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 708,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 732,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 855.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 879.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 967.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 991.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 1131.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 1155.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 1283.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 442.6875,
+          "y": 117,
+          "width": 305,
+          "height": 36,
+          "right": 747.6875,
+          "bottom": 153
+        },
+        {
+          "className": "about__body",
+          "x": 442,
+          "y": 178,
+          "width": 620,
+          "height": 405,
+          "right": 1062,
+          "bottom": 583
+        },
+        {
+          "className": "about__choice",
+          "x": 442,
+          "y": 631,
+          "width": 326.65625,
+          "height": 80,
+          "right": 768.65625,
+          "bottom": 711
+        },
+        {
+          "className": "about__choice",
+          "x": 796.65625,
+          "y": 631,
+          "width": 326.671875,
+          "height": 80,
+          "right": 1123.328125,
+          "bottom": 711
+        },
+        {
+          "className": "about__choice",
+          "x": 1151.328125,
+          "y": 631,
+          "width": 326.65625,
+          "height": 80,
+          "right": 1477.984375,
+          "bottom": 711
+        }
+      ],
+      "heading": "About Me"
+    }
+  },
+  {
+    "topic": "logician",
+    "width": 1920,
+    "height": 600,
+    "layout": {
+      "width": 1920,
+      "height": 600,
+      "clientWidth": 1920,
+      "scrollWidth": 1920,
+      "scrollHeight": 1127,
+      "rects": [
+        {
+          "className": "A",
+          "x": 636.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 708,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 732,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 855.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 879.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 967.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 991.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 1131.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 1155.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 1283.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 443.578125,
+          "y": 123.6875,
+          "width": 619,
+          "height": 49,
+          "right": 1062.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 442,
+          "y": 203,
+          "width": 1036,
+          "height": 43.625,
+          "right": 1478,
+          "bottom": 246.625
+        },
+        {
+          "className": "about__body",
+          "x": 442,
+          "y": 270.625,
+          "width": 620,
+          "height": 216,
+          "right": 1062,
+          "bottom": 486.625
+        }
+      ],
+      "heading": "THE LOGICIAN"
+    }
+  },
+  {
+    "topic": "adventurer",
+    "width": 1920,
+    "height": 600,
+    "layout": {
+      "width": 1920,
+      "height": 600,
+      "clientWidth": 1920,
+      "scrollWidth": 1920,
+      "scrollHeight": 600,
+      "rects": [
+        {
+          "className": "A",
+          "x": 636.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 708,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 732,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 855.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 879.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 967.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 991.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 1131.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 1155.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 1283.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 443.578125,
+          "y": 123.6875,
+          "width": 831,
+          "height": 49,
+          "right": 1274.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 442,
+          "y": 203,
+          "width": 1036,
+          "height": 43.625,
+          "right": 1478,
+          "bottom": 246.625
+        },
+        {
+          "className": "about__body",
+          "x": 442,
+          "y": 270.625,
+          "width": 620,
+          "height": 189,
+          "right": 1062,
+          "bottom": 459.625
+        }
+      ],
+      "heading": "THE ADVENTURER"
+    }
+  },
+  {
+    "topic": "seeker",
+    "width": 1920,
+    "height": 600,
+    "layout": {
+      "width": 1920,
+      "height": 600,
+      "clientWidth": 1920,
+      "scrollWidth": 1920,
+      "scrollHeight": 1207,
+      "rects": [
+        {
+          "className": "A",
+          "x": 636.8125,
+          "y": 20,
+          "width": 71.1875,
+          "height": 40,
+          "right": 708,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 732,
+          "y": 20,
+          "width": 123.1875,
+          "height": 40,
+          "right": 855.1875,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 879.1875,
+          "y": 20,
+          "width": 88.796875,
+          "height": 40,
+          "right": 967.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 991.984375,
+          "y": 20,
+          "width": 140,
+          "height": 40,
+          "right": 1131.984375,
+          "bottom": 60
+        },
+        {
+          "className": "A",
+          "x": 1155.984375,
+          "y": 20,
+          "width": 127.1875,
+          "height": 40,
+          "right": 1283.171875,
+          "bottom": 60
+        },
+        {
+          "className": "IMG",
+          "x": 443.578125,
+          "y": 123.6875,
+          "width": 556,
+          "height": 49,
+          "right": 999.578125,
+          "bottom": 172.6875
+        },
+        {
+          "className": "about__subtitle",
+          "x": 442,
+          "y": 203,
+          "width": 1036,
+          "height": 43.625,
+          "right": 1478,
+          "bottom": 246.625
+        },
+        {
+          "className": "about__body",
+          "x": 442,
+          "y": 270.625,
+          "width": 620,
+          "height": 216,
+          "right": 1062,
+          "bottom": 486.625
+        }
+      ],
+      "heading": "THE SEEKER"
+    }
+  }
+]

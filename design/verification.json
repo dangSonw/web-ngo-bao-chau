@@ -1,0 +1,90 @@
+{
+    "date":  "2026-10-13",
+    "scope":  "Initial project and asset preparation checks retained below. Current Home implementation QA is in home-verification.json and home-qa/browser-results.json.",
+    "figma":  {
+                  "fileKey":  "xbGrAfGotyuHW835jkUfsn",
+                  "transport":  "Figma Console MCP Desktop Bridge",
+                  "liveProbe":  true,
+                  "frames":  29,
+                  "restAvailable":  false,
+                  "restLimitation":  "FIGMA_ACCESS_TOKEN not configured",
+                  "fontBinariesIncluded":  false
+              },
+    "assets":  {
+                   "uniqueFiles":  94,
+                   "png":  90,
+                   "svg":  4,
+                   "layerMappings":  155,
+                   "bytes":  53785176,
+                   "references":  29,
+                   "fileChecks":  "PNG decode/verify, SVG XML parse, byte counts, path existence, JSON parse and UTF-8 validation passed",
+                   "browserDecode":  {
+                                         "checked":  94,
+                                         "failed":  0
+                                     }
+               },
+    "scaffold":  {
+                     "dependencyInstall":  "npm ci passed; audit reported 0 vulnerabilities",
+                     "build":  "npm run build passed after all exports",
+                     "console":  "No errors or warnings after favicon fix",
+                     "network":  "No failed application requests in checked page",
+                     "hmr":  "CSS hot update confirmed and main DOM preserved",
+                     "viewports":  [
+                                       {
+                                           "width":  375,
+                                           "scrollWidth":  375,
+                                           "overflow":  false
+                                       },
+                                       {
+                                           "width":  420,
+                                           "scrollWidth":  420,
+                                           "overflow":  false
+                                       },
+                                       {
+                                           "width":  768,
+                                           "scrollWidth":  768,
+                                           "overflow":  false
+                                       },
+                                       {
+                                           "width":  880,
+                                           "scrollWidth":  880,
+                                           "overflow":  false
+                                       },
+                                       {
+                                           "width":  1200,
+                                           "scrollWidth":  1200,
+                                           "overflow":  false
+                                       },
+                                       {
+                                           "width":  1440,
+                                           "scrollWidth":  1440,
+                                           "overflow":  false
+                                       },
+                                       {
+                                           "width":  1920,
+                                           "scrollWidth":  1920,
+                                           "overflow":  false
+                                       },
+                                       {
+                                           "width":  2560,
+                                           "scrollWidth":  2560,
+                                           "overflow":  false
+                                       },
+                                       {
+                                           "width":  3840,
+                                           "scrollWidth":  3840,
+                                           "overflow":  false
+                                       }
+                                   ],
+                     "directUrl":  "/about-me and a new tab at /inquiry returned to /; reload remained at /",
+                     "codegraph":  "Source template inspected via graph and source; new project indexed and affected symbols queried",
+                     "git":  "Not a Git repository; no commit"
+                 },
+    "remaining":  [
+                      "Build the actual Figma interface and route interactions",
+                      "Obtain the source font binaries and verify Vietnamese glyph coverage",
+                      "Run final interface visual, responsive, interaction and accessibility QA after implementation"
+                  ],
+    "homeImplementation":  "home-verification.json",
+    "aboutImplementation":  "about-verification.json"
+}

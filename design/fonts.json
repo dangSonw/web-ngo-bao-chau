@@ -1,0 +1,22 @@
+{
+  "fonts": [
+    {
+      "family": "Conthrax",
+      "style": "Semi Bold"
+    },
+    {
+      "family": "Abhaya Libre",
+      "style": "Regular"
+    },
+    {
+      "family": "Actor",
+      "style": "Regular"
+    }
+  ],
+  "binariesIncluded": false,
+  "note": "Home uses Actor; content pages use Abhaya Libre with Times New Roman glyph fallback. Conthrax headings and navigation use original Figma cached glyph outlines; no Conthrax font binary is bundled.",
+  "includedBinaries": [
+    "fonts/Actor-Regular.ttf",
+    "fonts/AbhayaLibre-Regular.ttf"
+  ]
+}

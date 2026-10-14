@@ -1,0 +1,6434 @@
+{
+  "frames": [
+    {
+      "id": "7:240",
+      "name": "inquiry",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "7:243",
+          "text": "inquiry",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "1:2",
+      "name": "Desktop - 1",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "6:8",
+          "text": "Bao Chau\nUniverse",
+          "fontSize": 98.14173126220703
+        }
+      ]
+    },
+    {
+      "id": "7:176",
+      "name": "About Me",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "7:184",
+          "text": "THE ADVENTURER",
+          "fontSize": 69
+        }
+      ]
+    },
+    {
+      "id": "7:196",
+      "name": "About Me",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "7:204",
+          "text": "THE SEEKER",
+          "fontSize": 69
+        }
+      ]
+    },
+    {
+      "id": "25:17",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "25:25",
+          "text": "community",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "26:115",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "26:123",
+          "text": "Sprituality",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "52:2",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "52:10",
+          "text": "WUXING",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "74:28",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "74:31",
+          "text": "Planets",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "74:51",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "74:54",
+          "text": "planets",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "74:166",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "74:170",
+          "text": "planets",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "77:2",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "77:6",
+          "text": "planets",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "123:2",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "123:5",
+          "text": "planets",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "73:4",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "73:7",
+          "text": "WUXING",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "52:33",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "52:36",
+          "text": "Fire",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "67:2",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "67:5",
+          "text": "Wood",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "67:26",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "67:29",
+          "text": "Earth",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "67:50",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "67:53",
+          "text": "Metal",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "67:74",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "67:77",
+          "text": "Water",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "8:298",
+      "name": "inquiry",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "8:306",
+          "text": "WICO",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "25:39",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "25:42",
+          "text": "THE TAY ROOTS",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "26:2",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "26:5",
+          "text": "Ban Sung Project",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "26:24",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "26:27",
+          "text": "Y4C",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "26:46",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "26:49",
+          "text": "“Viet Nam Tinh Hoa” Concert",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "26:68",
+      "name": "Community",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "26:71",
+          "text": "Bright Paths Mù Cang Chải",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "8:323",
+      "name": "inquiry",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "8:326",
+          "text": "ICAN",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "8:341",
+      "name": "inquiry",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "8:344",
+          "text": "RESEARCH",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "8:359",
+      "name": "inquiry",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "8:362",
+          "text": "Theicption Platform",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "7:107",
+      "name": "About Me",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "8:381",
+          "text": "About Me",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "id": "7:135",
+      "name": "About Me",
+      "width": 1440,
+      "height": 744,
+      "title": [
+        {
+          "id": "7:166",
+          "text": "THE LOGICIAN",
+          "fontSize": 69
+        }
+      ]
+    }
+  ],
+  "fonts": [
+    {
+      "family": "Conthrax",
+      "style": "Semi Bold"
+    },
+    {
+      "family": "Abhaya Libre",
+      "style": "Regular"
+    },
+    {
+      "family": "Actor",
+      "style": "Regular"
+    }
+  ],
+  "assets": [
+    {
+      "id": "8:270",
+      "name": "image 20",
+      "type": "RECTANGLE",
+      "frameId": "7:240",
+      "frameName": "inquiry",
+      "width": 711,
+      "height": 958,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0.4399999976158142,
+            "contrast": 0,
+            "saturation": 0.6499999761581421,
+            "temperature": -0.550000011920929,
+            "tint": 0.7300000190734863,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "6e63d9d78d5a9ff4f10411f1d716af57bdb37cb9"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "8:267",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "7:240",
+      "frameName": "inquiry",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "8:291",
+      "name": "image 24",
+      "type": "RECTANGLE",
+      "frameId": "7:240",
+      "frameName": "inquiry",
+      "width": 80,
+      "height": 80,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.8695651888847351,
+              0,
+              0.06521739065647125
+            ],
+            [
+              0,
+              0.8695652484893799,
+              0.06521739065647125
+            ]
+          ],
+          "imageHash": "df3946397d0beaa3c9283cfce1a5dbce9323b973"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "8:288",
+      "name": "image 23",
+      "type": "RECTANGLE",
+      "frameId": "7:240",
+      "frameName": "inquiry",
+      "width": 88,
+      "height": 88,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0.49000000953674316,
+            "contrast": -1,
+            "saturation": 0.75,
+            "temperature": -0.7900000214576721,
+            "tint": -0.6399999856948853,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.7866666913032532,
+              0,
+              0.1066666692495346
+            ],
+            [
+              0,
+              0.7800000309944153,
+              0.10999999940395355
+            ]
+          ],
+          "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "8:285",
+      "name": "image 22",
+      "type": "RECTANGLE",
+      "frameId": "7:240",
+      "frameName": "inquiry",
+      "width": 120,
+      "height": 120,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "c1e6cd8f635fa578ee8121e4c383e8a71148479b"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "8:282",
+      "name": "image 21",
+      "type": "RECTANGLE",
+      "frameId": "7:240",
+      "frameName": "inquiry",
+      "width": 125,
+      "height": 125,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0.36000001430511475,
+            "contrast": -0.5333333214124044,
+            "saturation": 0.5400000214576721,
+            "temperature": 0.27000001072883606,
+            "tint": -0.38999998569488525,
+            "highlights": -0.5600000023841858,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "1a49e71d1125070e20149956ee33a71504e163bf"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "23:3",
+      "name": "image 26",
+      "type": "RECTANGLE",
+      "frameId": "1:2",
+      "frameName": "Desktop - 1",
+      "width": 912.9999389648438,
+      "height": 1440,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "a175187bdd8bd7bc68f4ecf6ac16bed7696fe5d7"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "7:194",
+      "name": "image 11",
+      "type": "RECTANGLE",
+      "frameId": "7:176",
+      "frameName": "About Me",
+      "width": 810.0000610351562,
+      "height": 1440,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "41207c3d0a3500c8e1d6e116de1a4c537a3b96af"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "7:214",
+      "name": "image 12",
+      "type": "RECTANGLE",
+      "frameId": "7:196",
+      "frameName": "About Me",
+      "width": 1119.0001220703125,
+      "height": 1989,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "5cd092d4ac88bb41a7d0d43030f19d94f4c61b0c"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "7:217",
+      "name": "image 13",
+      "type": "RECTANGLE",
+      "frameId": "7:196",
+      "frameName": "About Me",
+      "width": 127,
+      "height": 127,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "41f6f97d2611e39f27b7d18af886efa96a945518"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "7:235",
+      "name": "image 17",
+      "type": "RECTANGLE",
+      "frameId": "7:196",
+      "frameName": "About Me",
+      "width": 178,
+      "height": 178,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "385d935703b38ec62c50a25320da3e794428485e"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "7:238",
+      "name": "image 18",
+      "type": "RECTANGLE",
+      "frameId": "7:196",
+      "frameName": "About Me",
+      "width": 150,
+      "height": 150,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "627205a025460c2cbc82a47ab41e61b1bc8db5d2"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "7:226",
+      "name": "image 15",
+      "type": "RECTANGLE",
+      "frameId": "7:196",
+      "frameName": "About Me",
+      "width": 138,
+      "height": 137,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "9519e23f8a8bdcabfc7d52275264a252007ac0a7"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "7:229",
+      "name": "image 16",
+      "type": "RECTANGLE",
+      "frameId": "7:196",
+      "frameName": "About Me",
+      "width": 132,
+      "height": 132,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.7699999809265137,
+              0,
+              0.11499999463558197
+            ],
+            [
+              0,
+              0.7699999809265137,
+              0.11499999463558197
+            ]
+          ],
+          "imageHash": "d89a40d86eba3f0db7ca2a57d7913352be951488"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "82:70",
+      "name": "image 20",
+      "type": "RECTANGLE",
+      "frameId": "25:17",
+      "frameName": "Community",
+      "width": 711,
+      "height": 958,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0.4399999976158142,
+            "contrast": 0,
+            "saturation": 0.6499999761581421,
+            "temperature": -0.550000011920929,
+            "tint": 0.7300000190734863,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "6e63d9d78d5a9ff4f10411f1d716af57bdb37cb9"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "32:14",
+      "name": "image 25",
+      "type": "RECTANGLE",
+      "frameId": "25:17",
+      "frameName": "Community",
+      "width": 88,
+      "height": 88,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.7866666913032532,
+              0,
+              0.1066666692495346
+            ],
+            [
+              0,
+              0.7800000309944153,
+              0.10999999940395355
+            ]
+          ],
+          "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "25:19",
+      "name": "image 24",
+      "type": "RECTANGLE",
+      "frameId": "25:17",
+      "frameName": "Community",
+      "width": 80,
+      "height": 80,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.8695651888847351,
+              0,
+              0.06521739065647125
+            ],
+            [
+              0,
+              0.8695652484893799,
+              0.06521739065647125
+            ]
+          ],
+          "imageHash": "df3946397d0beaa3c9283cfce1a5dbce9323b973"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "25:20",
+      "name": "image 23",
+      "type": "RECTANGLE",
+      "frameId": "25:17",
+      "frameName": "Community",
+      "width": 88,
+      "height": 88,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.7866666913032532,
+              0,
+              0.1066666692495346
+            ],
+            [
+              0,
+              0.7800000309944153,
+              0.10999999940395355
+            ]
+          ],
+          "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "25:21",
+      "name": "image 22",
+      "type": "RECTANGLE",
+      "frameId": "25:17",
+      "frameName": "Community",
+      "width": 120,
+      "height": 120,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "c1e6cd8f635fa578ee8121e4c383e8a71148479b"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "25:23",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "25:17",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "99:234",
+      "name": "image 26",
+      "type": "RECTANGLE",
+      "frameId": "25:17",
+      "frameName": "Community",
+      "width": 80,
+      "height": 80,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.8695651888847351,
+              0,
+              0.06521739065647125
+            ],
+            [
+              0,
+              0.8695652484893799,
+              0.06521739065647125
+            ]
+          ],
+          "imageHash": "df3946397d0beaa3c9283cfce1a5dbce9323b973"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "99:235",
+      "name": "image 27",
+      "type": "RECTANGLE",
+      "frameId": "25:17",
+      "frameName": "Community",
+      "width": 88,
+      "height": 88,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0.49000000953674316,
+            "contrast": -1,
+            "saturation": 0.75,
+            "temperature": -0.7900000214576721,
+            "tint": -0.6399999856948853,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.7866666913032532,
+              0,
+              0.1066666692495346
+            ],
+            [
+              0,
+              0.7800000309944153,
+              0.10999999940395355
+            ]
+          ],
+          "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "99:236",
+      "name": "image 28",
+      "type": "RECTANGLE",
+      "frameId": "25:17",
+      "frameName": "Community",
+      "width": 120,
+      "height": 120,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "c1e6cd8f635fa578ee8121e4c383e8a71148479b"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "99:237",
+      "name": "image 29",
+      "type": "RECTANGLE",
+      "frameId": "25:17",
+      "frameName": "Community",
+      "width": 125,
+      "height": 125,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0.36000001430511475,
+            "contrast": -0.5333333214124044,
+            "saturation": 0.5400000214576721,
+            "temperature": 0.27000001072883606,
+            "tint": -0.38999998569488525,
+            "highlights": -0.5600000023841858,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "1a49e71d1125070e20149956ee33a71504e163bf"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "82:141",
+      "name": "image 20",
+      "type": "RECTANGLE",
+      "frameId": "26:115",
+      "frameName": "Community",
+      "width": 711,
+      "height": 958,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0.4399999976158142,
+            "contrast": 0,
+            "saturation": 0.6499999761581421,
+            "temperature": -0.550000011920929,
+            "tint": 0.7300000190734863,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "6e63d9d78d5a9ff4f10411f1d716af57bdb37cb9"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:121",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "26:115",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9995629787445068,
+              0,
+              0.0033472145441919565
+            ],
+            [
+              -2.7723473245445305e-24,
+              1,
+              -0.044292327016592026
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "99:239",
+      "name": "image 29",
+      "type": "RECTANGLE",
+      "frameId": "26:115",
+      "frameName": "Community",
+      "width": 125,
+      "height": 125,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0.36000001430511475,
+            "contrast": -0.5333333214124044,
+            "saturation": 0.5400000214576721,
+            "temperature": 0.27000001072883606,
+            "tint": -0.38999998569488525,
+            "highlights": -0.5600000023841858,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "1a49e71d1125070e20149956ee33a71504e163bf"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "99:240",
+      "name": "image 28",
+      "type": "RECTANGLE",
+      "frameId": "26:115",
+      "frameName": "Community",
+      "width": 120,
+      "height": 120,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "c1e6cd8f635fa578ee8121e4c383e8a71148479b"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "52:8",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "52:2",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "52:28",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "52:2",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "52:32",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "52:2",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "74:29",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "74:28",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "74:47",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "74:28",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "74:50",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "74:28",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "74:52",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "74:51",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "74:70",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "74:51",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "74:73",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "74:51",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "74:146",
+      "name": "image 46",
+      "type": "RECTANGLE",
+      "frameId": "74:51",
+      "frameName": "Community",
+      "width": 269,
+      "height": 151,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "d6a27ad7d000058865853ca28007f4b99839ea65"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "74:152",
+      "name": "image 48",
+      "type": "RECTANGLE",
+      "frameId": "74:51",
+      "frameName": "Community",
+      "width": 176,
+      "height": 311,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "57178eb4406866667fcbaf1d8d026a1abff0d314"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "74:158",
+      "name": "image 50",
+      "type": "RECTANGLE",
+      "frameId": "74:51",
+      "frameName": "Community",
+      "width": 270,
+      "height": 156,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "04bf98d78da816f86a8852691d705abe95e0760f"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "74:161",
+      "name": "image 51",
+      "type": "RECTANGLE",
+      "frameId": "74:51",
+      "frameName": "Community",
+      "width": 182,
+      "height": 319,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "f6f78c534ec300ca6e20d4e46ece193b26005eb8"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "74:167",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "74:166",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "74:186",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "74:166",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "74:189",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "74:166",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "74:215",
+      "name": "Rectangle 8",
+      "type": "RECTANGLE",
+      "frameId": "74:166",
+      "frameName": "Community",
+      "width": 284,
+      "height": 167,
+      "visible": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          },
+          "boundVariables": {}
+        },
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "56d386f5c024fd98affb608aad9a7e4b6d0b91e6"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "74:216",
+      "name": "Rectangle 9",
+      "type": "RECTANGLE",
+      "frameId": "74:166",
+      "frameName": "Community",
+      "width": 284,
+      "height": 167,
+      "visible": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          },
+          "boundVariables": {}
+        },
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "cb836e9b139e97c6d873e810e1341e1ea848271d"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "74:219",
+      "name": "Rectangle 12",
+      "type": "RECTANGLE",
+      "frameId": "74:166",
+      "frameName": "Community",
+      "width": 284,
+      "height": 167,
+      "visible": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          },
+          "boundVariables": {}
+        },
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "b793d8823b7421ba6ddaea62c9a65de7fb5404a3"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "74:217",
+      "name": "Rectangle 10",
+      "type": "RECTANGLE",
+      "frameId": "74:166",
+      "frameName": "Community",
+      "width": 284,
+      "height": 167,
+      "visible": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          },
+          "boundVariables": {}
+        },
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "3518f1e4e49daeca6fee9eb70adb6929f92cde6e"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "77:3",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "77:2",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "77:22",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "77:2",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "77:25",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "77:2",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "78:31",
+      "name": "image 52",
+      "type": "RECTANGLE",
+      "frameId": "77:2",
+      "frameName": "Community",
+      "width": 256,
+      "height": 142,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "9e15599782c5685702dfe44d9b325e79fe433a8a"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "78:37",
+      "name": "image 54",
+      "type": "RECTANGLE",
+      "frameId": "77:2",
+      "frameName": "Community",
+      "width": 170,
+      "height": 306,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "62bf79cca83145bd41ee72e4ba5e4d026d1f5acc"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "78:43",
+      "name": "image 56",
+      "type": "RECTANGLE",
+      "frameId": "77:2",
+      "frameName": "Community",
+      "width": 241,
+      "height": 142,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "35cd4363097c357217a9842998c8bff9934c8d63"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "78:49",
+      "name": "image 58",
+      "type": "RECTANGLE",
+      "frameId": "77:2",
+      "frameName": "Community",
+      "width": 256,
+      "height": 159,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.8951048851013184,
+              0,
+              0
+            ],
+            [
+              0,
+              0.9999162554740906,
+              0.00004185954821878113
+            ]
+          ],
+          "imageHash": "8c92819363ae5a6441b14969c7deb71ada8a1c45"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "78:52",
+      "name": "image 59",
+      "type": "RECTANGLE",
+      "frameId": "77:2",
+      "frameName": "Community",
+      "width": 241,
+      "height": 159,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "2dd8368b90b4982e5d7c6e027d96587582bd4e53"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "123:3",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "123:2",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "123:15",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "123:2",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "123:18",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "123:2",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "123:31",
+      "name": "image 60",
+      "type": "RECTANGLE",
+      "frameId": "123:2",
+      "frameName": "Community",
+      "width": 332,
+      "height": 498,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "0d2197f1a1e2f64f95bbee379eaff890df5c2629"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "123:34",
+      "name": "image 61",
+      "type": "RECTANGLE",
+      "frameId": "123:2",
+      "frameName": "Community",
+      "width": 333,
+      "height": 197,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "cb7a27014ccb7560ec8287b9e02e3f14de193df5"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "123:36",
+      "name": "Rectangle 13",
+      "type": "RECTANGLE",
+      "frameId": "123:2",
+      "frameName": "Community",
+      "width": 333,
+      "height": 288,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.8575509786605835,
+              0.07122450321912766
+            ]
+          ],
+          "imageHash": "8d831b879bd9c452d5ac0ad8a2632d5b1be7db72"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "73:5",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "73:4",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "73:23",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "73:4",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "73:26",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "73:4",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "52:34",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "52:33",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "52:52",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "52:33",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "52:55",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "52:33",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "67:102",
+      "name": "image 42",
+      "type": "RECTANGLE",
+      "frameId": "52:33",
+      "frameName": "Community",
+      "width": 389,
+      "height": 215,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9999151229858398,
+              0,
+              0.00004247432298143394
+            ],
+            [
+              0,
+              0.8391304016113281,
+              0.08260869234800339
+            ]
+          ],
+          "imageHash": "370b1f12f19e6578eafe58ee6c12fe1a6e7c40f9"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "67:99",
+      "name": "image 41",
+      "type": "RECTANGLE",
+      "frameId": "52:33",
+      "frameName": "Community",
+      "width": 269,
+      "height": 462,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "44cc15e1270bb00c07305b14d2cc2e9d9593a419"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "67:105",
+      "name": "image 43",
+      "type": "RECTANGLE",
+      "frameId": "52:33",
+      "frameName": "Community",
+      "width": 389.10443115234375,
+      "height": 219.58360290527344,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9992856979370117,
+              -2.6245998294679852e-18,
+              0.0003571334236767143
+            ],
+            [
+              6.976227873674197e-18,
+              0.31061258912086487,
+              0.43919211626052856
+            ]
+          ],
+          "imageHash": "89f0554b91267719925177e71a8ea6ba1445d6c0"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "67:3",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "67:2",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "67:22",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "67:2",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "67:25",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "67:2",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "68:115",
+      "name": "Rectangle 3",
+      "type": "RECTANGLE",
+      "frameId": "67:2",
+      "frameName": "Community",
+      "width": 393,
+      "height": 203,
+      "visible": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          },
+          "boundVariables": {}
+        },
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "caa39e3936cabeff3c096b2e0fb8e097c67f48f6"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "68:116",
+      "name": "Rectangle 4",
+      "type": "RECTANGLE",
+      "frameId": "67:2",
+      "frameName": "Community",
+      "width": 393,
+      "height": 203,
+      "visible": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          },
+          "boundVariables": {}
+        },
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "78e97425e927661f85ef9eb0fd360b7c58297e26"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "67:27",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "67:26",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "67:46",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "67:26",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "67:49",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "67:26",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "70:119",
+      "name": "Rectangle 5",
+      "type": "RECTANGLE",
+      "frameId": "67:26",
+      "frameName": "Community",
+      "width": 223,
+      "height": 351,
+      "visible": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          },
+          "boundVariables": {}
+        },
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "187951c7278377288f4128f8f63a90112bca7b57"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "70:120",
+      "name": "Rectangle 6",
+      "type": "VECTOR",
+      "frameId": "67:26",
+      "frameName": "Community",
+      "width": 314,
+      "height": 165,
+      "visible": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          },
+          "boundVariables": {}
+        },
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "a2c886ea53f2935d301ba7e22a82048778dddcc0"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "70:121",
+      "name": "Rectangle 7",
+      "type": "RECTANGLE",
+      "frameId": "67:26",
+      "frameName": "Community",
+      "width": 314,
+      "height": 165,
+      "visible": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          },
+          "boundVariables": {}
+        },
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "86a4afee639f8b90960a99516c57f7320b00ad19"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "67:51",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "67:50",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "67:70",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "67:50",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "67:73",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "67:50",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "70:123",
+      "name": "Rectangle 3",
+      "type": "RECTANGLE",
+      "frameId": "67:50",
+      "frameName": "Community",
+      "width": 393,
+      "height": 203,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.9468640089035034,
+              0.026567988097667694
+            ]
+          ],
+          "imageHash": "ec06dd64dbf4842e003823596bf0bd6e6b635a26"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "70:124",
+      "name": "Rectangle 4",
+      "type": "RECTANGLE",
+      "frameId": "67:50",
+      "frameName": "Community",
+      "width": 393,
+      "height": 203,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9789551496505737,
+              0,
+              0.010522435419261456
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "804140ad687dae0d44ee09e72a87e7c7dc7d9707"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "67:75",
+      "name": "image 19",
+      "type": "RECTANGLE",
+      "frameId": "67:74",
+      "frameName": "Community",
+      "width": 857.9999389648438,
+      "height": 1526,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "070c48f141855bb8f2dc0e1a722854d369b123db"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "67:94",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "67:74",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "67:97",
+      "name": "Vector 4",
+      "type": "VECTOR",
+      "frameId": "67:74",
+      "frameName": "Community",
+      "width": 21.5,
+      "height": 0,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "73:2",
+      "name": "Rectangle 3",
+      "type": "RECTANGLE",
+      "frameId": "67:74",
+      "frameName": "Community",
+      "width": 436,
+      "height": 225,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.9182923436164856,
+              0.0408538319170475
+            ]
+          ],
+          "imageHash": "7801d818a07f2323a68fc86ce6859bdcc2c91575"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "73:3",
+      "name": "Rectangle 4",
+      "type": "RECTANGLE",
+      "frameId": "67:74",
+      "frameName": "Community",
+      "width": 436,
+      "height": 225,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0.00018539282609708607
+            ],
+            [
+              0,
+              0.642266035079956,
+              0.3565160632133484
+            ]
+          ],
+          "imageHash": "872176c472f4d70a048504a66e98dcb131d84e22"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "8:321",
+      "name": "image 25",
+      "type": "RECTANGLE",
+      "frameId": "8:298",
+      "frameName": "inquiry",
+      "width": 743.9999389648438,
+      "height": 1612,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "8:302",
+      "name": "image 22",
+      "type": "RECTANGLE",
+      "frameId": "8:298",
+      "frameName": "inquiry",
+      "width": 100,
+      "height": 100,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.8333333134651184,
+              0,
+              0.0833333358168602
+            ],
+            [
+              0,
+              0.8333333134651184,
+              0.0833333358168602
+            ]
+          ],
+          "imageHash": "c1e6cd8f635fa578ee8121e4c383e8a71148479b"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "25:9",
+      "name": "image 28",
+      "type": "RECTANGLE",
+      "frameId": "8:298",
+      "frameName": "inquiry",
+      "width": 163,
+      "height": 273,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "2c37319a312b977c831673209939b61dfd08552e"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "25:12",
+      "name": "image 29",
+      "type": "RECTANGLE",
+      "frameId": "8:298",
+      "frameName": "inquiry",
+      "width": 321,
+      "height": 273,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "d398af2d3166f58f5cb21dfbedc7a0d708301c97"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "25:15",
+      "name": "image 30",
+      "type": "RECTANGLE",
+      "frameId": "8:298",
+      "frameName": "inquiry",
+      "width": 497,
+      "height": 275,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.817889928817749,
+              0.06607126444578171
+            ]
+          ],
+          "imageHash": "0867f30fe2dc2785e7d57db4bc4469e46a2d200d"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "25:40",
+      "name": "image 25",
+      "type": "RECTANGLE",
+      "frameId": "25:39",
+      "frameName": "Community",
+      "width": 743.9999389648438,
+      "height": 1612,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "25:56",
+      "name": "image 22",
+      "type": "RECTANGLE",
+      "frameId": "25:39",
+      "frameName": "Community",
+      "width": 100,
+      "height": 100,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.8333333134651184,
+              0,
+              0.0833333358168602
+            ],
+            [
+              0,
+              0.8333333134651184,
+              0.0833333358168602
+            ]
+          ],
+          "imageHash": "c1e6cd8f635fa578ee8121e4c383e8a71148479b"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:91",
+      "name": "image 31",
+      "type": "RECTANGLE",
+      "frameId": "25:39",
+      "frameName": "Community",
+      "width": 359,
+      "height": 197,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.772406280040741,
+              0.22750136256217957
+            ]
+          ],
+          "imageHash": "f322a35aa84e965f3b49edd718a1fc2d8dcad8b1"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:94",
+      "name": "image 33",
+      "type": "RECTANGLE",
+      "frameId": "25:39",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9138895869255066,
+              0,
+              0.043055206537246704
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "3d95ae1f20c38dc9cd7ebfe15628008a185fe291"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:93",
+      "name": "image 32",
+      "type": "RECTANGLE",
+      "frameId": "25:39",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.9998151659965515,
+              0.00009241046063834801
+            ]
+          ],
+          "imageHash": "70a7ff099ae58d5e1fef23048ebf4c488e2a560b"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:95",
+      "name": "image 34",
+      "type": "RECTANGLE",
+      "frameId": "25:39",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9138895869255066,
+              0,
+              0.043055206537246704
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "c67c255efae36a1e115a5246fba27aa4cade88d2"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:3",
+      "name": "image 25",
+      "type": "RECTANGLE",
+      "frameId": "26:2",
+      "frameName": "Community",
+      "width": 743.9999389648438,
+      "height": 1612,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:96",
+      "name": "image 31",
+      "type": "RECTANGLE",
+      "frameId": "26:2",
+      "frameName": "Community",
+      "width": 359,
+      "height": 181,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9493727087974548,
+              0,
+              0.025313623249530792
+            ],
+            [
+              0,
+              0.7098039388656616,
+              0.29019609093666077
+            ]
+          ],
+          "imageHash": "f15620ac49c2f27f16f88b381b5a9498ca0f2e13"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:97",
+      "name": "image 33",
+      "type": "RECTANGLE",
+      "frameId": "26:2",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.9464110732078552,
+              0.026794468984007835
+            ]
+          ],
+          "imageHash": "509785470cd75afb0041611fd22b4397bdee10f7"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:98",
+      "name": "image 32",
+      "type": "RECTANGLE",
+      "frameId": "26:2",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.94502854347229,
+              0,
+              0.027485718950629234
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "0b7cbb96106be295026c89bf4b152ba061b73b77"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:99",
+      "name": "image 34",
+      "type": "RECTANGLE",
+      "frameId": "26:2",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.9464110732078552,
+              0.026794468984007835
+            ]
+          ],
+          "imageHash": "6925f4aed02d41495a66d3ec60aae83dab009ec3"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "39:55",
+      "name": "image 23",
+      "type": "RECTANGLE",
+      "frameId": "26:2",
+      "frameName": "Community",
+      "width": 104,
+      "height": 103,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.7866666913032532,
+              0,
+              0.1066666692495346
+            ],
+            [
+              0,
+              0.7800000309944153,
+              0.10999999940395355
+            ]
+          ],
+          "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "111:5",
+      "name": "image 27",
+      "type": "RECTANGLE",
+      "frameId": "26:2",
+      "frameName": "Community",
+      "width": 110,
+      "height": 109,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0.49000000953674316,
+            "contrast": -1,
+            "saturation": 0.75,
+            "temperature": -0.7900000214576721,
+            "tint": -0.6399999856948853,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.7866666913032532,
+              0,
+              0.1066666692495346
+            ],
+            [
+              0,
+              0.7800000309944153,
+              0.10999999940395355
+            ]
+          ],
+          "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:25",
+      "name": "image 25",
+      "type": "RECTANGLE",
+      "frameId": "26:24",
+      "frameName": "Community",
+      "width": 743.9999389648438,
+      "height": 1612,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:100",
+      "name": "image 31",
+      "type": "RECTANGLE",
+      "frameId": "26:24",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9958637952804565,
+              0,
+              0.002068111440166831
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "aee76606d030247d03bcadd60d1a2c0b1b487f24"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:101",
+      "name": "image 33",
+      "type": "RECTANGLE",
+      "frameId": "26:24",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9958637952804565,
+              0,
+              0.002068111440166831
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "cef54b946f90050ff6b09deeb8034c0905afb739"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:102",
+      "name": "image 32",
+      "type": "RECTANGLE",
+      "frameId": "26:24",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9958637952804565,
+              0,
+              0.002068111440166831
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "2f8a983bfb7288f607ab1141ff8ecceb1ca2afb1"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:103",
+      "name": "image 34",
+      "type": "RECTANGLE",
+      "frameId": "26:24",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9334848523139954,
+              0,
+              0.03325757011771202
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "48eb9a5dd2563031c6f957856a892a3c78d85a62"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "111:7",
+      "name": "image 29",
+      "type": "RECTANGLE",
+      "frameId": "26:24",
+      "frameName": "Community",
+      "width": 92,
+      "height": 91,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0.36000001430511475,
+            "contrast": -0.5333333214124044,
+            "saturation": 0.5400000214576721,
+            "temperature": 0.27000001072883606,
+            "tint": -0.38999998569488525,
+            "highlights": -0.5600000023841858,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "1a49e71d1125070e20149956ee33a71504e163bf"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:47",
+      "name": "image 25",
+      "type": "RECTANGLE",
+      "frameId": "26:46",
+      "frameName": "Community",
+      "width": 743.9999389648438,
+      "height": 1612,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:105",
+      "name": "image 31",
+      "type": "RECTANGLE",
+      "frameId": "26:46",
+      "frameName": "Community",
+      "width": 359,
+      "height": 189,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.969942569732666,
+              0,
+              0.01502870675176382
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "0679d03c3c6d20bfe65cf8394329b9ed33503097"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:106",
+      "name": "image 33",
+      "type": "RECTANGLE",
+      "frameId": "26:46",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.9716053009033203,
+              0.01419734489172697
+            ]
+          ],
+          "imageHash": "e30a1b252c9a828662921a5558dc98cbce8025c4"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:107",
+      "name": "image 32",
+      "type": "RECTANGLE",
+      "frameId": "26:46",
+      "frameName": "Community",
+      "width": 359,
+      "height": 190,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9038181304931641,
+              0,
+              0.048090919852256775
+            ],
+            [
+              0,
+              0.7450980544090271,
+              0.2549019753932953
+            ]
+          ],
+          "imageHash": "cf83c212a77f1e7f18d25a3cfa808dcaa9a0f7ff"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:108",
+      "name": "image 34",
+      "type": "RECTANGLE",
+      "frameId": "26:46",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.9723401665687561,
+              0.013829913921654224
+            ]
+          ],
+          "imageHash": "dae1476836c99019690908c3b3ce7a0d4358f6d9"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "39:57",
+      "name": "image 24",
+      "type": "RECTANGLE",
+      "frameId": "26:46",
+      "frameName": "Community",
+      "width": 84,
+      "height": 84,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.8695651888847351,
+              0,
+              0.06521739065647125
+            ],
+            [
+              0,
+              0.8695652484893799,
+              0.06521739065647125
+            ]
+          ],
+          "imageHash": "df3946397d0beaa3c9283cfce1a5dbce9323b973"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:69",
+      "name": "image 25",
+      "type": "RECTANGLE",
+      "frameId": "26:68",
+      "frameName": "Community",
+      "width": 743.9999389648438,
+      "height": 1612,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:110",
+      "name": "image 31",
+      "type": "RECTANGLE",
+      "frameId": "26:68",
+      "frameName": "Community",
+      "width": 359,
+      "height": 200,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9958637356758118,
+              0,
+              0.002068111440166831
+            ],
+            [
+              0,
+              0.7843137979507446,
+              0.21568629145622253
+            ]
+          ],
+          "imageHash": "aee76606d030247d03bcadd60d1a2c0b1b487f24"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:111",
+      "name": "image 33",
+      "type": "RECTANGLE",
+      "frameId": "26:68",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9958637952804565,
+              0,
+              0.002068111440166831
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "cef54b946f90050ff6b09deeb8034c0905afb739"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:112",
+      "name": "image 32",
+      "type": "RECTANGLE",
+      "frameId": "26:68",
+      "frameName": "Community",
+      "width": 359,
+      "height": 197,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9958637356758118,
+              0,
+              0.002068111440166831
+            ],
+            [
+              0,
+              0.7725490927696228,
+              0.22745099663734436
+            ]
+          ],
+          "imageHash": "2f8a983bfb7288f607ab1141ff8ecceb1ca2afb1"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "26:113",
+      "name": "image 34",
+      "type": "RECTANGLE",
+      "frameId": "26:68",
+      "frameName": "Community",
+      "width": 359,
+      "height": 255,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.9334848523139954,
+              0,
+              0.03325757011771202
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "48eb9a5dd2563031c6f957856a892a3c78d85a62"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "39:58",
+      "name": "image 23",
+      "type": "RECTANGLE",
+      "frameId": "26:68",
+      "frameName": "Community",
+      "width": 104,
+      "height": 103,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.7866666913032532,
+              0,
+              0.1066666692495346
+            ],
+            [
+              0,
+              0.7800000309944153,
+              0.10999999940395355
+            ]
+          ],
+          "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "111:2",
+      "name": "image 46",
+      "type": "RECTANGLE",
+      "frameId": "8:323",
+      "frameName": "inquiry",
+      "width": 107,
+      "height": 106,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0.49000000953674316,
+            "contrast": -1,
+            "saturation": 0.75,
+            "temperature": -0.7900000214576721,
+            "tint": -0.6399999856948853,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.7866666913032532,
+              0,
+              0.1066666692495346
+            ],
+            [
+              0,
+              0.7800000309944153,
+              0.10999999940395355
+            ]
+          ],
+          "imageHash": "602aa56efabd9faf39b052c7090bc2105120e681"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "8:324",
+      "name": "image 25",
+      "type": "RECTANGLE",
+      "frameId": "8:323",
+      "frameName": "inquiry",
+      "width": 743.9999389648438,
+      "height": 1612,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "75:10",
+      "name": "image 45",
+      "type": "RECTANGLE",
+      "frameId": "8:323",
+      "frameName": "inquiry",
+      "width": 536,
+      "height": 380,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "7ccc37136af35ea6f34ac1d7ebdef47488c928fe"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "8:342",
+      "name": "image 25",
+      "type": "RECTANGLE",
+      "frameId": "8:341",
+      "frameName": "inquiry",
+      "width": 743.9999389648438,
+      "height": 1612,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "52:69",
+      "name": "image 37",
+      "type": "RECTANGLE",
+      "frameId": "8:341",
+      "frameName": "inquiry",
+      "width": 358,
+      "height": 216,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "7d9b31dcc919f5d079ddb9bd6d258cfa5fcb0858"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "52:72",
+      "name": "image 38",
+      "type": "RECTANGLE",
+      "frameId": "8:341",
+      "frameName": "inquiry",
+      "width": 358,
+      "height": 216,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.89005047082901,
+              0.0549747534096241
+            ]
+          ],
+          "imageHash": "31e3e6c380f4d211b4822c39f4c08276ab08185e"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "111:3",
+      "name": "image 21",
+      "type": "RECTANGLE",
+      "frameId": "8:341",
+      "frameName": "inquiry",
+      "width": 94,
+      "height": 93,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0.36000001430511475,
+            "contrast": -0.5333333214124044,
+            "saturation": 0.5400000214576721,
+            "temperature": 0.27000001072883606,
+            "tint": -0.38999998569488525,
+            "highlights": -0.5600000023841858,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "1a49e71d1125070e20149956ee33a71504e163bf"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "8:360",
+      "name": "image 25",
+      "type": "RECTANGLE",
+      "frameId": "8:359",
+      "frameName": "inquiry",
+      "width": 743.9999389648438,
+      "height": 1612,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "e4002064d5466a390da18ad8aeb06fa1fb4675d3"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "8:300",
+      "name": "image 24",
+      "type": "RECTANGLE",
+      "frameId": "8:359",
+      "frameName": "inquiry",
+      "width": 84,
+      "height": 84,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              0.8695651888847351,
+              0,
+              0.06521739065647125
+            ],
+            [
+              0,
+              0.8695652484893799,
+              0.06521739065647125
+            ]
+          ],
+          "imageHash": "df3946397d0beaa3c9283cfce1a5dbce9323b973"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "71:7",
+      "name": "image 44",
+      "type": "RECTANGLE",
+      "frameId": "8:359",
+      "frameName": "inquiry",
+      "width": 481,
+      "height": 503,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "0f2bc6af1ce06cd16d59c3b7d51611ffb888c787"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "7:108",
+      "name": "image 8",
+      "type": "RECTANGLE",
+      "frameId": "7:107",
+      "frameName": "About Me",
+      "width": 1066,
+      "height": 750,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "1af1c464fb0d0612732d5d897d007fa0df392ff2"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "7:109",
+      "name": "image 9",
+      "type": "RECTANGLE",
+      "frameId": "7:107",
+      "frameName": "About Me",
+      "width": 740.0000610351562,
+      "height": 890.9999389648438,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "41b36fcc3f5b2c46fbd872dfac37017854655d4a"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "7:126",
+      "name": "Vector 1",
+      "type": "VECTOR",
+      "frameId": "7:107",
+      "frameName": "About Me",
+      "width": 409,
+      "height": 0.000049591064453125,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "7:127",
+      "name": "Vector 3",
+      "type": "VECTOR",
+      "frameId": "7:107",
+      "frameName": "About Me",
+      "width": 409,
+      "height": 0.000049591064453125,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "7:128",
+      "name": "Vector 2",
+      "type": "VECTOR",
+      "frameId": "7:107",
+      "frameName": "About Me",
+      "width": 409,
+      "height": 0.000049591064453125,
+      "visible": true,
+      "fills": [],
+      "exportSettings": []
+    },
+    {
+      "id": "7:164",
+      "name": "image 10",
+      "type": "RECTANGLE",
+      "frameId": "7:135",
+      "frameName": "About Me",
+      "width": 1440,
+      "height": 2560,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 0.30000001192092896,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "f06a16257c927f28e93ac02784ec611fea167802"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "28:2",
+      "name": "0001 1",
+      "type": "RECTANGLE",
+      "frameId": "7:135",
+      "frameName": "About Me",
+      "width": 199.70672607421875,
+      "height": 141.1229248046875,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "8e647e596161c6cccc679582cde6d11514c8fa37"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "28:3",
+      "name": "0002 1",
+      "type": "RECTANGLE",
+      "frameId": "7:135",
+      "frameName": "About Me",
+      "width": 209,
+      "height": 148,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "4c741fe494a47359bff2e90ce9517858f361a492"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "28:4",
+      "name": "0003 1",
+      "type": "RECTANGLE",
+      "frameId": "7:135",
+      "frameName": "About Me",
+      "width": 141.1229248046875,
+      "height": 199.70672607421875,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "b8e243e8bc6a6ff5e3292f81cb48ee46a66ea0c2"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "28:5",
+      "name": "0004 1",
+      "type": "RECTANGLE",
+      "frameId": "7:135",
+      "frameName": "About Me",
+      "width": 200.0308837890625,
+      "height": 141.35198974609375,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "aee21d01721e117da775690e4f910eead1e31c80"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "28:6",
+      "name": "0005 1",
+      "type": "RECTANGLE",
+      "frameId": "7:135",
+      "frameName": "About Me",
+      "width": 200.0308837890625,
+      "height": 141.35198974609375,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "ae3aa99edc8ad2494c3906b71127a9aa1a3234b2"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "28:7",
+      "name": "0006 1",
+      "type": "RECTANGLE",
+      "frameId": "7:135",
+      "frameName": "About Me",
+      "width": 199.70672607421875,
+      "height": 141.1229248046875,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "a01675c1e7761861c8bb1ef8a0d493228181ec41"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "28:8",
+      "name": "0007 1",
+      "type": "RECTANGLE",
+      "frameId": "7:135",
+      "frameName": "About Me",
+      "width": 199.70672607421875,
+      "height": 141.1229248046875,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "b288dbd7ab5f92f6bf71451c017c90ab80fd9a3b"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "28:9",
+      "name": "0008 1",
+      "type": "RECTANGLE",
+      "frameId": "7:135",
+      "frameName": "About Me",
+      "width": 199.70672607421875,
+      "height": 141.1229248046875,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "48b661603dcfe2f5c43a28e009cdd855c6945eca"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "52:63",
+      "name": "image 36",
+      "type": "RECTANGLE",
+      "frameId": "7:135",
+      "frameName": "About Me",
+      "width": 197,
+      "height": 140,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "4c294b825c7de94064961819833ec8d9fef87c19"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "66:4",
+      "name": "image 40",
+      "type": "RECTANGLE",
+      "frameId": "7:135",
+      "frameName": "About Me",
+      "width": 221,
+      "height": 143,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "49344abfdc2445250d2739a3a091f86f37613a33"
+        }
+      ],
+      "exportSettings": []
+    },
+    {
+      "id": "52:57",
+      "name": "image 35",
+      "type": "RECTANGLE",
+      "frameId": "7:135",
+      "frameName": "About Me",
+      "width": 200,
+      "height": 143,
+      "visible": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "aea2708cc12343fc49a84518e2f3d4ac0f9f69b5"
+        }
+      ],
+      "exportSettings": []
+    }
+  ]
+}

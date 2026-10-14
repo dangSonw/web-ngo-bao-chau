@@ -1,0 +1,64 @@
+{
+  "scope": "Five Inquiry screens; shared About/Inquiry looping Space navigation; About pagination excludes Home",
+  "figma": {
+    "fileKey": "xbGrAfGotyuHW835jkUfsn",
+    "connection": "Figma Console Desktop Bridge live roundtrip succeeded",
+    "frames": [
+      "7:240",
+      "8:298",
+      "8:323",
+      "8:341",
+      "8:359"
+    ],
+    "sourceNodes": "design/inquiry-live-nodes.json",
+    "backgrounds": "design/inquiry-background-exports.json",
+    "typography": "design/inquiry-type-exports.json",
+    "media": "Source hashes, crop transforms, filters and scale modes match existing exports"
+  },
+  "implementation": {
+    "routes": [
+      "/inquiry",
+      "/inquiry/wico",
+      "/inquiry/ican",
+      "/inquiry/research",
+      "/inquiry/platform"
+    ],
+    "files": [
+      "src/pages/Inquiry.jsx",
+      "src/pages/Inquiry.css",
+      "src/data/inquiryPages.json",
+      "src/components/SubpageLayout.jsx",
+      "src/components/SubpageLayout.css",
+      "src/App.jsx",
+      "src/pages/Home.jsx",
+      "src/data/aboutPages.json"
+    ],
+    "navigation": "About loops among four About routes; Inquiry loops among five Inquiry routes. Space reads the current URL, ignores editable controls, modifiers, repeats and routes outside its section. Pagination arrows follow the focused dot. Only the top Home link returns to Home during section navigation."
+  },
+  "responsiveDecisions": [
+    "Keep all media, title and body source slots at 1440x744; vertical centering follows the shared canvas up to 2560px",
+    "Below width 1201px or at height <=660px, arrange emblem/title and body above source images; Research alternates image and its source link",
+    "Use 40px pagination hit targets; About has four targets, Inquiry five; source dot spacing expanded to allow touch"
+  ],
+  "checks": {
+    "inquiryViewports": "design/inquiry-qa/results.json: 65 cases passed, 13 viewports per screen, 375–3840px including width1200/1201 and height660/661",
+    "aboutViewports": "design/about-qa/viewport-results.json: 64 cases passed",
+    "sourceSlots": "Every Inquiry content image matched source x,y,width,height within 0.05px at 1440x744; all assets visible and decoded",
+    "space": "Two full loops per section, no Home dot, fast presses, repeat guard, input guard; scripts/check-section-navigation.mjs passed",
+    "navigation": "Home->Inquiry, main nav between sections, active states, pagination mouse and keyboard, intro planet links, Back/Forward, direct URL and reload reset passed",
+    "shell": "Inquiry navigation DOM preserved between its tabs; no document reload during internal navigation",
+    "reducedMotion": "Immediate fade and static planet/certificate transitions passed",
+    "regressions": "Logician Tab/ShiftTab all eleven images; Seeker 121 frames, zero layouts; motion-results.json and planet-regression.json",
+    "runtime": "Zero pageerrors, console errors/warnings or HTTP >=400 resource responses",
+    "hmr": "Inquiry CSS HMR preserved document; Space still worked after hot update",
+    "graph": "Reindexed and traced App->Inquiry/SubpageLayout and AboutMe->SubpageLayout; direct source cross-checked",
+    "build": "npm run build passed",
+    "git": "No .git directory; no commit"
+  },
+  "limitations": [
+    "Figma Conthrax font is missing in Desktop; headings/menu use cached glyph outlines exported as SVG, temporary clone/vector nodes removed",
+    "Research hyperlinks retain exact source URLs and open a new tab; target website availability/content not tested",
+    "Theicption screen renders the source image; no external application URL or gameplay interaction is provided in Figma",
+    "Home reset on reload/direct URL remains the explicit workspace requirement"
+  ]
+}

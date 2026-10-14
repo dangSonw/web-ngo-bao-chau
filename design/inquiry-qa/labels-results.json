@@ -1,0 +1,737 @@
+{
+  "labels": true,
+  "captionClick": true,
+  "keyboard": true,
+  "space": true,
+  "viewports": [
+    {
+      "width": 375,
+      "client": 375,
+      "scroll": 375,
+      "height": 1178,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 24,
+          "y": 853.5,
+          "right": 175.5,
+          "bottom": 875.09375,
+          "width": 151.5,
+          "height": 21.59375,
+          "imageBottom": 843.5,
+          "font": 18
+        },
+        {
+          "text": "ICAN",
+          "x": 199.5,
+          "y": 853.5,
+          "right": 351,
+          "bottom": 875.09375,
+          "width": 151.5,
+          "height": 21.59375,
+          "imageBottom": 843.5,
+          "font": 18
+        },
+        {
+          "text": "WICO",
+          "x": 24,
+          "y": 1060.59375,
+          "right": 175.5,
+          "bottom": 1082.1875,
+          "width": 151.5,
+          "height": 21.59375,
+          "imageBottom": 1050.59375,
+          "font": 18
+        },
+        {
+          "text": "Research",
+          "x": 199.5,
+          "y": 1060.59375,
+          "right": 351,
+          "bottom": 1082.1875,
+          "width": 151.5,
+          "height": 21.59375,
+          "imageBottom": 1050.59375,
+          "font": 18
+        }
+      ]
+    },
+    {
+      "width": 420,
+      "client": 420,
+      "scroll": 420,
+      "height": 1175,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 24,
+          "y": 828,
+          "right": 198,
+          "bottom": 849.59375,
+          "width": 174,
+          "height": 21.59375,
+          "imageBottom": 818,
+          "font": 18
+        },
+        {
+          "text": "ICAN",
+          "x": 222,
+          "y": 828,
+          "right": 396,
+          "bottom": 849.59375,
+          "width": 174,
+          "height": 21.59375,
+          "imageBottom": 818,
+          "font": 18
+        },
+        {
+          "text": "WICO",
+          "x": 24,
+          "y": 1057.59375,
+          "right": 198,
+          "bottom": 1079.1875,
+          "width": 174,
+          "height": 21.59375,
+          "imageBottom": 1047.59375,
+          "font": 18
+        },
+        {
+          "text": "Research",
+          "x": 222,
+          "y": 1057.59375,
+          "right": 396,
+          "bottom": 1079.1875,
+          "width": 174,
+          "height": 21.59375,
+          "imageBottom": 1047.59375,
+          "font": 18
+        }
+      ]
+    },
+    {
+      "width": 599,
+      "client": 599,
+      "scroll": 599,
+      "height": 1215,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 39.5,
+          "y": 794,
+          "right": 287.5,
+          "bottom": 815.59375,
+          "width": 248,
+          "height": 21.59375,
+          "imageBottom": 784,
+          "font": 18
+        },
+        {
+          "text": "ICAN",
+          "x": 311.5,
+          "y": 794,
+          "right": 559.5,
+          "bottom": 815.59375,
+          "width": 248,
+          "height": 21.59375,
+          "imageBottom": 784,
+          "font": 18
+        },
+        {
+          "text": "WICO",
+          "x": 39.5,
+          "y": 1097.59375,
+          "right": 287.5,
+          "bottom": 1119.1875,
+          "width": 248,
+          "height": 21.59375,
+          "imageBottom": 1087.59375,
+          "font": 18
+        },
+        {
+          "text": "Research",
+          "x": 311.5,
+          "y": 1097.59375,
+          "right": 559.5,
+          "bottom": 1119.1875,
+          "width": 248,
+          "height": 21.59375,
+          "imageBottom": 1087.59375,
+          "font": 18
+        }
+      ]
+    },
+    {
+      "width": 601,
+      "client": 601,
+      "scroll": 601,
+      "height": 819,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 40.5,
+          "y": 668,
+          "right": 158.5,
+          "bottom": 711.1875,
+          "width": 118,
+          "height": 43.1875,
+          "imageBottom": 658,
+          "font": 18
+        },
+        {
+          "text": "ICAN",
+          "x": 174.5,
+          "y": 678.796875,
+          "right": 292.5,
+          "bottom": 700.390625,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 668.796875,
+          "font": 18
+        },
+        {
+          "text": "WICO",
+          "x": 308.5,
+          "y": 678.796875,
+          "right": 426.5,
+          "bottom": 700.390625,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 668.796875,
+          "font": 18
+        },
+        {
+          "text": "Research",
+          "x": 442.5,
+          "y": 678.796875,
+          "right": 560.5,
+          "bottom": 700.390625,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 668.796875,
+          "font": 18
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "client": 768,
+      "scroll": 768,
+      "height": 1024,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 124,
+          "y": 826.171875,
+          "right": 242,
+          "bottom": 869.359375,
+          "width": 118,
+          "height": 43.1875,
+          "imageBottom": 816.171875,
+          "font": 18
+        },
+        {
+          "text": "ICAN",
+          "x": 258,
+          "y": 836.96875,
+          "right": 376,
+          "bottom": 858.5625,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 826.96875,
+          "font": 18
+        },
+        {
+          "text": "WICO",
+          "x": 392,
+          "y": 836.96875,
+          "right": 510,
+          "bottom": 858.5625,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 826.96875,
+          "font": 18
+        },
+        {
+          "text": "Research",
+          "x": 526,
+          "y": 836.96875,
+          "right": 644,
+          "bottom": 858.5625,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 826.96875,
+          "font": 18
+        }
+      ]
+    },
+    {
+      "width": 880,
+      "client": 880,
+      "scroll": 880,
+      "height": 900,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 180,
+          "y": 722.84375,
+          "right": 298,
+          "bottom": 766.03125,
+          "width": 118,
+          "height": 43.1875,
+          "imageBottom": 712.84375,
+          "font": 18
+        },
+        {
+          "text": "ICAN",
+          "x": 314,
+          "y": 733.640625,
+          "right": 432,
+          "bottom": 755.234375,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 723.640625,
+          "font": 18
+        },
+        {
+          "text": "WICO",
+          "x": 448,
+          "y": 733.640625,
+          "right": 566,
+          "bottom": 755.234375,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 723.640625,
+          "font": 18
+        },
+        {
+          "text": "Research",
+          "x": 582,
+          "y": 733.640625,
+          "right": 700,
+          "bottom": 755.234375,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 723.640625,
+          "font": 18
+        }
+      ]
+    },
+    {
+      "width": 1200,
+      "client": 1200,
+      "scroll": 1200,
+      "height": 900,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 340,
+          "y": 722.84375,
+          "right": 458,
+          "bottom": 766.03125,
+          "width": 118,
+          "height": 43.1875,
+          "imageBottom": 712.84375,
+          "font": 18
+        },
+        {
+          "text": "ICAN",
+          "x": 474,
+          "y": 733.640625,
+          "right": 592,
+          "bottom": 755.234375,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 723.640625,
+          "font": 18
+        },
+        {
+          "text": "WICO",
+          "x": 608,
+          "y": 733.640625,
+          "right": 726,
+          "bottom": 755.234375,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 723.640625,
+          "font": 18
+        },
+        {
+          "text": "Research",
+          "x": 742,
+          "y": 733.640625,
+          "right": 860,
+          "bottom": 755.234375,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 723.640625,
+          "font": 18
+        }
+      ]
+    },
+    {
+      "width": 1201,
+      "client": 1201,
+      "scroll": 1201,
+      "height": 900,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 1008.1328125,
+          "y": 665.15625,
+          "right": 1140.3046875,
+          "bottom": 684.34375,
+          "width": 132.171875,
+          "height": 19.1875,
+          "imageBottom": 658.484375,
+          "font": 16
+        },
+        {
+          "text": "ICAN",
+          "x": 671.4609375,
+          "y": 671.828125,
+          "right": 706.3203125,
+          "bottom": 691.015625,
+          "width": 34.859375,
+          "height": 19.1875,
+          "imageBottom": 665.15625,
+          "font": 16
+        },
+        {
+          "text": "WICO",
+          "x": 585.2421875,
+          "y": 551.734375,
+          "right": 624.0703125,
+          "bottom": 570.921875,
+          "width": 38.828125,
+          "height": 19.1875,
+          "imageBottom": 545.0625,
+          "font": 16
+        },
+        {
+          "text": "Research",
+          "x": 870.4765625,
+          "y": 642.640625,
+          "right": 930.1796875,
+          "bottom": 661.828125,
+          "width": 59.703125,
+          "height": 19.1875,
+          "imageBottom": 635.96875,
+          "font": 16
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "client": 1440,
+      "scroll": 1440,
+      "height": 744,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 1213.6484375,
+          "y": 630,
+          "right": 1362.3515625,
+          "bottom": 651.59375,
+          "width": 148.703125,
+          "height": 21.59375,
+          "imageBottom": 622,
+          "font": 18
+        },
+        {
+          "text": "ICAN",
+          "x": 806.390625,
+          "y": 638,
+          "right": 845.609375,
+          "bottom": 659.59375,
+          "width": 39.21875,
+          "height": 21.59375,
+          "imageBottom": 630,
+          "font": 18
+        },
+        {
+          "text": "WICO",
+          "x": 703.15625,
+          "y": 494,
+          "right": 746.84375,
+          "bottom": 515.59375,
+          "width": 43.6875,
+          "height": 21.59375,
+          "imageBottom": 486,
+          "font": 18
+        },
+        {
+          "text": "Research",
+          "x": 1045.9140625,
+          "y": 603,
+          "right": 1113.0859375,
+          "bottom": 624.59375,
+          "width": 67.171875,
+          "height": 21.59375,
+          "imageBottom": 595,
+          "font": 18
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "client": 1920,
+      "scroll": 1920,
+      "height": 1080,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 1618.1953125,
+          "y": 883.96875,
+          "right": 1816.4609375,
+          "bottom": 912.765625,
+          "width": 198.265625,
+          "height": 28.796875,
+          "imageBottom": 873.3125,
+          "font": 24
+        },
+        {
+          "text": "ICAN",
+          "x": 1075.1640625,
+          "y": 894.640625,
+          "right": 1127.4609375,
+          "bottom": 923.4375,
+          "width": 52.296875,
+          "height": 28.796875,
+          "imageBottom": 883.984375,
+          "font": 24
+        },
+        {
+          "text": "WICO",
+          "x": 937.53125,
+          "y": 702.65625,
+          "right": 995.78125,
+          "bottom": 731.453125,
+          "width": 58.25,
+          "height": 28.796875,
+          "imageBottom": 692,
+          "font": 24
+        },
+        {
+          "text": "Research",
+          "x": 1394.546875,
+          "y": 847.96875,
+          "right": 1484.109375,
+          "bottom": 876.765625,
+          "width": 89.5625,
+          "height": 28.796875,
+          "imageBottom": 837.3125,
+          "font": 24
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "client": 2560,
+      "scroll": 2560,
+      "height": 1440,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 2157.59375,
+          "y": 1178.65625,
+          "right": 2421.9375,
+          "bottom": 1217.046875,
+          "width": 264.34375,
+          "height": 38.390625,
+          "imageBottom": 1164.4375,
+          "font": 32
+        },
+        {
+          "text": "ICAN",
+          "x": 1433.578125,
+          "y": 1192.875,
+          "right": 1503.296875,
+          "bottom": 1231.265625,
+          "width": 69.71875,
+          "height": 38.390625,
+          "imageBottom": 1178.65625,
+          "font": 32
+        },
+        {
+          "text": "WICO",
+          "x": 1250.046875,
+          "y": 936.875,
+          "right": 1327.703125,
+          "bottom": 975.265625,
+          "width": 77.65625,
+          "height": 38.390625,
+          "imageBottom": 922.65625,
+          "font": 32
+        },
+        {
+          "text": "Research",
+          "x": 1859.40625,
+          "y": 1130.65625,
+          "right": 1978.8125,
+          "bottom": 1169.046875,
+          "width": 119.40625,
+          "height": 38.390625,
+          "imageBottom": 1116.4375,
+          "font": 32
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "client": 3840,
+      "scroll": 3840,
+      "height": 2160,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 2797.59375,
+          "y": 1538.65625,
+          "right": 3061.9375,
+          "bottom": 1577.046875,
+          "width": 264.34375,
+          "height": 38.390625,
+          "imageBottom": 1524.4375,
+          "font": 32
+        },
+        {
+          "text": "ICAN",
+          "x": 2073.578125,
+          "y": 1552.875,
+          "right": 2143.296875,
+          "bottom": 1591.265625,
+          "width": 69.71875,
+          "height": 38.390625,
+          "imageBottom": 1538.65625,
+          "font": 32
+        },
+        {
+          "text": "WICO",
+          "x": 1890.046875,
+          "y": 1296.875,
+          "right": 1967.703125,
+          "bottom": 1335.265625,
+          "width": 77.65625,
+          "height": 38.390625,
+          "imageBottom": 1282.65625,
+          "font": 32
+        },
+        {
+          "text": "Research",
+          "x": 2499.40625,
+          "y": 1490.65625,
+          "right": 2618.8125,
+          "bottom": 1529.046875,
+          "width": 119.40625,
+          "height": 38.390625,
+          "imageBottom": 1476.4375,
+          "font": 32
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "client": 1440,
+      "scroll": 1440,
+      "height": 744,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 460,
+          "y": 593,
+          "right": 578,
+          "bottom": 636.1875,
+          "width": 118,
+          "height": 43.1875,
+          "imageBottom": 583,
+          "font": 18
+        },
+        {
+          "text": "ICAN",
+          "x": 594,
+          "y": 603.796875,
+          "right": 712,
+          "bottom": 625.390625,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 593.796875,
+          "font": 18
+        },
+        {
+          "text": "WICO",
+          "x": 728,
+          "y": 603.796875,
+          "right": 846,
+          "bottom": 625.390625,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 593.796875,
+          "font": 18
+        },
+        {
+          "text": "Research",
+          "x": 862,
+          "y": 603.796875,
+          "right": 980,
+          "bottom": 625.390625,
+          "width": 118,
+          "height": 21.59375,
+          "imageBottom": 593.796875,
+          "font": 18
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "client": 1440,
+      "scroll": 1440,
+      "height": 661,
+      "labels": [
+        {
+          "text": "Theicption Platform",
+          "x": 1158.5234375,
+          "y": 559.671875,
+          "right": 1290.6953125,
+          "bottom": 578.859375,
+          "width": 132.171875,
+          "height": 19.1875,
+          "imageBottom": 552.578125,
+          "font": 16
+        },
+        {
+          "text": "ICAN",
+          "x": 796.7265625,
+          "y": 566.78125,
+          "right": 831.5859375,
+          "bottom": 585.96875,
+          "width": 34.859375,
+          "height": 19.1875,
+          "imageBottom": 559.6875,
+          "font": 16
+        },
+        {
+          "text": "WICO",
+          "x": 705.0078125,
+          "y": 438.859375,
+          "right": 743.8359375,
+          "bottom": 458.046875,
+          "width": 38.828125,
+          "height": 19.1875,
+          "imageBottom": 431.765625,
+          "font": 16
+        },
+        {
+          "text": "Research",
+          "x": 1009.5234375,
+          "y": 535.703125,
+          "right": 1069.2265625,
+          "bottom": 554.890625,
+          "width": 59.703125,
+          "height": 19.1875,
+          "imageBottom": 528.609375,
+          "font": 16
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

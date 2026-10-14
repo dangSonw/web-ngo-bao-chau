@@ -1,0 +1,325 @@
+{
+  "pages": [
+    {
+      "key": "overview",
+      "route": "/inquiry",
+      "frameId": "7:240",
+      "title": {
+        "path": "inquiry/type/overview-title.svg",
+        "text": "inquiry",
+        "width": 221,
+        "height": 58,
+        "offsetX": 3.0719985961914062,
+        "offsetY": 8.90399169921875,
+        "artWidth": 218,
+        "artHeight": 47
+      },
+      "titleX": 97,
+      "titleY": 137,
+      "body": "An answer is rarely the end of the process.\nWhen something seems obvious, I want to understand what makes it so: the patterns, connections, and assumptions beneath it. I tend to follow a question further, especially when something does not quite add up. Curiosity, for me, is a way of looking closer and questioning what seems certain.\nUranus offers a fitting parallel. Beneath its seemingly simple atmosphere lies a complex interior unlike that of the planets we know best. Perhaps the most interesting answers are things that are hidden beneath what first appears obvious, waiting to be understood.",
+      "bodyX": 97,
+      "bodyY": 201,
+      "bodyWidth": 452,
+      "lineHeight": {
+        "unit": "AUTO"
+      },
+      "background": "inquiry/intro-background@2x.png",
+      "media": [
+        {
+          "nodeId": "8:291",
+          "path": "inquiry/image-24__8-291@2x.png",
+          "x": 1248,
+          "y": 542,
+          "width": 80,
+          "height": 80,
+          "alt": "Theicption Platform",
+          "route": "/inquiry/platform"
+        },
+        {
+          "nodeId": "8:288",
+          "path": "inquiry/image-23__8-288@2x.png",
+          "x": 782,
+          "y": 542,
+          "width": 88,
+          "height": 88,
+          "alt": "ICAN",
+          "route": "/inquiry/ican"
+        },
+        {
+          "nodeId": "8:285",
+          "path": "inquiry/image-22__8-285@2x.png",
+          "x": 665,
+          "y": 366,
+          "width": 120,
+          "height": 120,
+          "alt": "WICO",
+          "route": "/inquiry/wico"
+        },
+        {
+          "nodeId": "8:282",
+          "path": "inquiry/image-21__8-282@2x.png",
+          "x": 1017,
+          "y": 470,
+          "width": 125,
+          "height": 125,
+          "alt": "Research",
+          "route": "/inquiry/research"
+        }
+      ],
+      "links": [],
+      "paginationBottom": 17
+    },
+    {
+      "key": "wico",
+      "route": "/inquiry/wico",
+      "frameId": "8:298",
+      "title": {
+        "path": "inquiry/type/wico-title.svg",
+        "text": "WICO",
+        "width": 165,
+        "height": 58,
+        "offsetX": 0.95281982421875,
+        "offsetY": 11.399993896484375,
+        "artWidth": 161,
+        "artHeight": 34
+      },
+      "titleX": 213,
+      "titleY": 132,
+      "body": "I started this project by questioning the limits of the traditional 60/40 portfolio during market volatility. Working with four other high school students, I co-developed a quantitative framework and dynamic rebalancing strategy using a composite Shock Score based on rolling correlations, WTI oil momentum, and 10-year Treasury yield shifts.\nWe developed and backtested three algorithm versions against the 60/40 portfolio over 19 years of historical data. I contributed to the framework, model testing, research poster, and presentation. V3 taught me the most: adding another signal introduced noise and weakened performance, showing me that better answers do not always come from adding more, but from questioning what truly deserves to remain.\nWe presented our work at the 2026 World Invention Creativity Olympics in South Korea, where we received a Gold Award.",
+      "bodyX": 97,
+      "bodyY": 224,
+      "bodyWidth": 452,
+      "lineHeight": {
+        "unit": "AUTO"
+      },
+      "background": "inquiry/project-background@2x.png",
+      "media": [
+        {
+          "nodeId": "8:302",
+          "path": "inquiry/image-22__8-302@2x.png",
+          "x": 97,
+          "y": 98,
+          "width": 100,
+          "height": 100,
+          "alt": "WICO planet"
+        },
+        {
+          "nodeId": "25:9",
+          "path": "inquiry/image-28__25-9@2x.png",
+          "x": 717,
+          "y": 99,
+          "width": 163,
+          "height": 273,
+          "alt": "Presenting the WICO research poster"
+        },
+        {
+          "nodeId": "25:12",
+          "path": "inquiry/image-29__25-12@2x.png",
+          "x": 895,
+          "y": 99,
+          "width": 321,
+          "height": 273,
+          "alt": "WICO research team at the exhibition"
+        },
+        {
+          "nodeId": "25:15",
+          "path": "inquiry/image-30__25-15@2x.png",
+          "x": 717,
+          "y": 386,
+          "width": 497,
+          "height": 275,
+          "alt": "WICO Gold Award team in South Korea"
+        }
+      ],
+      "links": [],
+      "paginationBottom": 17
+    },
+    {
+      "key": "ican",
+      "route": "/inquiry/ican",
+      "frameId": "8:323",
+      "title": {
+        "path": "inquiry/type/ican-title.svg",
+        "text": "ICAN",
+        "width": 149,
+        "height": 58,
+        "offsetX": 3.21600341796875,
+        "offsetY": 11.399993896484375,
+        "artWidth": 142,
+        "artHeight": 34
+      },
+      "titleX": 213,
+      "titleY": 132,
+      "body": "AI compute is often measured by the price of a GPU-hour. I wanted to look at what that number leaves out: the electricity required to keep that GPU running, and the environmental cost that comes with it.\nAs the team leader, I worked alongside four other students throughout the entire project, from collecting and processing data to developing the methodology, analyzing results, designing the research poster, and preparing our presentation. We built an open-source R framework using free public data to quantify the electricity cost and carbon footprint behind each GPU-hour, compare them across countries, and examine whether energy-related assets could partially hedge electricity-cost risk.\nOur findings showed that electricity is a structural cost of AI compute, while the carbon footprint of the same GPU can vary dramatically depending on where it operates. We presented our research at the 2026 International Invention Innovation Competition in Canada, where we received a Gold Award.",
+      "bodyX": 97,
+      "bodyY": 224,
+      "bodyWidth": 452,
+      "lineHeight": {
+        "unit": "AUTO"
+      },
+      "background": "inquiry/project-background@2x.png",
+      "media": [
+        {
+          "nodeId": "111:2",
+          "path": "inquiry/image-46__111-2@2x.png",
+          "x": 97,
+          "y": 102,
+          "width": 107,
+          "height": 106,
+          "alt": "ICAN planet"
+        },
+        {
+          "nodeId": "75:10",
+          "path": "inquiry/image-45__75-10@2x.png",
+          "x": 685,
+          "y": 224,
+          "width": 536,
+          "height": 380,
+          "alt": "Watts Behind the Compute research poster"
+        }
+      ],
+      "links": [],
+      "paginationBottom": 17
+    },
+    {
+      "key": "research",
+      "route": "/inquiry/research",
+      "frameId": "8:341",
+      "title": {
+        "path": "inquiry/type/research-title.svg",
+        "text": "RESEARCH",
+        "width": 340,
+        "height": 58,
+        "offsetX": 3.21600341796875,
+        "offsetY": 11.399993896484375,
+        "artWidth": 333,
+        "artHeight": 34
+      },
+      "titleX": 213,
+      "titleY": 132,
+      "body": "Amid growing concerns over sustainability, I became interested in how local agriculture could create value beyond conventional production. I explored the Tam Dao Mushroom Cooperative as a case study of how circular agriculture, health-product innovation, and experiential tourism could be connected within one economic model.\nTo examine this relationship, I used Fuzzy-AHP to evaluate five dimensions of the cooperative’s development, drawing on assessments from seven experts. I structured and analyzed their judgments to identify which factors carried the greatest weight in shaping the model. The analysis highlighted the importance of economic and environmental considerations, while also revealing how health products and experiential tourism could extend the value created through agricultural production.\nThrough the project, I learned to turn a complex real-world system into measurable criteria and use quantitative analysis to examine the trade-offs between economic, environmental, and social objectives.",
+      "bodyX": 97,
+      "bodyY": 224,
+      "bodyWidth": 452,
+      "lineHeight": {
+        "unit": "AUTO"
+      },
+      "background": "inquiry/project-background@2x.png",
+      "media": [
+        {
+          "nodeId": "111:3",
+          "path": "inquiry/image-21__111-3@2x.png",
+          "x": 88,
+          "y": 114,
+          "width": 94,
+          "height": 93,
+          "alt": "Research planet"
+        },
+        {
+          "nodeId": "52:69",
+          "path": "inquiry/image-37__52-69@2x.png",
+          "x": 603,
+          "y": 132,
+          "width": 358,
+          "height": 216,
+          "alt": "Circular agricultural model research article"
+        },
+        {
+          "nodeId": "52:72",
+          "path": "inquiry/image-38__52-72@2x.png",
+          "x": 977,
+          "y": 132,
+          "width": 358,
+          "height": 216,
+          "alt": "Vietnam CO2 emissions and economic growth research article"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.mdpi.com/2673-4060/7/8/142",
+          "x": 602,
+          "y": 355,
+          "width": 246,
+          "text": "https://www.mdpi.com/2673-4060/7/8/142"
+        },
+        {
+          "url": "https://www.world-economics-journal.com/Papers/CO2-Emissions-Economic-Growth-and-Per-Capita-Income-in-Vietnam-from-a-Green-Economy-Perspective.aspx?ID=985",
+          "x": 977,
+          "y": 355,
+          "width": 386,
+          "text": "https://www.world-economics-journal.com/Papers/CO2-Emissions-Economic-Growth-and-Per-Capita-Income-in-Vietnam-from-a-Green-Economy-Perspective.aspx?ID=985"
+        }
+      ],
+      "paginationBottom": 4
+    },
+    {
+      "key": "platform",
+      "route": "/inquiry/platform",
+      "frameId": "8:359",
+      "title": {
+        "path": "inquiry/type/platform-title.svg",
+        "text": "Theicption Platform",
+        "width": 614,
+        "height": 58,
+        "offsetX": 1.10400390625,
+        "offsetY": 8.087997436523438,
+        "artWidth": 609,
+        "artHeight": 48
+      },
+      "titleX": 194,
+      "titleY": 132,
+      "body": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters.\nThat idea became Theicption, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.",
+      "bodyX": 97,
+      "bodyY": 224,
+      "bodyWidth": 452,
+      "lineHeight": {
+        "unit": "AUTO"
+      },
+      "background": "inquiry/project-background@2x.png",
+      "media": [
+        {
+          "nodeId": "8:300",
+          "path": "community/image-24__39-57@2x.png",
+          "x": 97,
+          "y": 113,
+          "width": 84,
+          "height": 84,
+          "alt": "Theicption Platform planet"
+        },
+        {
+          "nodeId": "71:7",
+          "path": "inquiry/image-44__71-7@2x.png",
+          "x": 773,
+          "y": 132,
+          "width": 481,
+          "height": 503,
+          "alt": "Theicption Platform publication start screen"
+        }
+      ],
+      "links": [],
+      "paginationBottom": 17
+    }
+  ],
+  "navigationLabels": {
+    "about": {
+      "path": "inquiry/type/nav-about.svg",
+      "text": "About Me",
+      "width": 154,
+      "height": 29,
+      "offsetX": 0.34666669368743896,
+      "offsetY": 3.9999985694885254,
+      "artWidth": 153,
+      "artHeight": 18
+    },
+    "inquiry": {
+      "path": "inquiry/type/nav-inquiry.svg",
+      "text": "inquiry",
+      "width": 111,
+      "height": 29,
+      "offsetX": 1.5360000133514404,
+      "offsetY": 3.9519991874694824,
+      "artWidth": 111,
+      "artHeight": 26
+    }
+  }
+}

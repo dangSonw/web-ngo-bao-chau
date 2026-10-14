@@ -1,0 +1,195 @@
+.spirit__frame {
+  --u: calc(100cqw / 1440);
+  position: relative;
+  width: 100%;
+  min-height: calc(744 * var(--u));
+  padding-top: calc(var(--body-y) * var(--u));
+  padding-bottom: calc(48 * var(--u));
+  font-family: 'Abhaya Libre', 'Times New Roman', serif;
+}
+
+.spirit__title {
+  position: absolute;
+  left: calc(var(--title-x) * var(--u));
+  top: calc(var(--title-y) * var(--u));
+  margin: 0;
+}
+
+.spirit__body {
+  width: calc(var(--body-width) * var(--u));
+  margin: 0 0 0 calc(var(--body-x) * var(--u));
+  font-size: max(14px, calc(var(--body-font-size) * var(--u)));
+  line-height: 1.1796875;
+  text-align: justify;
+  white-space: pre-line;
+}
+
+.spirit__tag {
+  position: absolute;
+  left: calc(var(--tag-x) * var(--u));
+  top: calc(var(--tag-y) * var(--u));
+  font-size: max(14px, calc(14 * var(--u)));
+  line-height: 1.1796875;
+}
+
+.spirit__subtitle {
+  position: absolute;
+  left: calc(var(--subtitle-x) * var(--u));
+  top: calc(var(--subtitle-y) * var(--u));
+  width: calc(var(--subtitle-width) * var(--u));
+  font-size: max(18px, calc(24 * var(--u)));
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.spirit__gallery img,
+.spirit__choice {
+  position: absolute;
+  left: calc(var(--media-x) * var(--u));
+  top: calc(var(--media-y) * var(--u));
+  width: calc(var(--media-width) * var(--u));
+  height: calc(var(--media-height) * var(--u));
+  object-fit: contain;
+}
+
+.spirit__choice {
+  min-width: 40px;
+  min-height: 40px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.spirit__choice > img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.spirit__choice-label {
+  position: absolute;
+  left: calc(var(--caption-x) * var(--u));
+  top: calc(var(--caption-y) * var(--u));
+}
+
+.spirit__arrow {
+  --arrow-size: max(40px, calc(50 * var(--u)));
+  position: absolute;
+  top: calc(347 * var(--u));
+  display: grid;
+  place-items: center;
+  width: var(--arrow-size);
+  height: var(--arrow-size);
+  border: calc(2 * var(--u)) solid #fff;
+  border-radius: 50%;
+  color: inherit;
+}
+
+.spirit__arrow--previous { left: calc(25 * var(--u)); }
+.spirit__arrow--next { right: calc(35 * var(--u)); }
+.spirit__arrow img { width: calc(24 * var(--u)); height: calc(15 * var(--u)); }
+
+@media (max-width: 1200px), (max-height: 660px) {
+  .spirit__frame {
+    --u: 1px;
+    min-height: 0;
+    padding: 28px 32px 48px;
+    flex: 1;
+  }
+
+  .spirit__heading {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px 12px;
+    margin-bottom: 24px;
+  }
+
+  .spirit__title,
+  .spirit__tag,
+  .spirit__subtitle {
+    position: static;
+  }
+
+  .spirit__title .figma-label {
+    --label-unit: min(1px, calc((100cqw - 64px) / var(--label-width)));
+  }
+
+  .spirit__subtitle {
+    width: min(100%, 620px);
+    margin-bottom: 24px;
+    font-size: 24px;
+  }
+
+  .spirit__body {
+    width: min(100%, 920px);
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: left;
+  }
+
+  .spirit__gallery {
+    position: relative;
+    width: min(100%, 720px);
+    aspect-ratio: var(--gallery-width) / var(--gallery-height);
+    margin: 32px auto 0;
+  }
+
+  .spirit__gallery img {
+    left: calc(var(--relative-x) * 1%);
+    top: calc(var(--relative-y) * 1%);
+    width: calc(var(--relative-width) * 1%);
+    height: calc(var(--relative-height) * 1%);
+  }
+
+  .spirit__choices {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 32px;
+    max-width: 440px;
+    margin: 32px auto 0;
+  }
+
+  .spirit__choice {
+    position: static;
+    width: 100%;
+    height: auto;
+  }
+
+  .spirit__choice > img {
+    width: min(100%, 125px);
+    height: auto;
+    aspect-ratio: 1;
+    margin: 0 auto;
+  }
+
+  .spirit__choice-label {
+    position: static;
+    display: block;
+    margin-top: 12px;
+  }
+
+  .spirit__choice-label .figma-label {
+    --label-unit: 1px;
+    margin: 0 auto;
+  }
+
+  .spirit__arrows {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+  }
+
+  .spirit__arrow {
+    position: static;
+  }
+}
+
+@media (max-width: 600px) {
+  .spirit__frame { padding: 24px 24px 36px; }
+  .spirit__title .figma-label {
+    --label-unit: min(1px, calc((100cqw - 48px) / var(--label-width)));
+  }
+}

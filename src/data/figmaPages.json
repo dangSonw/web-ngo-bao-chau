@@ -1,0 +1,437 @@
+[
+  {
+    "id": "7:240",
+    "name": "inquiry",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "7:243",
+        "text": "inquiry",
+        "fontSize": 48
+      }
+    ],
+    "section": "inquiry",
+    "screenshot": "design/screenshots/frame__7-240.png"
+  },
+  {
+    "id": "1:2",
+    "name": "Desktop - 1",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "6:8",
+        "text": "Bao Chau\nUniverse",
+        "fontSize": 98.14173126220703
+      }
+    ],
+    "section": "home",
+    "screenshot": "design/screenshots/frame__1-2.png"
+  },
+  {
+    "id": "7:176",
+    "name": "About Me",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "7:184",
+        "text": "THE ADVENTURER",
+        "fontSize": 69
+      }
+    ],
+    "section": "about",
+    "screenshot": "design/screenshots/frame__7-176.png"
+  },
+  {
+    "id": "7:196",
+    "name": "About Me",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "7:204",
+        "text": "THE SEEKER",
+        "fontSize": 69
+      }
+    ],
+    "section": "about",
+    "screenshot": "design/screenshots/frame__7-196.png"
+  },
+  {
+    "id": "25:17",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "25:25",
+        "text": "community",
+        "fontSize": 48
+      }
+    ],
+    "section": "community",
+    "screenshot": "design/screenshots/frame__25-17.png"
+  },
+  {
+    "id": "26:115",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "26:123",
+        "text": "Sprituality",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__26-115.png"
+  },
+  {
+    "id": "52:2",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "52:10",
+        "text": "WUXING",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__52-2.png"
+  },
+  {
+    "id": "74:28",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "74:31",
+        "text": "Planets",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__74-28.png"
+  },
+  {
+    "id": "74:51",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "74:54",
+        "text": "planets",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__74-51.png"
+  },
+  {
+    "id": "74:166",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "74:170",
+        "text": "planets",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__74-166.png"
+  },
+  {
+    "id": "77:2",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "77:6",
+        "text": "planets",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__77-2.png"
+  },
+  {
+    "id": "123:2",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "123:5",
+        "text": "planets",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__123-2.png"
+  },
+  {
+    "id": "73:4",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "73:7",
+        "text": "WUXING",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__73-4.png"
+  },
+  {
+    "id": "52:33",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "52:36",
+        "text": "Fire",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__52-33.png"
+  },
+  {
+    "id": "67:2",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "67:5",
+        "text": "Wood",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__67-2.png"
+  },
+  {
+    "id": "67:26",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "67:29",
+        "text": "Earth",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__67-26.png"
+  },
+  {
+    "id": "67:50",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "67:53",
+        "text": "Metal",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__67-50.png"
+  },
+  {
+    "id": "67:74",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "67:77",
+        "text": "Water",
+        "fontSize": 48
+      }
+    ],
+    "section": "spirituality",
+    "screenshot": "design/screenshots/frame__67-74.png"
+  },
+  {
+    "id": "8:298",
+    "name": "inquiry",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "8:306",
+        "text": "WICO",
+        "fontSize": 48
+      }
+    ],
+    "section": "inquiry",
+    "screenshot": "design/screenshots/frame__8-298.png"
+  },
+  {
+    "id": "25:39",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "25:42",
+        "text": "THE TAY ROOTS",
+        "fontSize": 48
+      }
+    ],
+    "section": "community",
+    "screenshot": "design/screenshots/frame__25-39.png"
+  },
+  {
+    "id": "26:2",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "26:5",
+        "text": "Ban Sung Project",
+        "fontSize": 48
+      }
+    ],
+    "section": "community",
+    "screenshot": "design/screenshots/frame__26-2.png"
+  },
+  {
+    "id": "26:24",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "26:27",
+        "text": "Y4C",
+        "fontSize": 48
+      }
+    ],
+    "section": "community",
+    "screenshot": "design/screenshots/frame__26-24.png"
+  },
+  {
+    "id": "26:46",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "26:49",
+        "text": "“Viet Nam Tinh Hoa” Concert",
+        "fontSize": 48
+      }
+    ],
+    "section": "community",
+    "screenshot": "design/screenshots/frame__26-46.png"
+  },
+  {
+    "id": "26:68",
+    "name": "Community",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "26:71",
+        "text": "Bright Paths Mù Cang Chải",
+        "fontSize": 48
+      }
+    ],
+    "section": "community",
+    "screenshot": "design/screenshots/frame__26-68.png"
+  },
+  {
+    "id": "8:323",
+    "name": "inquiry",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "8:326",
+        "text": "ICAN",
+        "fontSize": 48
+      }
+    ],
+    "section": "inquiry",
+    "screenshot": "design/screenshots/frame__8-323.png"
+  },
+  {
+    "id": "8:341",
+    "name": "inquiry",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "8:344",
+        "text": "RESEARCH",
+        "fontSize": 48
+      }
+    ],
+    "section": "inquiry",
+    "screenshot": "design/screenshots/frame__8-341.png"
+  },
+  {
+    "id": "8:359",
+    "name": "inquiry",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "8:362",
+        "text": "Theicption Platform",
+        "fontSize": 48
+      }
+    ],
+    "section": "inquiry",
+    "screenshot": "design/screenshots/frame__8-359.png"
+  },
+  {
+    "id": "7:107",
+    "name": "About Me",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "8:381",
+        "text": "About Me",
+        "fontSize": 48
+      }
+    ],
+    "section": "about",
+    "screenshot": "design/screenshots/frame__7-107.png"
+  },
+  {
+    "id": "7:135",
+    "name": "About Me",
+    "width": 1440,
+    "height": 744,
+    "title": [
+      {
+        "id": "7:166",
+        "text": "THE LOGICIAN",
+        "fontSize": 69
+      }
+    ],
+    "section": "about",
+    "screenshot": "design/screenshots/frame__7-135.png"
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "checks": {
+    "rotation": true,
+    "hoverPause": true,
+    "sideCentering": true,
+    "zoom": true,
+    "backLayerGate": true,
+    "restore": true,
+    "keyboard": true,
+    "touch": true,
+    "reducedMotion": true,
+    "unmount": true
+  },
+  "viewports": [
+    {
+      "width": 375,
+      "client": 375,
+      "scroll": 375,
+      "height": 1090,
+      "clipped": 0
+    },
+    {
+      "width": 420,
+      "client": 420,
+      "scroll": 420,
+      "height": 1021,
+      "clipped": 0
+    },
+    {
+      "width": 768,
+      "client": 768,
+      "scroll": 768,
+      "height": 1024,
+      "clipped": 0
+    },
+    {
+      "width": 880,
+      "client": 880,
+      "scroll": 880,
+      "height": 1083,
+      "clipped": 0
+    },
+    {
+      "width": 1200,
+      "client": 1200,
+      "scroll": 1200,
+      "height": 1127,
+      "clipped": 0
+    },
+    {
+      "width": 1201,
+      "client": 1201,
+      "scroll": 1201,
+      "height": 900,
+      "clipped": 0
+    },
+    {
+      "width": 1440,
+      "client": 1440,
+      "scroll": 1440,
+      "height": 744,
+      "clipped": 0
+    },
+    {
+      "width": 1920,
+      "client": 1920,
+      "scroll": 1920,
+      "height": 1080,
+      "clipped": 0
+    },
+    {
+      "width": 2560,
+      "client": 2560,
+      "scroll": 2560,
+      "height": 1440,
+      "clipped": 0
+    },
+    {
+      "width": 3840,
+      "client": 3840,
+      "scroll": 3840,
+      "height": 2160,
+      "clipped": 0
+    },
+    {
+      "width": 1440,
+      "client": 1440,
+      "scroll": 1440,
+      "height": 1127,
+      "clipped": 0
+    },
+    {
+      "width": 1440,
+      "client": 1440,
+      "scroll": 1440,
+      "height": 1127,
+      "clipped": 0
+    },
+    {
+      "width": 1440,
+      "client": 1440,
+      "scroll": 1440,
+      "height": 661,
+      "clipped": 0
+    }
+  ],
+  "errors": []
+}

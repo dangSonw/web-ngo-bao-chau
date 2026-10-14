@@ -1,0 +1,74 @@
+{
+  "sourceFrame": "1:2",
+  "assets": [
+    {
+      "id": "6:8",
+      "path": "home/type/universe.svg",
+      "bytes": 8374,
+      "width": 606.5810546875,
+      "height": 191.60630798339844,
+      "offsetX": 6.37890625,
+      "offsetY": 17.3935546875,
+      "kind": "text-outline",
+      "frameId": "1:2",
+      "sourceFont": "Conthrax Semi Bold"
+    },
+    {
+      "id": "6:9",
+      "path": "home/type/about.svg",
+      "bytes": 3871,
+      "width": 228.2375030517578,
+      "height": 27.000001907348633,
+      "offsetX": 0.51953125,
+      "offsetY": 6,
+      "kind": "text-outline",
+      "frameId": "1:2",
+      "sourceFont": "Conthrax Semi Bold"
+    },
+    {
+      "id": "6:12",
+      "path": "home/type/spirituality.svg",
+      "bytes": 5368,
+      "width": 235.57708740234375,
+      "height": 35.02799987792969,
+      "offsetX": 1.98046875,
+      "offsetY": 5.927734375,
+      "kind": "text-outline",
+      "frameId": "1:2",
+      "sourceFont": "Conthrax Semi Bold"
+    },
+    {
+      "id": "6:10",
+      "path": "home/type/inquiry.svg",
+      "bytes": 3172,
+      "width": 162.79605102539062,
+      "height": 35.02799987792969,
+      "offsetX": 2.3037109375,
+      "offsetY": 5.927734375,
+      "kind": "text-outline",
+      "frameId": "1:2",
+      "sourceFont": "Conthrax Semi Bold"
+    },
+    {
+      "id": "6:16",
+      "path": "home/type/community.svg",
+      "bytes": 4499,
+      "width": 259.0932312011719,
+      "height": 35.02799987792969,
+      "offsetX": 2.1240234375,
+      "offsetY": 5.927734375,
+      "kind": "text-outline",
+      "frameId": "1:2",
+      "sourceFont": "Conthrax Semi Bold"
+    }
+  ],
+  "font": {
+    "path": "fonts/Actor-Regular.ttf",
+    "license": "fonts/Actor-OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/actor"
+  },
+  "gradient": {
+    "nodeId": "32:54",
+    "implementation": "Native CSS; source SVG retained as reference at home/shade.svg"
+  }
+}
