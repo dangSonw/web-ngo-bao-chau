@@ -3,22 +3,20 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { Link, Navigate, useParams } from 'react-router-dom';
 import FigmaLabel from '../components/FigmaLabel.jsx';
 import SubpageLayout from '../components/SubpageLayout.jsx';
-import useReducedMotion from '../lib/useReducedMotion.js';
-import { pages, navigationLabels } from '../data/inquiryPages.json';
+import { pages } from '../data/inquiryPages.json';
 import './Inquiry.css';
 
 export default function Inquiry() {
   const { topic = 'overview' } = useParams();
   const page = pages.find(item => item.key === topic);
-  const reduced = useReducedMotion();
   useEffect(() => { window.scrollTo({ top: 0, behavior: 'instant' }); }, [topic]);
   if (!page) return <Navigate to="/inquiry" replace />;
-  return <SubpageLayout page={page} pages={pages} section="inquiry" navigationLabels={navigationLabels} contentId="inquiry-content">
+  return <SubpageLayout page={page} pages={pages} section="inquiry" contentId="inquiry-content">
     <AnimatePresence mode="wait" initial={false}>
       <motion.main key={page.key} id="inquiry-content" tabIndex={-1}
         className={`inquiry__frame inquiry__frame--${page.key}`} aria-label={page.title.text}
         initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
-        transition={{ duration: reduced ? 0 : 0.25 }}
+        transition={{ duration: 0 }}
         style={{ '--title-x': page.titleX, '--title-y': page.titleY, '--body-x': page.bodyX,
           '--body-y': page.bodyY, '--body-width': page.bodyWidth }}>
         <div className="inquiry__heading">

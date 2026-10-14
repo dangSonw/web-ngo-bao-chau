@@ -35,20 +35,20 @@ try {
     results.push({ section: entry, pages: pages.length, loops: 2, noHomeDot: true, repeatGuard: true });
   }
   const spiritual = JSON.parse(await readFile(new URL('../src/data/spiritualityPages.json', import.meta.url), 'utf8'));
-  for (const branch of ['wuxing', 'planets']) {
-    const screens = spiritual.pages.filter(item => item.group === branch);
+  const screens = spiritual.pages.filter(item => item.group);
     await page.locator('.subpage-layout__navigation a[href="/spirituality"]').click();
     await page.waitForSelector('.spirit__frame--overview');
-    await page.locator(`.spirit__choice[href="/spirituality/${branch}"]`).click();
-    await page.waitForSelector(`.spirit__frame--${branch}-intro`);
-    assert.equal(await page.locator('.subpage-layout__pagination a').count(), screens.length);
+    await page.locator('.spirit__choice[href="/spirituality/wuxing"]').click();
+    await page.waitForSelector('.spirit__frame--wuxing-intro');
     for (let i = 0; i < screens.length * 2; i++) {
-      assert.equal(new URL(page.url()).pathname, screens[i % screens.length].route);
+      const current = screens[i % screens.length];
+      assert.equal(new URL(page.url()).pathname, current.route);
+      await page.waitForSelector(`.subpage-layout__pagination a[href="${current.route}"][aria-current="page"]`);
+      assert.equal(await page.locator('.subpage-layout__pagination a').count(), screens.filter(item => item.group === current.group).length);
       await page.keyboard.press('Space');
       await page.waitForURL('**' + screens[(i + 1) % screens.length].route);
     }
-    results.push({ section: branch, pages: screens.length, loops: 2, containedInBranch: true });
-  }
+    results.push({ section: 'spirituality', pages: screens.length, loops: 2, crossesBranches: true, paginationWithinBranch: true });
   assert.deepEqual(errors, []);
   await writeFile(new URL('../design/inquiry-qa/navigation-regression.json', import.meta.url), JSON.stringify({ results, errors }, null, 2));
   console.log('Section Space loops and pagination passed');

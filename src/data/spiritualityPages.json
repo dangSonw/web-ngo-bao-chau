@@ -14,7 +14,8 @@
         "offsetX": 2.640000104904175,
         "offsetY": 8.903998374938965,
         "artWidth": 315.0,
-        "artHeight": 47.0
+        "artHeight": 47.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 137,
@@ -23,11 +24,11 @@
       "bodyY": 201,
       "bodyWidth": 469,
       "bodyFontSize": 14,
-      "background": "spirituality/intro-background@2x.png",
+      "background": "spirituality/intro-background@2x.webp",
       "media": [
         {
           "nodeId": "99:239",
-          "path": "inquiry/image-21__8-282@2x.png",
+          "path": "inquiry/image-21__8-282@2x.webp",
           "x": 1191,
           "y": 495,
           "width": 125,
@@ -40,7 +41,7 @@
         },
         {
           "nodeId": "99:240",
-          "path": "inquiry/image-22__8-285@2x.png",
+          "path": "inquiry/image-22__8-285@2x.webp",
           "x": 662,
           "y": 340,
           "width": 120,
@@ -60,7 +61,7 @@
           "route": "/spirituality/wuxing",
           "image": {
             "nodeId": "99:240",
-            "path": "inquiry/image-22__8-285@2x.png",
+            "path": "inquiry/image-22__8-285@2x.webp",
             "x": 662,
             "y": 340,
             "width": 120,
@@ -79,7 +80,8 @@
             "offsetX": 0.6847949624061584,
             "offsetY": 3.799999237060547,
             "artWidth": 89.0,
-            "artHeight": 12.0
+            "artHeight": 12.0,
+            "fontSize": 16
           },
           "labelX": 0,
           "labelY": 125
@@ -89,7 +91,7 @@
           "route": "/spirituality/planets",
           "image": {
             "nodeId": "99:239",
-            "path": "inquiry/image-21__8-282@2x.png",
+            "path": "inquiry/image-21__8-282@2x.webp",
             "x": 1191,
             "y": 495,
             "width": 125,
@@ -108,7 +110,8 @@
             "offsetX": 1.3610625267028809,
             "offsetY": 3.799999237060547,
             "artWidth": 98.0,
-            "artHeight": 12.0
+            "artHeight": 12.0,
+            "fontSize": 16
           },
           "labelX": 13,
           "labelY": 125
@@ -130,7 +133,8 @@
         "offsetX": 0.9528224468231201,
         "offsetY": 11.39999771118164,
         "artWidth": 254.0,
-        "artHeight": 34.0
+        "artHeight": 34.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 138,
@@ -139,7 +143,7 @@
       "bodyY": 201,
       "bodyWidth": 1242,
       "bodyFontSize": 16,
-      "background": "spirituality/chapter-background@2x.png",
+      "background": "spirituality/chapter-background@2x.webp",
       "media": [],
       "name": "WUXING"
     },
@@ -157,7 +161,8 @@
         "offsetX": 2.832000255584717,
         "offsetY": 8.903998374938965,
         "artWidth": 116.0,
-        "artHeight": 37.0
+        "artHeight": 37.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 142,
@@ -166,11 +171,11 @@
       "bodyY": 201,
       "bodyWidth": 469,
       "bodyFontSize": 16,
-      "background": "spirituality/chapter-background@2x.png",
+      "background": "spirituality/chapter-background@2x.webp",
       "media": [
         {
           "nodeId": "67:102",
-          "path": "spirituality/image-42__67-102@2x.png",
+          "path": "spirituality/image-42__67-102@2x.webp",
           "x": 906,
           "y": 184,
           "width": 389,
@@ -183,7 +188,7 @@
         },
         {
           "nodeId": "67:99",
-          "path": "spirituality/image-41__67-99@2x.png",
+          "path": "spirituality/image-41__67-99@2x.webp",
           "x": 616,
           "y": 183,
           "width": 269,
@@ -196,7 +201,7 @@
         },
         {
           "nodeId": "67:105",
-          "path": "spirituality/image-43__67-105@2x.png",
+          "path": "spirituality/image-43__67-105@2x.webp",
           "x": 906,
           "y": 425,
           "width": 389.10443115234375,
@@ -234,7 +239,8 @@
         "offsetX": 0.9528224468231201,
         "offsetY": 8.99999713897705,
         "artWidth": 181.0,
-        "artHeight": 36.0
+        "artHeight": 36.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 142,
@@ -243,11 +249,11 @@
       "bodyY": 201,
       "bodyWidth": 469,
       "bodyFontSize": 16,
-      "background": "spirituality/chapter-background@2x.png",
+      "background": "spirituality/chapter-background@2x.webp",
       "media": [
         {
           "nodeId": "68:115",
-          "path": "spirituality/rectangle-3__68-115@2x.png",
+          "path": "spirituality/rectangle-3__68-115@2x.webp",
           "x": 836,
           "y": 201,
           "width": 393,
@@ -260,7 +266,7 @@
         },
         {
           "nodeId": "68:116",
-          "path": "spirituality/rectangle-4__68-116@2x.png",
+          "path": "spirituality/rectangle-4__68-116@2x.webp",
           "x": 836,
           "y": 426,
           "width": 393,
@@ -298,7 +304,8 @@
         "offsetX": 2.832000255584717,
         "offsetY": 8.99999713897705,
         "artWidth": 170.0,
-        "artHeight": 36.0
+        "artHeight": 36.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 142,
@@ -307,11 +314,11 @@
       "bodyY": 201,
       "bodyWidth": 469,
       "bodyFontSize": 16,
-      "background": "spirituality/chapter-background@2x.png",
+      "background": "spirituality/chapter-background@2x.webp",
       "media": [
         {
           "nodeId": "70:119",
-          "path": "spirituality/rectangle-5__70-119@2x.png",
+          "path": "spirituality/rectangle-5__70-119@2x.webp",
           "x": 735,
           "y": 207,
           "width": 223,
@@ -337,7 +344,7 @@
         },
         {
           "nodeId": "70:121",
-          "path": "spirituality/rectangle-7__70-121@2x.png",
+          "path": "spirituality/rectangle-7__70-121@2x.webp",
           "x": 978,
           "y": 393,
           "width": 314,
@@ -375,7 +382,8 @@
         "offsetX": 3.2160000801086426,
         "offsetY": 8.99999713897705,
         "artWidth": 164.0,
-        "artHeight": 36.0
+        "artHeight": 36.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 142,
@@ -384,11 +392,11 @@
       "bodyY": 201,
       "bodyWidth": 469,
       "bodyFontSize": 16,
-      "background": "spirituality/chapter-background@2x.png",
+      "background": "spirituality/chapter-background@2x.webp",
       "media": [
         {
           "nodeId": "70:123",
-          "path": "spirituality/rectangle-3__70-123@2x.png",
+          "path": "spirituality/rectangle-3__70-123@2x.webp",
           "x": 761,
           "y": 158,
           "width": 393,
@@ -401,7 +409,7 @@
         },
         {
           "nodeId": "70:124",
-          "path": "spirituality/rectangle-4__70-124@2x.png",
+          "path": "spirituality/rectangle-4__70-124@2x.webp",
           "x": 761,
           "y": 383,
           "width": 393,
@@ -439,7 +447,8 @@
         "offsetX": 0.9528224468231201,
         "offsetY": 11.20799732208252,
         "artWidth": 189.0,
-        "artHeight": 34.0
+        "artHeight": 34.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 142,
@@ -448,11 +457,11 @@
       "bodyY": 201,
       "bodyWidth": 469,
       "bodyFontSize": 14,
-      "background": "spirituality/chapter-background@2x.png",
+      "background": "spirituality/chapter-background@2x.webp",
       "media": [
         {
           "nodeId": "73:2",
-          "path": "spirituality/rectangle-3__73-2@2x.png",
+          "path": "spirituality/rectangle-3__73-2@2x.webp",
           "x": 740,
           "y": 165,
           "width": 436,
@@ -465,7 +474,7 @@
         },
         {
           "nodeId": "73:3",
-          "path": "spirituality/rectangle-4__73-3@2x.png",
+          "path": "spirituality/rectangle-4__73-3@2x.webp",
           "x": 740,
           "y": 395,
           "width": 436,
@@ -503,7 +512,8 @@
         "offsetX": 0.9528224468231201,
         "offsetY": 11.39999771118164,
         "artWidth": 254.0,
-        "artHeight": 34.0
+        "artHeight": 34.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 138,
@@ -512,7 +522,7 @@
       "bodyY": 201,
       "bodyWidth": 451,
       "bodyFontSize": 14,
-      "background": "spirituality/chapter-background@2x.png",
+      "background": "spirituality/chapter-background@2x.webp",
       "media": [],
       "subtitle": {
         "text": "(Conclusion)",
@@ -538,7 +548,8 @@
         "offsetX": 3.2160000801086426,
         "offsetY": 8.99999713897705,
         "artWidth": 230.0,
-        "artHeight": 36.0
+        "artHeight": 36.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 138,
@@ -547,7 +558,7 @@
       "bodyY": 201,
       "bodyWidth": 1242,
       "bodyFontSize": 16,
-      "background": "spirituality/chapter-background@2x.png",
+      "background": "spirituality/chapter-background@2x.webp",
       "media": [],
       "name": "Planets"
     },
@@ -565,7 +576,8 @@
         "offsetX": 2.9280002117156982,
         "offsetY": 8.99999713897705,
         "artWidth": 229.0,
-        "artHeight": 47.0
+        "artHeight": 47.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 138,
@@ -574,11 +586,11 @@
       "bodyY": 313,
       "bodyWidth": 442,
       "bodyFontSize": 14,
-      "background": "spirituality/chapter-background@2x.png",
+      "background": "spirituality/chapter-background@2x.webp",
       "media": [
         {
           "nodeId": "74:146",
-          "path": "spirituality/image-46__74-146@2x.png",
+          "path": "spirituality/image-46__74-146@2x.webp",
           "x": 812,
           "y": 173,
           "width": 269,
@@ -591,7 +603,7 @@
         },
         {
           "nodeId": "74:152",
-          "path": "spirituality/image-48__74-152@2x.png",
+          "path": "spirituality/image-48__74-152@2x.webp",
           "x": 632,
           "y": 174,
           "width": 176,
@@ -604,7 +616,7 @@
         },
         {
           "nodeId": "74:158",
-          "path": "spirituality/image-50__74-158@2x.png",
+          "path": "spirituality/image-50__74-158@2x.webp",
           "x": 811,
           "y": 332,
           "width": 270,
@@ -617,7 +629,7 @@
         },
         {
           "nodeId": "74:161",
-          "path": "spirituality/image-51__74-161@2x.png",
+          "path": "spirituality/image-51__74-161@2x.webp",
           "x": 1084,
           "y": 170,
           "width": 182,
@@ -655,7 +667,8 @@
         "offsetX": 2.9280002117156982,
         "offsetY": 8.99999713897705,
         "artWidth": 229.0,
-        "artHeight": 47.0
+        "artHeight": 47.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 138,
@@ -664,11 +677,11 @@
       "bodyY": 248,
       "bodyWidth": 442,
       "bodyFontSize": 16,
-      "background": "spirituality/chapter-background@2x.png",
+      "background": "spirituality/chapter-background@2x.webp",
       "media": [
         {
           "nodeId": "74:215",
-          "path": "spirituality/rectangle-8__74-215@2x.png",
+          "path": "spirituality/rectangle-8__74-215@2x.webp",
           "x": 667,
           "y": 180,
           "width": 284,
@@ -681,7 +694,7 @@
         },
         {
           "nodeId": "74:216",
-          "path": "spirituality/rectangle-9__74-216@2x.png",
+          "path": "spirituality/rectangle-9__74-216@2x.webp",
           "x": 667,
           "y": 361,
           "width": 284,
@@ -694,7 +707,7 @@
         },
         {
           "nodeId": "74:219",
-          "path": "spirituality/rectangle-12__74-219@2x.png",
+          "path": "spirituality/rectangle-12__74-219@2x.webp",
           "x": 965,
           "y": 180,
           "width": 284,
@@ -707,7 +720,7 @@
         },
         {
           "nodeId": "74:217",
-          "path": "spirituality/rectangle-10__74-217@2x.png",
+          "path": "spirituality/rectangle-10__74-217@2x.webp",
           "x": 965,
           "y": 361,
           "width": 284,
@@ -745,7 +758,8 @@
         "offsetX": 2.9280002117156982,
         "offsetY": 8.99999713897705,
         "artWidth": 229.0,
-        "artHeight": 47.0
+        "artHeight": 47.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 138,
@@ -754,11 +768,11 @@
       "bodyY": 256,
       "bodyWidth": 442,
       "bodyFontSize": 16,
-      "background": "spirituality/planet-background@2x.png",
+      "background": "spirituality/planet-background@2x.webp",
       "media": [
         {
           "nodeId": "78:31",
-          "path": "spirituality/image-52__78-31@2x.png",
+          "path": "spirituality/image-52__78-31@2x.webp",
           "x": 1040,
           "y": 161,
           "width": 256,
@@ -771,7 +785,7 @@
         },
         {
           "nodeId": "78:37",
-          "path": "spirituality/image-54__78-37@2x.png",
+          "path": "spirituality/image-54__78-37@2x.webp",
           "x": 865,
           "y": 161,
           "width": 170,
@@ -784,7 +798,7 @@
         },
         {
           "nodeId": "78:43",
-          "path": "spirituality/image-56__78-43@2x.png",
+          "path": "spirituality/image-56__78-43@2x.webp",
           "x": 619,
           "y": 161,
           "width": 241,
@@ -797,7 +811,7 @@
         },
         {
           "nodeId": "78:49",
-          "path": "spirituality/image-58__78-49@2x.png",
+          "path": "spirituality/image-58__78-49@2x.webp",
           "x": 1040,
           "y": 308,
           "width": 256,
@@ -810,7 +824,7 @@
         },
         {
           "nodeId": "78:52",
-          "path": "spirituality/image-59__78-52@2x.png",
+          "path": "spirituality/image-59__78-52@2x.webp",
           "x": 619,
           "y": 308,
           "width": 241,
@@ -848,7 +862,8 @@
         "offsetX": 2.9280002117156982,
         "offsetY": 8.99999713897705,
         "artWidth": 229.0,
-        "artHeight": 47.0
+        "artHeight": 47.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 138,
@@ -857,11 +872,11 @@
       "bodyY": 256,
       "bodyWidth": 442,
       "bodyFontSize": 16,
-      "background": "spirituality/planet-background@2x.png",
+      "background": "spirituality/planet-background@2x.webp",
       "media": [
         {
           "nodeId": "123:31",
-          "path": "spirituality/image-60__123-31@2x.png",
+          "path": "spirituality/image-60__123-31@2x.webp",
           "x": 572,
           "y": 154,
           "width": 332,
@@ -874,7 +889,7 @@
         },
         {
           "nodeId": "123:34",
-          "path": "spirituality/image-61__123-34@2x.png",
+          "path": "spirituality/image-61__123-34@2x.webp",
           "x": 916,
           "y": 455,
           "width": 333,
@@ -887,7 +902,7 @@
         },
         {
           "nodeId": "123:36",
-          "path": "spirituality/rectangle-13__123-36@2x.png",
+          "path": "spirituality/rectangle-13__123-36@2x.webp",
           "x": 916,
           "y": 154,
           "width": 333,
@@ -921,7 +936,8 @@
       "offsetX": 0.34666669368743896,
       "offsetY": 3.9999985694885254,
       "artWidth": 153,
-      "artHeight": 18
+      "artHeight": 18,
+      "fontSize": 24
     },
     "spirituality": {
       "path": "spirituality/type/nav-spirituality.svg",
@@ -931,7 +947,8 @@
       "offsetX": 1.3200000524520874,
       "offsetY": 3.9519991874694824,
       "artWidth": 160.0,
-      "artHeight": 26.0
+      "artHeight": 26.0,
+      "fontSize": 24
     }
   },
   "arrows": {

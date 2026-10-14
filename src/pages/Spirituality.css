@@ -8,27 +8,31 @@
   font-family: 'Abhaya Libre', 'Times New Roman', serif;
 }
 
-.spirit__title {
+.spirit__heading {
   position: absolute;
   left: calc(var(--title-x) * var(--u));
   top: calc(var(--title-y) * var(--u));
+  display: flex;
+  align-items: flex-end;
+  gap: 12px;
+}
+
+.spirit__title {
   margin: 0;
 }
 
 .spirit__body {
   width: calc(var(--body-width) * var(--u));
   margin: 0 0 0 calc(var(--body-x) * var(--u));
-  font-size: max(14px, calc(var(--body-font-size) * var(--u)));
+  font-size: calc(max(14px, calc(var(--body-font-size) * var(--u))) + var(--text-step));
   line-height: 1.1796875;
   text-align: justify;
   white-space: pre-line;
 }
 
 .spirit__tag {
-  position: absolute;
-  left: calc(var(--tag-x) * var(--u));
-  top: calc(var(--tag-y) * var(--u));
-  font-size: max(14px, calc(14 * var(--u)));
+  margin-bottom: calc(8 * var(--u));
+  font-size: calc(max(14px, calc(14 * var(--u))) + var(--text-step));
   line-height: 1.1796875;
 }
 
@@ -37,7 +41,7 @@
   left: calc(var(--subtitle-x) * var(--u));
   top: calc(var(--subtitle-y) * var(--u));
   width: calc(var(--subtitle-width) * var(--u));
-  font-size: max(18px, calc(24 * var(--u)));
+  font-size: calc(max(18px, calc(24 * var(--u))) + var(--text-step));
   font-weight: 400;
   line-height: 1.2;
   margin: 0;
@@ -99,6 +103,7 @@
   }
 
   .spirit__heading {
+    position: static;
     display: flex;
     align-items: baseline;
     flex-wrap: wrap;
@@ -112,20 +117,23 @@
     position: static;
   }
 
+  .spirit__tag { margin-bottom: 0; }
+
   .spirit__title .figma-label {
     --label-unit: min(1px, calc((100cqw - 64px) / var(--label-width)));
+    --label-max-width: calc(100cqw - 64px);
   }
 
   .spirit__subtitle {
     width: min(100%, 620px);
     margin-bottom: 24px;
-    font-size: 24px;
+    font-size: calc(24px + var(--text-step));
   }
 
   .spirit__body {
     width: min(100%, 920px);
     margin: 0;
-    font-size: 18px;
+    font-size: calc(18px + var(--text-step));
     line-height: 1.5;
     text-align: left;
   }
@@ -191,5 +199,6 @@
   .spirit__frame { padding: 24px 24px 36px; }
   .spirit__title .figma-label {
     --label-unit: min(1px, calc((100cqw - 48px) / var(--label-width)));
+    --label-max-width: calc(100cqw - 48px);
   }
 }

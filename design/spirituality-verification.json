@@ -78,5 +78,6 @@
     "Figma Desktop is missing Conthrax; SVG exports preserve cached glyph shapes",
     "Frame 73:4 is named Community in Figma but contains the Wuxing conclusion and was implemented in that branch",
     "Codegraph coverage is not verified due to disconnected transport"
-  ]
+  ],
+  "supersededBy": "design/site-refresh-verification.json; previous branch-contained Space behavior has been replaced by a combined Wuxing/Planets cycle"
 }

@@ -2,3 +2,7 @@
 dist
 .DS_Store
 .env*
+
+# Figma reference exports and browser QA stay local, outside production assets.
+/design/**/*.png
+/design/**/*.webp

@@ -1,0 +1,42 @@
+{
+  "scope": "All 29 portfolio screens: larger typography, spacing, black transitions and combined Spirituality Space navigation",
+  "designSource": "Previously verified local Figma node exports, outlined text and source assets; layout and type changes requested by the user",
+  "changes": {
+    "typography": "Shared +2px step for native text and Figma outlined labels using original node font sizes; responsive labels fit the available width",
+    "aboutChoices": "Titles, captions and underlines now flow with explicit vertical gaps",
+    "layout": "Text flows in About/Inquiry, Platform image clears heading, Community captions stay in canvas, Spirituality tags clear titles",
+    "transition": "Content below the shared menu fades to black for 220ms; destination swaps while covered; images/fonts settle before 280ms reveal; shared SiteNavigation remains mounted and unobscured across all sections; reduced motion skips fade",
+    "spiritualitySpace": "Wuxing 7 screens then Planets 5 screens then Wuxing; dots and arrows remain local to the selected branch"
+  },
+  "qa": {
+    "matrix": "design/site-refresh-qa/results.json",
+    "screens": 29,
+    "viewportCases": 551,
+    "widthRange": [
+      375,
+      3840
+    ],
+    "breakpointSidesAndShortHeights": true,
+    "overflowAndClipping": "Passed for native text and decoded media",
+    "captionGaps": "At least 5px separation verified for every About overview viewport",
+    "transition": "Samples assert covered destination swap and reveal, unchanged shared menu DOM, menu opacity 1, blackout beginning below menu; reduced motion during blackout passed",
+    "consoleAndNetwork": "No warnings, runtime errors, unhandled page errors or failed HTTP responses observed",
+    "navigation": "design/inquiry-qa/navigation-regression.json: two Space loops, repeat guard, pagination and combined Spirituality cycle passed",
+    "existingInteractions": "design/orbit-qa/motion-results.json: all eleven certificates, Tab/Shift+Tab/Escape, original source images, five-planet motion, Back/Forward and startup route reset passed",
+    "planetPerformance": "122 sampled frames, zero layouts, reduced motion passed",
+    "hmr": "Spirituality CSS HMR preserved document and branch; subsequent Space navigation passed",
+    "productionBuild": "npm run build passed without application warnings",
+    "rerun": "node scripts/check-site-layout.mjs <optional-playwright-module-url>",
+    "additionalTransitionChecks": "design/content-menu-qa.json: 6 widths, shared menu outside blackout, rapid section changes, Back/Forward and reload passed"
+  },
+  "limitations": {
+    "codegraph": "Transport closed before and after edits; source, routes, imports and Git diff inspected directly"
+  },
+  "assetOptimization": {
+    "report": "design/asset-optimization.json",
+    "quality": "91 lossless conversions/aliases verified against archived originals",
+    "runtimeReferences": 148,
+    "unusedAssetsArchived": 29,
+    "qaImagesGitIgnored": true
+  }
+}

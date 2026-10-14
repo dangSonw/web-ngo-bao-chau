@@ -15,7 +15,7 @@
   "certificates": [
     {
       "index": 0,
-      "source": "http://localhost:5177/assets/about/0002-1__28-3@source.png",
+      "source": "http://localhost:5177/assets/about/0002-1__28-3@source.webp",
       "natural": [
         1684,
         1190
@@ -28,7 +28,7 @@
     },
     {
       "index": 1,
-      "source": "http://localhost:5177/assets/about/0006-1__28-7@source.png",
+      "source": "http://localhost:5177/assets/about/0006-1__28-7@source.webp",
       "natural": [
         1684,
         1190
@@ -41,7 +41,7 @@
     },
     {
       "index": 2,
-      "source": "http://localhost:5177/assets/about/0003-1__28-4@source.png",
+      "source": "http://localhost:5177/assets/about/0003-1__28-4@source.webp",
       "natural": [
         1190,
         1684
@@ -54,7 +54,7 @@
     },
     {
       "index": 3,
-      "source": "http://localhost:5177/assets/about/image-35__52-57@source.png",
+      "source": "http://localhost:5177/assets/about/image-35__52-57@source.webp",
       "natural": [
         2048,
         1468
@@ -67,7 +67,7 @@
     },
     {
       "index": 4,
-      "source": "http://localhost:5177/assets/about/0004-1__28-5@source.png",
+      "source": "http://localhost:5177/assets/about/0004-1__28-5@source.webp",
       "natural": [
         1684,
         1190
@@ -80,7 +80,7 @@
     },
     {
       "index": 5,
-      "source": "http://localhost:5177/assets/about/image-40__66-4@source.png",
+      "source": "http://localhost:5177/assets/about/image-40__66-4@source.webp",
       "natural": [
         1542,
         996
@@ -93,7 +93,7 @@
     },
     {
       "index": 6,
-      "source": "http://localhost:5177/assets/about/0001-1__28-2@source.png",
+      "source": "http://localhost:5177/assets/about/0001-1__28-2@source.webp",
       "natural": [
         1684,
         1190
@@ -106,7 +106,7 @@
     },
     {
       "index": 7,
-      "source": "http://localhost:5177/assets/about/image-36__52-63@source.png",
+      "source": "http://localhost:5177/assets/about/image-36__52-63@source.webp",
       "natural": [
         1508,
         1068
@@ -119,7 +119,7 @@
     },
     {
       "index": 8,
-      "source": "http://localhost:5177/assets/about/0007-1__28-8@source.png",
+      "source": "http://localhost:5177/assets/about/0007-1__28-8@source.webp",
       "natural": [
         1684,
         1190
@@ -132,7 +132,7 @@
     },
     {
       "index": 9,
-      "source": "http://localhost:5177/assets/about/0008-1__28-9@source.png",
+      "source": "http://localhost:5177/assets/about/0008-1__28-9@source.webp",
       "natural": [
         1684,
         1190
@@ -145,7 +145,7 @@
     },
     {
       "index": 10,
-      "source": "http://localhost:5177/assets/about/0005-1__28-6@source.png",
+      "source": "http://localhost:5177/assets/about/0005-1__28-6@source.webp",
       "natural": [
         1684,
         1190
@@ -164,7 +164,7 @@
       "scroll": 375,
       "scene": {
         "x": 24,
-        "y": 729.921875,
+        "y": 833.734375,
         "width": 327,
         "height": 270.9375
       }
@@ -175,7 +175,7 @@
       "scroll": 420,
       "scene": {
         "x": 24,
-        "y": 630.40625,
+        "y": 698.8125,
         "width": 372,
         "height": 308.21875
       }
@@ -186,7 +186,7 @@
       "scroll": 768,
       "scene": {
         "x": 34,
-        "y": 511.859375,
+        "y": 600.640625,
         "width": 700,
         "height": 580
       }
@@ -197,7 +197,7 @@
       "scroll": 880,
       "scene": {
         "x": 90,
-        "y": 517.234375,
+        "y": 606.03125,
         "width": 700,
         "height": 580
       }
@@ -208,7 +208,7 @@
       "scroll": 1200,
       "scene": {
         "x": 250,
-        "y": 518.625,
+        "y": 607.421875,
         "width": 700,
         "height": 580
       }
@@ -274,7 +274,7 @@
       "scroll": 1440,
       "scene": {
         "x": 370,
-        "y": 518.625,
+        "y": 607.421875,
         "width": 700,
         "height": 580
       }
@@ -285,7 +285,7 @@
       "scroll": 1440,
       "scene": {
         "x": 370,
-        "y": 518.625,
+        "y": 607.421875,
         "width": 700,
         "height": 580
       }

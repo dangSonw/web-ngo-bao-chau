@@ -22,16 +22,11 @@
       "repeatGuard": true
     },
     {
-      "section": "wuxing",
-      "pages": 7,
+      "section": "spirituality",
+      "pages": 12,
       "loops": 2,
-      "containedInBranch": true
-    },
-    {
-      "section": "planets",
-      "pages": 5,
-      "loops": 2,
-      "containedInBranch": true
+      "crossesBranches": true,
+      "paginationWithinBranch": true
     }
   ],
   "errors": []

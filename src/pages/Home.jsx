@@ -71,7 +71,7 @@ export default function Home() {
     <main className="home" aria-label="Ngô Bảo Châu">
       <img
         className="home__background"
-        src="/assets/home/image-26__23-3@2x.png"
+        src="/assets/home/image-26__23-3@2x.webp"
         width="2880"
         height="1488"
         alt=""

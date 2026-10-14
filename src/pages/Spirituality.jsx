@@ -3,14 +3,14 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { Link, Navigate, useParams } from 'react-router-dom';
 import FigmaLabel from '../components/FigmaLabel.jsx';
 import SubpageLayout from '../components/SubpageLayout.jsx';
-import useReducedMotion from '../lib/useReducedMotion.js';
-import { pages, navigationLabels, arrows } from '../data/spiritualityPages.json';
+import { pages, arrows } from '../data/spiritualityPages.json';
 import './Spirituality.css';
 
 const branches = {
   wuxing: pages.filter(page => page.group === 'wuxing'),
   planets: pages.filter(page => page.group === 'planets'),
 };
+const spiritualCycle = pages.filter(page => page.group);
 
 function mediaStyle(item) {
   return { '--media-x': item.x, '--media-y': item.y, '--media-width': item.width, '--media-height': item.height,
@@ -21,19 +21,18 @@ function mediaStyle(item) {
 export default function Spirituality() {
   const { branch, topic = 'intro' } = useParams();
   const page = branch ? pages.find(item => item.group === branch && item.topic === topic) : pages[0];
-  const reduced = useReducedMotion();
   useEffect(() => { window.scrollTo({ top: 0, behavior: 'instant' }); }, [branch, topic]);
   if (!page) return <Navigate to={branches[branch] ? `/spirituality/${branch}` : '/spirituality'} replace />;
   const sectionPages = branches[page.group] || pages;
   const index = sectionPages.findIndex(item => item.route === page.route);
-  return <SubpageLayout page={page} pages={sectionPages} section="spirituality" navigationLabels={navigationLabels}
+  return <SubpageLayout page={page} pages={sectionPages} spacePages={page.group ? spiritualCycle : pages} section="spirituality"
     contentId="spirituality-content" showPagination={Boolean(page.group)}
     paginationLabel={page.group === 'wuxing' ? 'Wuxing screens' : 'Planets screens'}>
     <AnimatePresence mode="wait" initial={false}>
       <motion.main key={page.key} id="spirituality-content" tabIndex={-1}
         className={`spirit__frame spirit__frame--${page.key}`} aria-label={page.name}
         initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
-        transition={{ duration: reduced ? 0 : 0.25 }}
+        transition={{ duration: 0 }}
         style={{ '--title-x': page.titleX, '--title-y': page.titleY, '--body-x': page.bodyX,
           '--body-y': page.bodyY, '--body-width': page.bodyWidth, '--body-font-size': page.bodyFontSize }}>
         <div className="spirit__heading">

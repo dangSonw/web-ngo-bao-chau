@@ -1,17 +1,18 @@
 .figma-label {
   --label-unit: var(--u, 1px);
+  --text-unit: min(calc(var(--label-unit) + var(--text-step) / var(--label-font-size, 24)), calc(var(--label-max-width, 100cqw) / var(--label-width)));
   display: block;
   position: relative;
-  width: calc(var(--label-width) * var(--label-unit));
-  height: calc(var(--label-height) * var(--label-unit));
+  width: calc(var(--label-width) * var(--text-unit));
+  height: calc(var(--label-height) * var(--text-unit));
 }
 
 .figma-label img {
   display: block;
   position: absolute;
-  top: calc(var(--label-y) * var(--label-unit));
-  left: calc(var(--label-x) * var(--label-unit));
-  width: calc(var(--label-art-width) * var(--label-unit));
+  top: calc(var(--label-y) * var(--text-unit));
+  left: calc(var(--label-x) * var(--text-unit));
+  width: calc(var(--label-art-width) * var(--text-unit));
   height: auto;
   max-width: none;
 }

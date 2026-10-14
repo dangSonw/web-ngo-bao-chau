@@ -3,6 +3,7 @@ import './FigmaLabel.css';
 export default function FigmaLabel({ label }) {
   return <span className="figma-label" style={{
     '--label-width': label.width,
+    '--label-font-size': label.fontSize,
     '--label-height': label.height,
     '--label-art-width': label.artWidth,
     '--label-x': label.offsetX,

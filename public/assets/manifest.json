@@ -48,11 +48,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-20__8-270@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:270",
-      "bytes": 3213317
+      "bytes": 3213317,
+      "originalPath": "inquiry/image-20__8-270@2x.png",
+      "archived": true
     },
     {
       "id": "8:267",
@@ -97,11 +99,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "8:291",
@@ -145,11 +149,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-24__8-291@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-24__8-291@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:291",
-      "bytes": 46707
+      "bytes": 31052,
+      "sourceBytes": 46707,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "8:288",
@@ -193,11 +199,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-23__8-288@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-23__8-288@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:288",
-      "bytes": 43662
+      "bytes": 32454,
+      "sourceBytes": 43662,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "8:285",
@@ -242,11 +250,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-22__8-285@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-22__8-285@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:285",
-      "bytes": 66017
+      "bytes": 45780,
+      "sourceBytes": 66017,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "8:282",
@@ -291,11 +301,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-21__8-282@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-21__8-282@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:282",
-      "bytes": 89229
+      "bytes": 58848,
+      "sourceBytes": 89229,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "23:3",
@@ -340,11 +352,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "home/image-26__23-3@2x.png",
-      "exportFormat": "PNG",
+      "path": "home/image-26__23-3@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "23:3",
-      "bytes": 1536853
+      "bytes": 918236,
+      "sourceBytes": 1536853,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "7:194",
@@ -389,11 +403,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-11__7-194@2x.png",
-      "exportFormat": "PNG",
+      "path": "about/image-11__7-194@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "7:194",
-      "bytes": 2452961
+      "bytes": 1707070,
+      "sourceBytes": 2452961,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "7:214",
@@ -438,11 +454,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-12__7-214@2x.png",
-      "exportFormat": "PNG",
+      "path": "about/image-12__7-214@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "7:214",
-      "bytes": 791411
+      "bytes": 485268,
+      "sourceBytes": 791411,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "7:217",
@@ -487,11 +505,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-13__7-217@2x.png",
-      "exportFormat": "PNG",
+      "path": "about/image-13__7-217@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "7:217",
-      "bytes": 93373
+      "bytes": 65494,
+      "sourceBytes": 93373,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "7:235",
@@ -536,11 +556,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-17__7-235@2x.png",
-      "exportFormat": "PNG",
+      "path": "about/image-17__7-235@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "7:235",
-      "bytes": 141922
+      "bytes": 91516,
+      "sourceBytes": 141922,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "7:238",
@@ -585,11 +607,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-18__7-238@2x.png",
-      "exportFormat": "PNG",
+      "path": "about/image-18__7-238@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "7:238",
-      "bytes": 121423
+      "bytes": 78616,
+      "sourceBytes": 121423,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "7:226",
@@ -634,11 +658,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-15__7-226@2x.png",
-      "exportFormat": "PNG",
+      "path": "about/image-15__7-226@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "7:226",
-      "bytes": 168062
+      "bytes": 127874,
+      "sourceBytes": 168062,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "7:229",
@@ -682,11 +708,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-16__7-229@2x.png",
-      "exportFormat": "PNG",
+      "path": "about/image-16__7-229@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "7:229",
-      "bytes": 52886
+      "bytes": 33652,
+      "sourceBytes": 52886,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "82:70",
@@ -731,11 +759,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-20__8-270@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:270",
-      "bytes": 3213317
+      "bytes": 3213317,
+      "originalPath": "inquiry/image-20__8-270@2x.png",
+      "archived": true
     },
     {
       "id": "32:14",
@@ -779,11 +809,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-25__32-14@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-25__32-14@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "32:14",
-      "bytes": 24768
+      "bytes": 15146,
+      "sourceBytes": 24768,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "25:19",
@@ -827,11 +859,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-24__8-291@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-24__8-291@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:291",
-      "bytes": 46707
+      "bytes": 31052,
+      "sourceBytes": 46707,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "25:20",
@@ -875,11 +909,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-25__32-14@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-25__32-14@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "32:14",
-      "bytes": 24768
+      "bytes": 15146,
+      "sourceBytes": 24768,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "25:21",
@@ -924,11 +960,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-22__8-285@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-22__8-285@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:285",
-      "bytes": 66017
+      "bytes": 45780,
+      "sourceBytes": 66017,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "25:23",
@@ -973,11 +1011,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "99:234",
@@ -1021,11 +1061,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-24__8-291@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-24__8-291@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:291",
-      "bytes": 46707
+      "bytes": 31052,
+      "sourceBytes": 46707,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "99:235",
@@ -1069,11 +1111,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-23__8-288@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-23__8-288@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:288",
-      "bytes": 43662
+      "bytes": 32454,
+      "sourceBytes": 43662,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "99:236",
@@ -1118,11 +1162,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-22__8-285@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-22__8-285@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:285",
-      "bytes": 66017
+      "bytes": 45780,
+      "sourceBytes": 66017,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "99:237",
@@ -1167,11 +1213,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-21__8-282@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-21__8-282@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:282",
-      "bytes": 89229
+      "bytes": 58848,
+      "sourceBytes": 89229,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "82:141",
@@ -1216,11 +1264,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-20__8-270@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:270",
-      "bytes": 3213317
+      "bytes": 3213317,
+      "originalPath": "inquiry/image-20__8-270@2x.png",
+      "archived": true
     },
     {
       "id": "26:121",
@@ -1264,11 +1314,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-19__26-121@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "26:121",
-      "bytes": 4438234
+      "bytes": 4438234,
+      "originalPath": "spirituality/image-19__26-121@2x.png",
+      "archived": true
     },
     {
       "id": "99:239",
@@ -1313,11 +1365,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-21__8-282@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-21__8-282@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:282",
-      "bytes": 89229
+      "bytes": 58848,
+      "sourceBytes": 89229,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "99:240",
@@ -1362,11 +1416,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-22__8-285@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-22__8-285@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:285",
-      "bytes": 66017
+      "bytes": 45780,
+      "sourceBytes": 66017,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "52:8",
@@ -1411,11 +1467,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "52:28",
@@ -1432,7 +1490,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:28",
-      "bytes": 607
+      "bytes": 607,
+      "sourceBytes": 607
     },
     {
       "id": "52:32",
@@ -1449,7 +1508,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:32",
-      "bytes": 632
+      "bytes": 632,
+      "sourceBytes": 632
     },
     {
       "id": "74:29",
@@ -1494,11 +1554,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "74:47",
@@ -1515,7 +1577,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:28",
-      "bytes": 607
+      "bytes": 607,
+      "sourceBytes": 607
     },
     {
       "id": "74:50",
@@ -1532,7 +1595,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:32",
-      "bytes": 632
+      "bytes": 632,
+      "sourceBytes": 632
     },
     {
       "id": "74:52",
@@ -1577,11 +1641,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "74:70",
@@ -1598,7 +1664,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:28",
-      "bytes": 607
+      "bytes": 607,
+      "sourceBytes": 607
     },
     {
       "id": "74:73",
@@ -1615,7 +1682,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:32",
-      "bytes": 632
+      "bytes": 632,
+      "sourceBytes": 632
     },
     {
       "id": "74:146",
@@ -1660,11 +1728,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-46__74-146@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-46__74-146@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "74:146",
-      "bytes": 257823
+      "bytes": 156892,
+      "sourceBytes": 257823,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "74:152",
@@ -1709,11 +1779,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-48__74-152@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-48__74-152@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "74:152",
-      "bytes": 369811
+      "bytes": 222630,
+      "sourceBytes": 369811,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "74:158",
@@ -1758,11 +1830,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-50__74-158@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-50__74-158@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "74:158",
-      "bytes": 379370
+      "bytes": 253938,
+      "sourceBytes": 379370,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "74:161",
@@ -1807,11 +1881,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-51__74-161@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-51__74-161@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "74:161",
-      "bytes": 372852
+      "bytes": 228956,
+      "sourceBytes": 372852,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "74:167",
@@ -1856,11 +1932,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "74:186",
@@ -1877,7 +1955,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:28",
-      "bytes": 607
+      "bytes": 607,
+      "sourceBytes": 607
     },
     {
       "id": "74:189",
@@ -1894,7 +1973,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:32",
-      "bytes": 632
+      "bytes": 632,
+      "sourceBytes": 632
     },
     {
       "id": "74:215",
@@ -1951,11 +2031,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-8__74-215@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-8__74-215@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "74:215",
-      "bytes": 388325
+      "bytes": 260466,
+      "sourceBytes": 388325,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "74:216",
@@ -2012,11 +2094,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-9__74-216@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-9__74-216@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "74:216",
-      "bytes": 405427
+      "bytes": 268678,
+      "sourceBytes": 405427,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "74:219",
@@ -2073,11 +2157,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-12__74-219@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-12__74-219@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "74:219",
-      "bytes": 356346
+      "bytes": 231276,
+      "sourceBytes": 356346,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "74:217",
@@ -2134,11 +2220,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-10__74-217@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-10__74-217@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "74:217",
-      "bytes": 370121
+      "bytes": 238532,
+      "sourceBytes": 370121,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "77:3",
@@ -2183,11 +2271,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "77:22",
@@ -2204,7 +2294,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:28",
-      "bytes": 607
+      "bytes": 607,
+      "sourceBytes": 607
     },
     {
       "id": "77:25",
@@ -2221,7 +2312,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:32",
-      "bytes": 632
+      "bytes": 632,
+      "sourceBytes": 632
     },
     {
       "id": "78:31",
@@ -2266,11 +2358,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-52__78-31@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-52__78-31@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "78:31",
-      "bytes": 251787
+      "bytes": 154608,
+      "sourceBytes": 251787,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "78:37",
@@ -2315,11 +2409,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-54__78-37@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-54__78-37@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "78:37",
-      "bytes": 376412
+      "bytes": 229282,
+      "sourceBytes": 376412,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "78:43",
@@ -2364,11 +2460,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-56__78-43@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-56__78-43@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "78:43",
-      "bytes": 193661
+      "bytes": 116342,
+      "sourceBytes": 193661,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "78:49",
@@ -2412,11 +2510,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-58__78-49@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-58__78-49@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "78:49",
-      "bytes": 254172
+      "bytes": 155928,
+      "sourceBytes": 254172,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "78:52",
@@ -2461,11 +2561,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-59__78-52@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-59__78-52@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "78:52",
-      "bytes": 246827
+      "bytes": 151836,
+      "sourceBytes": 246827,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "123:3",
@@ -2510,11 +2612,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "123:15",
@@ -2531,7 +2635,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:28",
-      "bytes": 607
+      "bytes": 607,
+      "sourceBytes": 607
     },
     {
       "id": "123:18",
@@ -2548,7 +2653,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:32",
-      "bytes": 632
+      "bytes": 632,
+      "sourceBytes": 632
     },
     {
       "id": "123:31",
@@ -2593,11 +2699,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-60__123-31@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-60__123-31@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "123:31",
-      "bytes": 938981
+      "bytes": 586604,
+      "sourceBytes": 938981,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "123:34",
@@ -2642,11 +2750,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-61__123-34@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-61__123-34@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "123:34",
-      "bytes": 423167
+      "bytes": 265012,
+      "sourceBytes": 423167,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "123:36",
@@ -2691,11 +2801,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-13__123-36@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-13__123-36@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "123:36",
-      "bytes": 537371
+      "bytes": 336362,
+      "sourceBytes": 537371,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "73:5",
@@ -2740,11 +2852,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "73:23",
@@ -2761,7 +2875,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:28",
-      "bytes": 607
+      "bytes": 607,
+      "sourceBytes": 607
     },
     {
       "id": "73:26",
@@ -2778,7 +2893,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:32",
-      "bytes": 632
+      "bytes": 632,
+      "sourceBytes": 632
     },
     {
       "id": "52:34",
@@ -2823,11 +2939,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "52:52",
@@ -2844,7 +2962,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:28",
-      "bytes": 607
+      "bytes": 607,
+      "sourceBytes": 607
     },
     {
       "id": "52:55",
@@ -2861,7 +2980,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:32",
-      "bytes": 632
+      "bytes": 632,
+      "sourceBytes": 632
     },
     {
       "id": "67:102",
@@ -2905,11 +3025,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-42__67-102@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-42__67-102@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "67:102",
-      "bytes": 416669
+      "bytes": 251062,
+      "sourceBytes": 416669,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "67:99",
@@ -2954,11 +3076,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-41__67-99@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-41__67-99@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "67:99",
-      "bytes": 568628
+      "bytes": 341458,
+      "sourceBytes": 568628,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "67:105",
@@ -3002,11 +3126,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/image-43__67-105@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/image-43__67-105@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "67:105",
-      "bytes": 404359
+      "bytes": 243980,
+      "sourceBytes": 404359,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "67:3",
@@ -3051,11 +3177,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "67:22",
@@ -3072,7 +3200,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:28",
-      "bytes": 607
+      "bytes": 607,
+      "sourceBytes": 607
     },
     {
       "id": "67:25",
@@ -3089,7 +3218,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:32",
-      "bytes": 632
+      "bytes": 632,
+      "sourceBytes": 632
     },
     {
       "id": "68:115",
@@ -3146,11 +3276,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-3__68-115@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-3__68-115@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "68:115",
-      "bytes": 419768
+      "bytes": 266320,
+      "sourceBytes": 419768,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "68:116",
@@ -3207,11 +3339,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-4__68-116@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-4__68-116@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "68:116",
-      "bytes": 643218
+      "bytes": 417642,
+      "sourceBytes": 643218,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "67:27",
@@ -3256,11 +3390,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "67:46",
@@ -3277,7 +3413,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:28",
-      "bytes": 607
+      "bytes": 607,
+      "sourceBytes": 607
     },
     {
       "id": "67:49",
@@ -3294,7 +3431,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:32",
-      "bytes": 632
+      "bytes": 632,
+      "sourceBytes": 632
     },
     {
       "id": "70:119",
@@ -3351,11 +3489,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-5__70-119@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-5__70-119@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "70:119",
-      "bytes": 564023
+      "bytes": 344808,
+      "sourceBytes": 564023,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "70:120",
@@ -3416,7 +3556,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "70:120",
-      "bytes": 703813
+      "bytes": 703813,
+      "sourceBytes": 703813
     },
     {
       "id": "70:121",
@@ -3473,11 +3614,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-7__70-121@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-7__70-121@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "70:121",
-      "bytes": 275142
+      "bytes": 169340,
+      "sourceBytes": 275142,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "67:51",
@@ -3522,11 +3665,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "67:70",
@@ -3543,7 +3688,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:28",
-      "bytes": 607
+      "bytes": 607,
+      "sourceBytes": 607
     },
     {
       "id": "67:73",
@@ -3560,7 +3706,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:32",
-      "bytes": 632
+      "bytes": 632,
+      "sourceBytes": 632
     },
     {
       "id": "70:123",
@@ -3605,11 +3752,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-3__70-123@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-3__70-123@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "70:123",
-      "bytes": 604073
+      "bytes": 382394,
+      "sourceBytes": 604073,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "70:124",
@@ -3654,11 +3803,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-4__70-124@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-4__70-124@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "70:124",
-      "bytes": 667457
+      "bytes": 420764,
+      "sourceBytes": 667457,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "67:75",
@@ -3703,11 +3854,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-19__8-267@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:267",
-      "bytes": 4489976
+      "bytes": 4489976,
+      "originalPath": "inquiry/image-19__8-267@2x.png",
+      "archived": true
     },
     {
       "id": "67:94",
@@ -3724,7 +3877,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:28",
-      "bytes": 607
+      "bytes": 607,
+      "sourceBytes": 607
     },
     {
       "id": "67:97",
@@ -3741,7 +3895,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "52:32",
-      "bytes": 632
+      "bytes": 632,
+      "sourceBytes": 632
     },
     {
       "id": "73:2",
@@ -3786,11 +3941,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-3__73-2@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-3__73-2@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "73:2",
-      "bytes": 585260
+      "bytes": 363064,
+      "sourceBytes": 585260,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "73:3",
@@ -3834,11 +3991,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "spirituality/rectangle-4__73-3@2x.png",
-      "exportFormat": "PNG",
+      "path": "spirituality/rectangle-4__73-3@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "73:3",
-      "bytes": 368418
+      "bytes": 215482,
+      "sourceBytes": 368418,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "8:321",
@@ -3883,11 +4042,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-25__8-321@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:321",
-      "bytes": 3472524
+      "bytes": 3472524,
+      "originalPath": "inquiry/image-25__8-321@2x.png",
+      "archived": true
     },
     {
       "id": "8:302",
@@ -3931,11 +4092,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-22__8-302@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-22__8-302@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:302",
-      "bytes": 64971
+      "bytes": 46482,
+      "sourceBytes": 64971,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "25:9",
@@ -3980,11 +4143,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-28__25-9@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-28__25-9@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "25:9",
-      "bytes": 297952
+      "bytes": 181124,
+      "sourceBytes": 297952,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "25:12",
@@ -4029,11 +4194,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-29__25-12@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-29__25-12@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "25:12",
-      "bytes": 630547
+      "bytes": 396960,
+      "sourceBytes": 630547,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "25:15",
@@ -4077,11 +4244,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-30__25-15@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-30__25-15@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "25:15",
-      "bytes": 835521
+      "bytes": 531036,
+      "sourceBytes": 835521,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "25:40",
@@ -4126,11 +4295,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-25__8-321@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:321",
-      "bytes": 3472524
+      "bytes": 3472524,
+      "originalPath": "inquiry/image-25__8-321@2x.png",
+      "archived": true
     },
     {
       "id": "25:56",
@@ -4174,11 +4345,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-22__8-302@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-22__8-302@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "8:302",
-      "bytes": 64971
+      "bytes": 46482,
+      "sourceBytes": 64971,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:91",
@@ -4222,11 +4395,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-31__26-91@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-31__26-91@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:91",
-      "bytes": 486685
+      "bytes": 293462,
+      "sourceBytes": 486685,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:94",
@@ -4271,11 +4446,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-33__26-94@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-33__26-94@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:94",
-      "bytes": 571246
+      "bytes": 359970,
+      "sourceBytes": 571246,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:93",
@@ -4320,11 +4497,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-32__26-93@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-32__26-93@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:93",
-      "bytes": 585094
+      "bytes": 369390,
+      "sourceBytes": 585094,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:95",
@@ -4369,11 +4548,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-34__26-95@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-34__26-95@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:95",
-      "bytes": 645814
+      "bytes": 408122,
+      "sourceBytes": 645814,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:3",
@@ -4418,11 +4599,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-25__8-321@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:321",
-      "bytes": 3472524
+      "bytes": 3472524,
+      "originalPath": "inquiry/image-25__8-321@2x.png",
+      "archived": true
     },
     {
       "id": "26:96",
@@ -4466,11 +4649,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-31__26-96@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-31__26-96@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:96",
-      "bytes": 562660
+      "bytes": 355812,
+      "sourceBytes": 562660,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:97",
@@ -4515,11 +4700,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-33__26-97@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-33__26-97@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:97",
-      "bytes": 722097
+      "bytes": 441072,
+      "sourceBytes": 722097,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:98",
@@ -4564,11 +4751,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-32__26-98@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-32__26-98@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:98",
-      "bytes": 885815
+      "bytes": 574964,
+      "sourceBytes": 885815,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:99",
@@ -4613,11 +4802,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-34__26-99@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-34__26-99@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:99",
-      "bytes": 661973
+      "bytes": 392048,
+      "sourceBytes": 661973,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "39:55",
@@ -4661,11 +4852,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-23__39-55@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-23__39-55@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "39:55",
-      "bytes": 33225
+      "bytes": 19968,
+      "sourceBytes": 33225,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "111:5",
@@ -4709,11 +4902,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-27__111-5@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-27__111-5@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "111:5",
-      "bytes": 65596
+      "bytes": 46322,
+      "sourceBytes": 65596,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:25",
@@ -4758,11 +4953,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-25__8-321@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:321",
-      "bytes": 3472524
+      "bytes": 3472524,
+      "originalPath": "inquiry/image-25__8-321@2x.png",
+      "archived": true
     },
     {
       "id": "26:100",
@@ -4807,11 +5004,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-31__26-100@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-31__26-100@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:100",
-      "bytes": 665821
+      "bytes": 419076,
+      "sourceBytes": 665821,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:101",
@@ -4856,11 +5055,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-33__26-101@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-33__26-101@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:101",
-      "bytes": 689202
+      "bytes": 442476,
+      "sourceBytes": 689202,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:102",
@@ -4905,11 +5106,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-32__26-102@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-32__26-102@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:102",
-      "bytes": 551632
+      "bytes": 360182,
+      "sourceBytes": 551632,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:103",
@@ -4954,11 +5157,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-34__26-103@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-34__26-103@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:103",
-      "bytes": 618497
+      "bytes": 397084,
+      "sourceBytes": 618497,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "111:7",
@@ -5003,11 +5208,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-29__111-7@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-29__111-7@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "111:7",
-      "bytes": 50113
+      "bytes": 35808,
+      "sourceBytes": 50113,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:47",
@@ -5052,11 +5259,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-25__8-321@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:321",
-      "bytes": 3472524
+      "bytes": 3472524,
+      "originalPath": "inquiry/image-25__8-321@2x.png",
+      "archived": true
     },
     {
       "id": "26:105",
@@ -5101,11 +5310,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-31__26-105@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-31__26-105@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:105",
-      "bytes": 559867
+      "bytes": 366934,
+      "sourceBytes": 559867,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:106",
@@ -5150,11 +5361,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-33__26-106@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-33__26-106@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:106",
-      "bytes": 601355
+      "bytes": 385820,
+      "sourceBytes": 601355,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:107",
@@ -5198,11 +5411,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-32__26-107@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-32__26-107@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:107",
-      "bytes": 475835
+      "bytes": 306498,
+      "sourceBytes": 475835,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:108",
@@ -5247,11 +5462,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-34__26-108@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-34__26-108@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:108",
-      "bytes": 599273
+      "bytes": 383478,
+      "sourceBytes": 599273,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "39:57",
@@ -5295,11 +5512,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-24__39-57@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-24__39-57@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "39:57",
-      "bytes": 51006
+      "bytes": 33244,
+      "sourceBytes": 51006,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:69",
@@ -5344,11 +5563,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-25__8-321@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:321",
-      "bytes": 3472524
+      "bytes": 3472524,
+      "originalPath": "inquiry/image-25__8-321@2x.png",
+      "archived": true
     },
     {
       "id": "26:110",
@@ -5392,11 +5613,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-31__26-110@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-31__26-110@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:110",
-      "bytes": 543731
+      "bytes": 344664,
+      "sourceBytes": 543731,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:111",
@@ -5441,11 +5664,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-33__26-101@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-33__26-101@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:101",
-      "bytes": 689202
+      "bytes": 442476,
+      "sourceBytes": 689202,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:112",
@@ -5489,11 +5714,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-32__26-112@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-32__26-112@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:112",
-      "bytes": 444647
+      "bytes": 292188,
+      "sourceBytes": 444647,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "26:113",
@@ -5538,11 +5765,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-34__26-103@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-34__26-103@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "26:103",
-      "bytes": 618497
+      "bytes": 397084,
+      "sourceBytes": 618497,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "39:58",
@@ -5586,11 +5815,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-23__39-55@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-23__39-55@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "39:55",
-      "bytes": 33225
+      "bytes": 19968,
+      "sourceBytes": 33225,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "111:2",
@@ -5634,11 +5865,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-46__111-2@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-46__111-2@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "111:2",
-      "bytes": 62287
+      "bytes": 43402,
+      "sourceBytes": 62287,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "8:324",
@@ -5683,11 +5916,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-25__8-321@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:321",
-      "bytes": 3472524
+      "bytes": 3472524,
+      "originalPath": "inquiry/image-25__8-321@2x.png",
+      "archived": true
     },
     {
       "id": "75:10",
@@ -5732,11 +5967,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-45__75-10@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-45__75-10@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "75:10",
-      "bytes": 329121
+      "bytes": 188410,
+      "sourceBytes": 329121,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "8:342",
@@ -5781,11 +6018,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-25__8-321@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:321",
-      "bytes": 3472524
+      "bytes": 3472524,
+      "originalPath": "inquiry/image-25__8-321@2x.png",
+      "archived": true
     },
     {
       "id": "52:69",
@@ -5830,11 +6069,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-37__52-69@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-37__52-69@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "52:69",
-      "bytes": 91235
+      "bytes": 45486,
+      "sourceBytes": 91235,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "52:72",
@@ -5879,11 +6120,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-38__52-72@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-38__52-72@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "52:72",
-      "bytes": 156192
+      "bytes": 71552,
+      "sourceBytes": 156192,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "111:3",
@@ -5928,11 +6171,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-21__111-3@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-21__111-3@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "111:3",
-      "bytes": 52249
+      "bytes": 36808,
+      "sourceBytes": 52249,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "8:360",
@@ -5977,11 +6222,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-25__8-321@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "8:321",
-      "bytes": 3472524
+      "bytes": 3472524,
+      "originalPath": "inquiry/image-25__8-321@2x.png",
+      "archived": true
     },
     {
       "id": "8:300",
@@ -6025,11 +6272,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "community/image-24__39-57@2x.png",
-      "exportFormat": "PNG",
+      "path": "community/image-24__39-57@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "39:57",
-      "bytes": 51006
+      "bytes": 33244,
+      "sourceBytes": 51006,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "71:7",
@@ -6074,11 +6323,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "inquiry/image-44__71-7@2x.png",
-      "exportFormat": "PNG",
+      "path": "inquiry/image-44__71-7@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "71:7",
-      "bytes": 62581
+      "bytes": 40518,
+      "sourceBytes": 62581,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "7:108",
@@ -6123,11 +6374,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-8__7-108@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "7:108",
-      "bytes": 893276
+      "bytes": 893276,
+      "originalPath": "about/image-8__7-108@2x.png",
+      "archived": true
     },
     {
       "id": "7:109",
@@ -6172,11 +6425,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-9__7-109@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "7:109",
-      "bytes": 2430080
+      "bytes": 2430080,
+      "originalPath": "about/image-9__7-109@2x.png",
+      "archived": true
     },
     {
       "id": "7:126",
@@ -6193,7 +6448,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "7:126",
-      "bytes": 397
+      "bytes": 397,
+      "sourceBytes": 397
     },
     {
       "id": "7:127",
@@ -6210,7 +6466,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "7:126",
-      "bytes": 397
+      "bytes": 397,
+      "sourceBytes": 397
     },
     {
       "id": "7:128",
@@ -6227,7 +6484,8 @@
       "exportFormat": "SVG",
       "exportScale": null,
       "canonicalNodeId": "7:126",
-      "bytes": 397
+      "bytes": 397,
+      "sourceBytes": 397
     },
     {
       "id": "7:164",
@@ -6272,11 +6530,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-10__7-164@2x.png",
-      "exportFormat": "PNG",
+      "path": "about/image-10__7-164@2x.webp",
+      "exportFormat": "WEBP_LOSSLESS",
       "exportScale": 2,
       "canonicalNodeId": "7:164",
-      "bytes": 1664743
+      "bytes": 1004140,
+      "sourceBytes": 1664743,
+      "sourceExportFormat": "PNG"
     },
     {
       "id": "28:2",
@@ -6321,11 +6581,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/0001-1__28-2@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "28:2",
-      "bytes": 161968
+      "bytes": 161968,
+      "originalPath": "about/0001-1__28-2@2x.png",
+      "archived": true
     },
     {
       "id": "28:3",
@@ -6370,11 +6632,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/0002-1__28-3@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "28:3",
-      "bytes": 167093
+      "bytes": 167093,
+      "originalPath": "about/0002-1__28-3@2x.png",
+      "archived": true
     },
     {
       "id": "28:4",
@@ -6419,11 +6683,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/0003-1__28-4@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "28:4",
-      "bytes": 170992
+      "bytes": 170992,
+      "originalPath": "about/0003-1__28-4@2x.png",
+      "archived": true
     },
     {
       "id": "28:5",
@@ -6468,11 +6734,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/0004-1__28-5@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "28:5",
-      "bytes": 167570
+      "bytes": 167570,
+      "originalPath": "about/0004-1__28-5@2x.png",
+      "archived": true
     },
     {
       "id": "28:6",
@@ -6517,11 +6785,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/0005-1__28-6@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "28:6",
-      "bytes": 164135
+      "bytes": 164135,
+      "originalPath": "about/0005-1__28-6@2x.png",
+      "archived": true
     },
     {
       "id": "28:7",
@@ -6566,11 +6836,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/0006-1__28-7@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "28:7",
-      "bytes": 150169
+      "bytes": 150169,
+      "originalPath": "about/0006-1__28-7@2x.png",
+      "archived": true
     },
     {
       "id": "28:8",
@@ -6615,11 +6887,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/0007-1__28-8@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "28:8",
-      "bytes": 199276
+      "bytes": 199276,
+      "originalPath": "about/0007-1__28-8@2x.png",
+      "archived": true
     },
     {
       "id": "28:9",
@@ -6664,11 +6938,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/0008-1__28-9@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "28:9",
-      "bytes": 68216
+      "bytes": 68216,
+      "originalPath": "about/0008-1__28-9@2x.png",
+      "archived": true
     },
     {
       "id": "52:63",
@@ -6713,11 +6989,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-36__52-63@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "52:63",
-      "bytes": 27567
+      "bytes": 27567,
+      "originalPath": "about/image-36__52-63@2x.png",
+      "archived": true
     },
     {
       "id": "66:4",
@@ -6762,11 +7040,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-40__66-4@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "66:4",
-      "bytes": 92583
+      "bytes": 92583,
+      "originalPath": "about/image-40__66-4@2x.png",
+      "archived": true
     },
     {
       "id": "52:57",
@@ -6811,11 +7091,13 @@
         }
       ],
       "exportSettings": [],
-      "path": "about/image-35__52-57@2x.png",
+      "path": null,
       "exportFormat": "PNG",
       "exportScale": 2,
       "canonicalNodeId": "52:57",
-      "bytes": 185426
+      "bytes": 185426,
+      "originalPath": "about/image-35__52-57@2x.png",
+      "archived": true
     }
   ],
   "home": {
@@ -6831,7 +7113,8 @@
         "offsetY": 17.3935546875,
         "kind": "text-outline",
         "frameId": "1:2",
-        "sourceFont": "Conthrax Semi Bold"
+        "sourceFont": "Conthrax Semi Bold",
+        "sourceBytes": 8374
       },
       {
         "id": "6:9",
@@ -6843,7 +7126,8 @@
         "offsetY": 6,
         "kind": "text-outline",
         "frameId": "1:2",
-        "sourceFont": "Conthrax Semi Bold"
+        "sourceFont": "Conthrax Semi Bold",
+        "sourceBytes": 3871
       },
       {
         "id": "6:12",
@@ -6855,7 +7139,8 @@
         "offsetY": 5.927734375,
         "kind": "text-outline",
         "frameId": "1:2",
-        "sourceFont": "Conthrax Semi Bold"
+        "sourceFont": "Conthrax Semi Bold",
+        "sourceBytes": 5368
       },
       {
         "id": "6:10",
@@ -6867,7 +7152,8 @@
         "offsetY": 5.927734375,
         "kind": "text-outline",
         "frameId": "1:2",
-        "sourceFont": "Conthrax Semi Bold"
+        "sourceFont": "Conthrax Semi Bold",
+        "sourceBytes": 3172
       },
       {
         "id": "6:16",
@@ -6879,13 +7165,15 @@
         "offsetY": 5.927734375,
         "kind": "text-outline",
         "frameId": "1:2",
-        "sourceFont": "Conthrax Semi Bold"
+        "sourceFont": "Conthrax Semi Bold",
+        "sourceBytes": 4499
       }
     ],
     "font": {
       "path": "fonts/Actor-Regular.ttf",
       "license": "fonts/Actor-OFL.txt",
-      "source": "https://github.com/google/fonts/tree/main/ofl/actor"
+      "source": "https://github.com/google/fonts/tree/main/ofl/actor",
+      "bytes": 64944
     },
     "gradient": {
       "nodeId": "32:54",
@@ -7048,7 +7336,7 @@
       ],
       "Count": 12
     },
-    "background": "about/intro-background@2x.png",
+    "background": "about/intro-background@2x.webp",
     "backgroundSourceNodes": [
       "7:108",
       "7:109",
@@ -7062,69 +7350,91 @@
     "value": [
       {
         "nodeId": "28:3",
-        "path": "about/0002-1__28-3@4x.png",
+        "path": null,
         "bytes": 627786,
-        "scale": 4
+        "scale": 4,
+        "originalPath": "about/0002-1__28-3@4x.png",
+        "archived": true
       },
       {
         "nodeId": "28:7",
-        "path": "about/0006-1__28-7@4x.png",
+        "path": null,
         "bytes": 571366,
-        "scale": 4
+        "scale": 4,
+        "originalPath": "about/0006-1__28-7@4x.png",
+        "archived": true
       },
       {
         "nodeId": "28:4",
-        "path": "about/0003-1__28-4@4x.png",
+        "path": null,
         "bytes": 636025,
-        "scale": 4
+        "scale": 4,
+        "originalPath": "about/0003-1__28-4@4x.png",
+        "archived": true
       },
       {
         "nodeId": "52:57",
-        "path": "about/image-35__52-57@4x.png",
+        "path": null,
         "bytes": 568192,
-        "scale": 4
+        "scale": 4,
+        "originalPath": "about/image-35__52-57@4x.png",
+        "archived": true
       },
       {
         "nodeId": "28:5",
-        "path": "about/0004-1__28-5@4x.png",
+        "path": null,
         "bytes": 636957,
-        "scale": 4
+        "scale": 4,
+        "originalPath": "about/0004-1__28-5@4x.png",
+        "archived": true
       },
       {
         "nodeId": "66:4",
-        "path": "about/image-40__66-4@4x.png",
+        "path": null,
         "bytes": 287756,
-        "scale": 4
+        "scale": 4,
+        "originalPath": "about/image-40__66-4@4x.png",
+        "archived": true
       },
       {
         "nodeId": "28:2",
-        "path": "about/0001-1__28-2@4x.png",
+        "path": null,
         "bytes": 599593,
-        "scale": 4
+        "scale": 4,
+        "originalPath": "about/0001-1__28-2@4x.png",
+        "archived": true
       },
       {
         "nodeId": "52:63",
-        "path": "about/image-36__52-63@4x.png",
+        "path": null,
         "bytes": 77803,
-        "scale": 4
+        "scale": 4,
+        "originalPath": "about/image-36__52-63@4x.png",
+        "archived": true
       },
       {
         "nodeId": "28:8",
-        "path": "about/0007-1__28-8@4x.png",
+        "path": null,
         "bytes": 742561,
-        "scale": 4
+        "scale": 4,
+        "originalPath": "about/0007-1__28-8@4x.png",
+        "archived": true
       },
       {
         "nodeId": "28:9",
-        "path": "about/0008-1__28-9@4x.png",
+        "path": null,
         "bytes": 228331,
-        "scale": 4
+        "scale": 4,
+        "originalPath": "about/0008-1__28-9@4x.png",
+        "archived": true
       },
       {
         "nodeId": "28:6",
-        "path": "about/0005-1__28-6@4x.png",
+        "path": null,
         "bytes": 611989,
-        "scale": 4
+        "scale": 4,
+        "originalPath": "about/0005-1__28-6@4x.png",
+        "archived": true
       }
     ],
     "Count": 11
@@ -7132,91 +7442,113 @@
   "logicianSources": [
     {
       "nodeId": "28:3",
-      "path": "about/0002-1__28-3@source.png",
-      "bytes": 2466106,
+      "path": "about/0002-1__28-3@source.webp",
+      "bytes": 1405648,
       "width": 1684,
       "height": 1190,
-      "source": "Figma original image bytes"
+      "source": "Figma original image bytes",
+      "sourceBytes": 2466106,
+      "exportFormat": "WEBP_LOSSLESS"
     },
     {
       "nodeId": "28:7",
-      "path": "about/0006-1__28-7@source.png",
-      "bytes": 2655876,
+      "path": "about/0006-1__28-7@source.webp",
+      "bytes": 1554326,
       "width": 1684,
       "height": 1190,
-      "source": "Figma original image bytes"
+      "source": "Figma original image bytes",
+      "sourceBytes": 2655876,
+      "exportFormat": "WEBP_LOSSLESS"
     },
     {
       "nodeId": "28:4",
-      "path": "about/0003-1__28-4@source.png",
-      "bytes": 2716096,
+      "path": "about/0003-1__28-4@source.webp",
+      "bytes": 1580942,
       "width": 1190,
       "height": 1684,
-      "source": "Figma original image bytes"
+      "source": "Figma original image bytes",
+      "sourceBytes": 2716096,
+      "exportFormat": "WEBP_LOSSLESS"
     },
     {
       "nodeId": "52:57",
-      "path": "about/image-35__52-57@source.png",
-      "bytes": 2337799,
+      "path": "about/image-35__52-57@source.webp",
+      "bytes": 1463528,
       "width": 2048,
       "height": 1468,
-      "source": "Figma original image bytes"
+      "source": "Figma original image bytes",
+      "sourceBytes": 2337799,
+      "exportFormat": "WEBP_LOSSLESS"
     },
     {
       "nodeId": "28:5",
-      "path": "about/0004-1__28-5@source.png",
-      "bytes": 3023208,
+      "path": "about/0004-1__28-5@source.webp",
+      "bytes": 1663566,
       "width": 1684,
       "height": 1190,
-      "source": "Figma original image bytes"
+      "source": "Figma original image bytes",
+      "sourceBytes": 3023208,
+      "exportFormat": "WEBP_LOSSLESS"
     },
     {
       "nodeId": "66:4",
-      "path": "about/image-40__66-4@source.png",
-      "bytes": 669938,
+      "path": "about/image-40__66-4@source.webp",
+      "bytes": 422238,
       "width": 1542,
       "height": 996,
-      "source": "Figma original image bytes"
+      "source": "Figma original image bytes",
+      "sourceBytes": 669938,
+      "exportFormat": "WEBP_LOSSLESS"
     },
     {
       "nodeId": "28:2",
-      "path": "about/0001-1__28-2@source.png",
-      "bytes": 2546385,
+      "path": "about/0001-1__28-2@source.webp",
+      "bytes": 1436822,
       "width": 1684,
       "height": 1190,
-      "source": "Figma original image bytes"
+      "source": "Figma original image bytes",
+      "sourceBytes": 2546385,
+      "exportFormat": "WEBP_LOSSLESS"
     },
     {
       "nodeId": "52:63",
-      "path": "about/image-36__52-63@source.png",
-      "bytes": 194477,
+      "path": "about/image-36__52-63@source.webp",
+      "bytes": 65810,
       "width": 1508,
       "height": 1068,
-      "source": "Figma original image bytes"
+      "source": "Figma original image bytes",
+      "sourceBytes": 194477,
+      "exportFormat": "WEBP_LOSSLESS"
     },
     {
       "nodeId": "28:8",
-      "path": "about/0007-1__28-8@source.png",
-      "bytes": 3329001,
+      "path": "about/0007-1__28-8@source.webp",
+      "bytes": 1973138,
       "width": 1684,
       "height": 1190,
-      "source": "Figma original image bytes"
+      "source": "Figma original image bytes",
+      "sourceBytes": 3329001,
+      "exportFormat": "WEBP_LOSSLESS"
     },
     {
       "nodeId": "28:9",
-      "path": "about/0008-1__28-9@source.png",
-      "bytes": 875546,
+      "path": "about/0008-1__28-9@source.webp",
+      "bytes": 472768,
       "width": 1684,
       "height": 1190,
-      "source": "Figma original image bytes"
+      "source": "Figma original image bytes",
+      "sourceBytes": 875546,
+      "exportFormat": "WEBP_LOSSLESS"
     },
     {
       "nodeId": "28:6",
-      "path": "about/0005-1__28-6@source.png",
-      "bytes": 2716327,
+      "path": "about/0005-1__28-6@source.webp",
+      "bytes": 1561310,
       "width": 1684,
       "height": 1190,
-      "source": "Figma original image bytes"
+      "source": "Figma original image bytes",
+      "sourceBytes": 2716327,
+      "exportFormat": "WEBP_LOSSLESS"
     }
   ],
   "inquiry": {
@@ -7234,24 +7566,28 @@
           "8:270",
           "8:267"
         ],
-        "path": "inquiry/intro-background@2x.png",
+        "path": "inquiry/intro-background@2x.webp",
         "width": 2880,
         "height": 1488,
-        "bytes": 5396900,
+        "bytes": 3421258,
         "scale": 2,
-        "note": "Only source background layers, no text or interactive planets; cloned frame was removed after export"
+        "note": "Only source background layers, no text or interactive planets; cloned frame was removed after export",
+        "sourceBytes": 5396900,
+        "exportFormat": "WEBP_LOSSLESS"
       },
       {
         "frameId": "8:298",
         "sourceNodes": [
           "8:321"
         ],
-        "path": "inquiry/project-background@2x.png",
+        "path": "inquiry/project-background@2x.webp",
         "width": 2880,
         "height": 1488,
-        "bytes": 2723963,
+        "bytes": 1688576,
         "scale": 2,
-        "note": "Only rotated source background layer clipped by original frame; reused by the four detail screens"
+        "note": "Only rotated source background layer clipped by original frame; reused by the four detail screens",
+        "sourceBytes": 2723963,
+        "exportFormat": "WEBP_LOSSLESS"
       }
     ],
     "typography": [
@@ -7462,19 +7798,21 @@
     ],
     "backgrounds": [
       {
-        "path": "community/intro-background@2x.png",
+        "path": "community/intro-background@2x.webp",
         "frameId": "25:17",
         "sourceNodes": [
           "82:70",
           "25:23"
         ],
-        "bytes": 5399425,
+        "bytes": 3416688,
         "width": 2880,
         "height": 1488,
-        "scale": 2
+        "scale": 2,
+        "sourceBytes": 5399425,
+        "exportFormat": "WEBP_LOSSLESS"
       },
       {
-        "path": "inquiry/project-background@2x.png",
+        "path": "inquiry/project-background@2x.webp",
         "reusedBy": [
           "25:39",
           "26:2",
@@ -7482,7 +7820,9 @@
           "26:46",
           "26:68"
         ],
-        "note": "Live Figma fills, effects, opacity, transforms, dimensions and frame fill exactly match the Inquiry detail background."
+        "note": "Live Figma fills, effects, opacity, transforms, dimensions and frame fill exactly match the Inquiry detail background.",
+        "bytes": 1688576,
+        "exportFormat": "WEBP_LOSSLESS"
       }
     ]
   },
@@ -7662,11 +8002,13 @@
           "82:141",
           "26:121"
         ],
-        "path": "spirituality/intro-background@2x.png",
-        "bytes": 5264619,
+        "path": "spirituality/intro-background@2x.webp",
+        "bytes": 3330476,
         "width": 2880,
         "height": 1488,
-        "scale": 2
+        "scale": 2,
+        "sourceBytes": 5264619,
+        "exportFormat": "WEBP_LOSSLESS"
       },
       {
         "frameId": "52:2",
@@ -7674,22 +8016,26 @@
           "52:8",
           "52:9"
         ],
-        "path": "spirituality/chapter-background@2x.png",
-        "bytes": 3323020,
+        "path": "spirituality/chapter-background@2x.webp",
+        "bytes": 1939928,
         "width": 2880,
         "height": 1488,
-        "scale": 2
+        "scale": 2,
+        "sourceBytes": 3323020,
+        "exportFormat": "WEBP_LOSSLESS"
       },
       {
         "frameId": "77:2",
         "sourceNodes": [
           "77:3"
         ],
-        "path": "spirituality/planet-background@2x.png",
-        "bytes": 3449703,
+        "path": "spirituality/planet-background@2x.webp",
+        "bytes": 2029136,
         "width": 2880,
         "height": 1488,
-        "scale": 2
+        "scale": 2,
+        "sourceBytes": 3449703,
+        "exportFormat": "WEBP_LOSSLESS"
       }
     ],
     "branches": {
@@ -7710,5 +8056,11 @@
         "/spirituality/planets/moon"
       ]
     }
+  },
+  "packing": {
+    "format": "WebP lossless",
+    "quality": "Original resolution, RGBA bytes and ICC profiles preserved",
+    "archivedOriginals": "D:\\Web\\_local-assets\\web-ngo-bao-chau\\originals",
+    "report": "design/asset-optimization.json"
   }
 }

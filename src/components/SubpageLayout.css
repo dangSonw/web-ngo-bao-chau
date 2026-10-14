@@ -26,6 +26,24 @@
   container-type: inline-size;
 }
 
+.site-navigation {
+  position: absolute;
+  inset: 0 0 auto;
+  width: min(100%, 193.548387svh, 2560px);
+  margin-inline: auto;
+  container-type: inline-size;
+  color: #fff;
+  z-index: 1001;
+}
+
+.site-navigation[hidden] { display: none; }
+
+.site-navigation a:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
 .subpage-layout__navigation {
   --u: calc(100cqw / 1440);
   position: absolute;
@@ -110,7 +128,10 @@
     width: min(100%, 1100px);
     display: flex;
     flex-direction: column;
+    padding-top: var(--menu-height, 80px);
   }
+
+  .site-navigation { width: min(100%, 1100px); }
 
   .subpage-layout__navigation {
     --u: 0.8px;

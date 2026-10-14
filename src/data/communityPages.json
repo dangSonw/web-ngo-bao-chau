@@ -12,7 +12,8 @@
         "offsetX": 1.871999979019165,
         "offsetY": 8.903998374938965,
         "artWidth": 340.0,
-        "artHeight": 47.0
+        "artHeight": 47.0,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 137,
@@ -20,11 +21,11 @@
       "bodyX": 97,
       "bodyY": 201,
       "bodyWidth": 452,
-      "background": "community/intro-background@2x.png",
+      "background": "community/intro-background@2x.webp",
       "media": [
         {
           "nodeId": "32:14",
-          "path": "community/image-25__32-14@2x.png",
+          "path": "community/image-25__32-14@2x.webp",
           "x": 1313,
           "y": 421,
           "width": 88,
@@ -33,7 +34,7 @@
         },
         {
           "nodeId": "25:19",
-          "path": "inquiry/image-24__8-291@2x.png",
+          "path": "inquiry/image-24__8-291@2x.webp",
           "x": 1248,
           "y": 542,
           "width": 80,
@@ -42,7 +43,7 @@
         },
         {
           "nodeId": "25:20",
-          "path": "community/image-25__32-14@2x.png",
+          "path": "community/image-25__32-14@2x.webp",
           "x": 782,
           "y": 542,
           "width": 88,
@@ -51,7 +52,7 @@
         },
         {
           "nodeId": "25:21",
-          "path": "inquiry/image-22__8-285@2x.png",
+          "path": "inquiry/image-22__8-285@2x.webp",
           "x": 665,
           "y": 366,
           "width": 120,
@@ -60,7 +61,7 @@
         },
         {
           "nodeId": "99:234",
-          "path": "inquiry/image-24__8-291@2x.png",
+          "path": "inquiry/image-24__8-291@2x.webp",
           "x": 1248,
           "y": 542,
           "width": 80,
@@ -69,7 +70,7 @@
         },
         {
           "nodeId": "99:235",
-          "path": "inquiry/image-23__8-288@2x.png",
+          "path": "inquiry/image-23__8-288@2x.webp",
           "x": 782,
           "y": 542,
           "width": 88,
@@ -78,7 +79,7 @@
         },
         {
           "nodeId": "99:236",
-          "path": "inquiry/image-22__8-285@2x.png",
+          "path": "inquiry/image-22__8-285@2x.webp",
           "x": 665,
           "y": 366,
           "width": 120,
@@ -87,7 +88,7 @@
         },
         {
           "nodeId": "99:237",
-          "path": "inquiry/image-21__8-282@2x.png",
+          "path": "inquiry/image-21__8-282@2x.webp",
           "x": 1033,
           "y": 469,
           "width": 125,
@@ -102,7 +103,7 @@
           "route": "/community/tay-roots",
           "image": {
             "nodeId": "99:236",
-            "path": "inquiry/image-22__8-285@2x.png",
+            "path": "inquiry/image-22__8-285@2x.webp",
             "x": 665,
             "y": 366,
             "width": 120,
@@ -117,7 +118,8 @@
             "offsetX": 0.3680000305175781,
             "offsetY": 3.799999237060547,
             "artWidth": 164.0,
-            "artHeight": 12.0
+            "artHeight": 12.0,
+            "fontSize": 16
           },
           "labelX": 10,
           "labelY": 120,
@@ -126,7 +128,7 @@
           "layers": [
             {
               "nodeId": "25:21",
-              "path": "inquiry/image-22__8-285@2x.png",
+              "path": "inquiry/image-22__8-285@2x.webp",
               "x": 665,
               "y": 366,
               "width": 120,
@@ -135,7 +137,7 @@
             },
             {
               "nodeId": "99:236",
-              "path": "inquiry/image-22__8-285@2x.png",
+              "path": "inquiry/image-22__8-285@2x.webp",
               "x": 665,
               "y": 366,
               "width": 120,
@@ -149,7 +151,7 @@
           "route": "/community/ban-sung",
           "image": {
             "nodeId": "99:235",
-            "path": "inquiry/image-23__8-288@2x.png",
+            "path": "inquiry/image-23__8-288@2x.webp",
             "x": 782,
             "y": 542,
             "width": 88,
@@ -164,7 +166,8 @@
             "offsetX": 1.2673125267028809,
             "offsetY": 2.9679994583129883,
             "artWidth": 182.0,
-            "artHeight": 16.0
+            "artHeight": 16.0,
+            "fontSize": 16
           },
           "labelX": -48,
           "labelY": 96,
@@ -173,7 +176,7 @@
           "layers": [
             {
               "nodeId": "25:20",
-              "path": "community/image-25__32-14@2x.png",
+              "path": "community/image-25__32-14@2x.webp",
               "x": 782,
               "y": 542,
               "width": 88,
@@ -182,7 +185,7 @@
             },
             {
               "nodeId": "99:235",
-              "path": "inquiry/image-23__8-288@2x.png",
+              "path": "inquiry/image-23__8-288@2x.webp",
               "x": 782,
               "y": 542,
               "width": 88,
@@ -196,7 +199,7 @@
           "route": "/community/y4c",
           "image": {
             "nodeId": "99:237",
-            "path": "inquiry/image-21__8-282@2x.png",
+            "path": "inquiry/image-21__8-282@2x.webp",
             "x": 1033,
             "y": 469,
             "width": 125,
@@ -211,7 +214,8 @@
             "offsetX": 0.438433438539505,
             "offsetY": 3.799999237060547,
             "artWidth": 42.0,
-            "artHeight": 12.0
+            "artHeight": 12.0,
+            "fontSize": 16
           },
           "labelX": 40,
           "labelY": 129,
@@ -220,7 +224,7 @@
           "layers": [
             {
               "nodeId": "99:237",
-              "path": "inquiry/image-21__8-282@2x.png",
+              "path": "inquiry/image-21__8-282@2x.webp",
               "x": 1033,
               "y": 469,
               "width": 125,
@@ -234,7 +238,7 @@
           "route": "/community/concert",
           "image": {
             "nodeId": "99:234",
-            "path": "inquiry/image-24__8-291@2x.png",
+            "path": "inquiry/image-24__8-291@2x.webp",
             "x": 1248,
             "y": 542,
             "width": 80,
@@ -249,7 +253,8 @@
             "offsetX": 1.4923750162124634,
             "offsetY": 2.9679994583129883,
             "artWidth": 293.0,
-            "artHeight": 13.0
+            "artHeight": 13.0,
+            "fontSize": 16
           },
           "labelX": -111,
           "labelY": 86,
@@ -258,7 +263,7 @@
           "layers": [
             {
               "nodeId": "25:19",
-              "path": "inquiry/image-24__8-291@2x.png",
+              "path": "inquiry/image-24__8-291@2x.webp",
               "x": 1248,
               "y": 542,
               "width": 80,
@@ -267,7 +272,7 @@
             },
             {
               "nodeId": "99:234",
-              "path": "inquiry/image-24__8-291@2x.png",
+              "path": "inquiry/image-24__8-291@2x.webp",
               "x": 1248,
               "y": 542,
               "width": 80,
@@ -281,7 +286,7 @@
           "route": "/community/bright-paths",
           "image": {
             "nodeId": "32:14",
-            "path": "community/image-25__32-14@2x.png",
+            "path": "community/image-25__32-14@2x.webp",
             "x": 1313,
             "y": 421,
             "width": 88,
@@ -296,7 +301,8 @@
             "offsetX": 1.3923125267028809,
             "offsetY": 1.9439992904663086,
             "artWidth": 278.0,
-            "artHeight": 17.0
+            "artHeight": 17.0,
+            "fontSize": 16
           },
           "labelX": -161,
           "labelY": 96,
@@ -305,7 +311,7 @@
           "layers": [
             {
               "nodeId": "32:14",
-              "path": "community/image-25__32-14@2x.png",
+              "path": "community/image-25__32-14@2x.webp",
               "x": 1313,
               "y": 421,
               "width": 88,
@@ -329,7 +335,8 @@
         "offsetX": 1.1040000915527344,
         "offsetY": 11.39999771118164,
         "artWidth": 492.0,
-        "artHeight": 34.0
+        "artHeight": 34.0,
+        "fontSize": 48
       },
       "titleX": 213,
       "titleY": 132,
@@ -337,11 +344,11 @@
       "bodyX": 97,
       "bodyY": 224,
       "bodyWidth": 496,
-      "background": "inquiry/project-background@2x.png",
+      "background": "inquiry/project-background@2x.webp",
       "media": [
         {
           "nodeId": "26:91",
-          "path": "community/image-31__26-91@2x.png",
+          "path": "community/image-31__26-91@2x.webp",
           "x": 606,
           "y": 190,
           "width": 359,
@@ -350,7 +357,7 @@
         },
         {
           "nodeId": "26:93",
-          "path": "community/image-32__26-93@2x.png",
+          "path": "community/image-32__26-93@2x.webp",
           "x": 981,
           "y": 132,
           "width": 359,
@@ -359,7 +366,7 @@
         },
         {
           "nodeId": "26:94",
-          "path": "community/image-33__26-94@2x.png",
+          "path": "community/image-33__26-94@2x.webp",
           "x": 606,
           "y": 403,
           "width": 359,
@@ -368,7 +375,7 @@
         },
         {
           "nodeId": "26:95",
-          "path": "community/image-34__26-95@2x.png",
+          "path": "community/image-34__26-95@2x.webp",
           "x": 981,
           "y": 403,
           "width": 359,
@@ -379,7 +386,7 @@
       "emblems": [
         {
           "nodeId": "25:56",
-          "path": "inquiry/image-22__8-302@2x.png",
+          "path": "inquiry/image-22__8-302@2x.webp",
           "x": 97,
           "y": 98,
           "width": 100,
@@ -429,7 +436,8 @@
         "offsetX": 3.2160000801086426,
         "offsetY": 8.903998374938965,
         "artWidth": 544.0,
-        "artHeight": 47.0
+        "artHeight": 47.0,
+        "fontSize": 48
       },
       "titleX": 213,
       "titleY": 132,
@@ -437,11 +445,11 @@
       "bodyX": 97,
       "bodyY": 224,
       "bodyWidth": 452,
-      "background": "inquiry/project-background@2x.png",
+      "background": "inquiry/project-background@2x.webp",
       "media": [
         {
           "nodeId": "26:96",
-          "path": "community/image-31__26-96@2x.png",
+          "path": "community/image-31__26-96@2x.webp",
           "x": 606,
           "y": 206,
           "width": 359,
@@ -450,7 +458,7 @@
         },
         {
           "nodeId": "26:98",
-          "path": "community/image-32__26-98@2x.png",
+          "path": "community/image-32__26-98@2x.webp",
           "x": 981,
           "y": 132,
           "width": 359,
@@ -459,7 +467,7 @@
         },
         {
           "nodeId": "26:97",
-          "path": "community/image-33__26-97@2x.png",
+          "path": "community/image-33__26-97@2x.webp",
           "x": 606,
           "y": 403,
           "width": 359,
@@ -468,7 +476,7 @@
         },
         {
           "nodeId": "26:99",
-          "path": "community/image-34__26-99@2x.png",
+          "path": "community/image-34__26-99@2x.webp",
           "x": 981,
           "y": 403,
           "width": 359,
@@ -479,7 +487,7 @@
       "emblems": [
         {
           "nodeId": "39:55",
-          "path": "community/image-23__39-55@2x.png",
+          "path": "community/image-23__39-55@2x.webp",
           "x": 93,
           "y": 103,
           "width": 104,
@@ -492,7 +500,7 @@
         },
         {
           "nodeId": "111:5",
-          "path": "community/image-27__111-5@2x.png",
+          "path": "community/image-27__111-5@2x.webp",
           "x": 93,
           "y": 101,
           "width": 110,
@@ -519,7 +527,8 @@
         "offsetX": 0.5184253454208374,
         "offsetY": 11.39999771118164,
         "artWidth": 125.0,
-        "artHeight": 34.0
+        "artHeight": 34.0,
+        "fontSize": 48
       },
       "titleX": 213,
       "titleY": 132,
@@ -527,11 +536,11 @@
       "bodyX": 97,
       "bodyY": 224,
       "bodyWidth": 452,
-      "background": "inquiry/project-background@2x.png",
+      "background": "inquiry/project-background@2x.webp",
       "media": [
         {
           "nodeId": "26:100",
-          "path": "community/image-31__26-100@2x.png",
+          "path": "community/image-31__26-100@2x.webp",
           "x": 606,
           "y": 132,
           "width": 359,
@@ -540,7 +549,7 @@
         },
         {
           "nodeId": "26:102",
-          "path": "community/image-32__26-102@2x.png",
+          "path": "community/image-32__26-102@2x.webp",
           "x": 981,
           "y": 132,
           "width": 359,
@@ -549,7 +558,7 @@
         },
         {
           "nodeId": "26:101",
-          "path": "community/image-33__26-101@2x.png",
+          "path": "community/image-33__26-101@2x.webp",
           "x": 606,
           "y": 403,
           "width": 359,
@@ -558,7 +567,7 @@
         },
         {
           "nodeId": "26:103",
-          "path": "community/image-34__26-103@2x.png",
+          "path": "community/image-34__26-103@2x.webp",
           "x": 981,
           "y": 403,
           "width": 359,
@@ -569,7 +578,7 @@
       "emblems": [
         {
           "nodeId": "111:7",
-          "path": "community/image-29__111-7@2x.png",
+          "path": "community/image-29__111-7@2x.webp",
           "x": 97,
           "y": 118,
           "width": 92,
@@ -611,7 +620,8 @@
         "offsetX": 3.0240001678466797,
         "offsetY": 8.903998374938965,
         "artWidth": 879.0,
-        "artHeight": 37.0
+        "artHeight": 37.0,
+        "fontSize": 48
       },
       "titleX": 213,
       "titleY": 132,
@@ -619,11 +629,11 @@
       "bodyX": 97,
       "bodyY": 221,
       "bodyWidth": 452,
-      "background": "inquiry/project-background@2x.png",
+      "background": "inquiry/project-background@2x.webp",
       "media": [
         {
           "nodeId": "26:105",
-          "path": "community/image-31__26-105@2x.png",
+          "path": "community/image-31__26-105@2x.webp",
           "x": 606,
           "y": 198,
           "width": 359,
@@ -632,7 +642,7 @@
         },
         {
           "nodeId": "26:107",
-          "path": "community/image-32__26-107@2x.png",
+          "path": "community/image-32__26-107@2x.webp",
           "x": 981,
           "y": 197,
           "width": 359,
@@ -641,7 +651,7 @@
         },
         {
           "nodeId": "26:106",
-          "path": "community/image-33__26-106@2x.png",
+          "path": "community/image-33__26-106@2x.webp",
           "x": 606,
           "y": 403,
           "width": 359,
@@ -650,7 +660,7 @@
         },
         {
           "nodeId": "26:108",
-          "path": "community/image-34__26-108@2x.png",
+          "path": "community/image-34__26-108@2x.webp",
           "x": 981,
           "y": 403,
           "width": 359,
@@ -661,7 +671,7 @@
       "emblems": [
         {
           "nodeId": "39:57",
-          "path": "community/image-24__39-57@2x.png",
+          "path": "community/image-24__39-57@2x.webp",
           "x": 97,
           "y": 113,
           "width": 84,
@@ -699,7 +709,8 @@
         "offsetX": 3.2160000801086426,
         "offsetY": 5.831997871398926,
         "artWidth": 832.0,
-        "artHeight": 50.0
+        "artHeight": 50.0,
+        "fontSize": 48
       },
       "titleX": 213,
       "titleY": 132,
@@ -707,11 +718,11 @@
       "bodyX": 97,
       "bodyY": 221,
       "bodyWidth": 452,
-      "background": "inquiry/project-background@2x.png",
+      "background": "inquiry/project-background@2x.webp",
       "media": [
         {
           "nodeId": "26:110",
-          "path": "community/image-31__26-110@2x.png",
+          "path": "community/image-31__26-110@2x.webp",
           "x": 606,
           "y": 201,
           "width": 359,
@@ -720,7 +731,7 @@
         },
         {
           "nodeId": "26:112",
-          "path": "community/image-32__26-112@2x.png",
+          "path": "community/image-32__26-112@2x.webp",
           "x": 981,
           "y": 204,
           "width": 359,
@@ -729,7 +740,7 @@
         },
         {
           "nodeId": "26:111",
-          "path": "community/image-33__26-101@2x.png",
+          "path": "community/image-33__26-101@2x.webp",
           "x": 606,
           "y": 417,
           "width": 359,
@@ -738,7 +749,7 @@
         },
         {
           "nodeId": "26:113",
-          "path": "community/image-34__26-103@2x.png",
+          "path": "community/image-34__26-103@2x.webp",
           "x": 981,
           "y": 417,
           "width": 359,
@@ -749,7 +760,7 @@
       "emblems": [
         {
           "nodeId": "39:58",
-          "path": "community/image-23__39-55@2x.png",
+          "path": "community/image-23__39-55@2x.webp",
           "x": 93,
           "y": 103,
           "width": 104,
@@ -774,7 +785,8 @@
       "offsetX": 0.34666669368743896,
       "offsetY": 3.9999985694885254,
       "artWidth": 153,
-      "artHeight": 18
+      "artHeight": 18,
+      "fontSize": 24
     },
     "community": {
       "path": "community/type/nav-community.svg",
@@ -784,7 +796,8 @@
       "offsetX": 1.4160001277923584,
       "offsetY": 3.9519991874694824,
       "artWidth": 175.0,
-      "artHeight": 26.0
+      "artHeight": 26.0,
+      "fontSize": 24
     }
   }
 }

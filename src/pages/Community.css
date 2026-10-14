@@ -29,7 +29,7 @@
 .community__copy {
   width: calc(var(--body-width) * var(--u));
   margin-left: calc(var(--body-x) * var(--u));
-  font-size: max(14px, calc(16 * var(--u)));
+  font-size: calc(max(14px, calc(16 * var(--u))) + var(--text-step));
   line-height: 1.1796875;
 }
 
@@ -76,7 +76,7 @@
 
 .community__chapter-label {
   position: absolute;
-  left: calc(var(--caption-x) * var(--u));
+  left: min(calc(var(--caption-x) * var(--u)), calc((1440 - var(--media-x) - 8) * var(--u) - var(--caption-width) * (var(--u) + var(--text-step) / 16)));
   top: calc(var(--caption-y) * var(--u));
 }
 
@@ -120,6 +120,7 @@
 
   .community__title .figma-label {
     --label-unit: min(1px, calc((100cqw - 64px - var(--title-inset, 80px)) / var(--label-width)));
+    --label-max-width: calc(100cqw - 64px - var(--title-inset, 80px));
   }
 
   .community__frame--overview {
@@ -129,7 +130,7 @@
   .community__copy {
     width: min(100%, 620px);
     margin: 0;
-    font-size: 18px;
+    font-size: calc(18px + var(--text-step));
     line-height: 1.5;
   }
 
@@ -139,7 +140,7 @@
 
   .community__sources {
     margin-top: 20px;
-    font-size: 16px;
+    font-size: calc(16px + var(--text-step));
     line-height: 1.4;
   }
 
@@ -192,7 +193,7 @@
   .community__chapter-text {
     display: block;
     margin-top: 10px;
-    font-size: 18px;
+    font-size: calc(18px + var(--text-step));
     line-height: 1.25;
   }
 }
@@ -204,6 +205,7 @@
 
   .community__title .figma-label {
     --label-unit: min(1px, calc((100cqw - 48px - var(--title-inset, 80px)) / var(--label-width)));
+    --label-max-width: calc(100cqw - 48px - var(--title-inset, 80px));
   }
 
   .community__frame--concert .community__heading,

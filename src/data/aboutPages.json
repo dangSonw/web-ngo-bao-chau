@@ -8,7 +8,8 @@
       "artWidth": 305.0,
       "artHeight": 36.0,
       "offsetX": 0.693359375,
-      "offsetY": 9
+      "offsetY": 9,
+      "fontSize": 48
     },
     "choice-logician": {
       "path": "about/type/choice-logician.svg",
@@ -18,7 +19,8 @@
       "artWidth": 199.0,
       "artHeight": 24.0,
       "offsetX": 0.5517578125,
-      "offsetY": 3.9521484375
+      "offsetY": 3.9521484375,
+      "fontSize": 24
     },
     "choice-adventurer": {
       "path": "about/type/choice-adventurer.svg",
@@ -28,7 +30,8 @@
       "artWidth": 253.0,
       "artHeight": 18.0,
       "offsetX": 0.5517578125,
-      "offsetY": 4
+      "offsetY": 4,
+      "fontSize": 24
     },
     "choice-seeker": {
       "path": "about/type/choice-seeker.svg",
@@ -38,7 +41,8 @@
       "artWidth": 177.0,
       "artHeight": 18.0,
       "offsetX": 0.5517578125,
-      "offsetY": 4
+      "offsetY": 4,
+      "fontSize": 24
     },
     "logician-title": {
       "path": "about/type/logician-title.svg",
@@ -48,7 +52,8 @@
       "artWidth": 619.0,
       "artHeight": 49.0,
       "offsetX": 1.5869140625,
-      "offsetY": 15.7001953125
+      "offsetY": 15.7001953125,
+      "fontSize": 69
     },
     "adventurer-title": {
       "path": "about/type/adventurer-title.svg",
@@ -58,7 +63,8 @@
       "artWidth": 831.0,
       "artHeight": 49.0,
       "offsetX": 1.5869140625,
-      "offsetY": 15.7001953125
+      "offsetY": 15.7001953125,
+      "fontSize": 69
     },
     "seeker-title": {
       "path": "about/type/seeker-title.svg",
@@ -68,7 +74,8 @@
       "artWidth": 556.0,
       "artHeight": 49.0,
       "offsetX": 1.5869140625,
-      "offsetY": 15.7001953125
+      "offsetY": 15.7001953125,
+      "fontSize": 69
     },
     "nav-home": {
       "path": "about/type/nav-home.svg",
@@ -78,7 +85,8 @@
       "artWidth": 86.0,
       "artHeight": 17.0,
       "offsetX": 1.6083984375,
-      "offsetY": 5.2001953125
+      "offsetY": 5.2001953125,
+      "fontSize": 24
     },
     "nav-about": {
       "path": "about/type/nav-about.svg",
@@ -88,7 +96,8 @@
       "artWidth": 155.0,
       "artHeight": 20.0,
       "offsetX": 0.3466796875,
-      "offsetY": 4
+      "offsetY": 4,
+      "fontSize": 24
     },
     "nav-inquiry": {
       "path": "about/type/nav-inquiry.svg",
@@ -98,7 +107,8 @@
       "artWidth": 109.0,
       "artHeight": 24.0,
       "offsetX": 1.5361328125,
-      "offsetY": 3.9521484375
+      "offsetY": 3.9521484375,
+      "fontSize": 24
     },
     "nav-community": {
       "path": "about/type/nav-community.svg",
@@ -108,7 +118,8 @@
       "artWidth": 173.0,
       "artHeight": 24.0,
       "offsetX": 1.416015625,
-      "offsetY": 3.9521484375
+      "offsetY": 3.9521484375,
+      "fontSize": 24
     },
     "nav-spirituality": {
       "path": "about/type/nav-spirituality.svg",
@@ -118,7 +129,8 @@
       "artWidth": 158.0,
       "artHeight": 24.0,
       "offsetX": 1.3203125,
-      "offsetY": 3.9521484375
+      "offsetY": 3.9521484375,
+      "fontSize": 24
     }
   },
   "pages": [
@@ -134,7 +146,8 @@
         "artWidth": 305.0,
         "artHeight": 36.0,
         "offsetX": 0.693359375,
-        "offsetY": 9
+        "offsetY": 9,
+        "fontSize": 48
       },
       "titleX": 97,
       "titleY": 103,
@@ -142,7 +155,7 @@
       "bodyX": 97,
       "bodyY": 167,
       "bodyWidth": 452,
-      "background": "about/intro-background@2x.png",
+      "background": "about/intro-background@2x.webp",
       "media": []
     },
     {
@@ -157,7 +170,8 @@
         "artWidth": 619.0,
         "artHeight": 49.0,
         "offsetX": 1.5869140625,
-        "offsetY": 15.7001953125
+        "offsetY": 15.7001953125,
+        "fontSize": 69
       },
       "titleX": 73,
       "titleY": 108,
@@ -165,11 +179,11 @@
       "bodyX": 82,
       "bodyY": 266.66650390625,
       "bodyWidth": 452,
-      "background": "about/image-10__7-164@2x.png",
+      "background": "about/image-10__7-164@2x.webp",
       "media": [
         {
           "nodeId": "28:3",
-          "path": "about/0002-1__28-3@source.png",
+          "path": "about/0002-1__28-3@source.webp",
           "x": 973,
           "y": 224,
           "width": 209,
@@ -178,7 +192,7 @@
         },
         {
           "nodeId": "28:7",
-          "path": "about/0006-1__28-7@source.png",
+          "path": "about/0006-1__28-7@source.webp",
           "x": 1190,
           "y": 231,
           "width": 199.70672607421875,
@@ -187,7 +201,7 @@
         },
         {
           "nodeId": "28:4",
-          "path": "about/0003-1__28-4@source.png",
+          "path": "about/0003-1__28-4@source.webp",
           "x": 604,
           "y": 325,
           "width": 141.1229248046875,
@@ -196,7 +210,7 @@
         },
         {
           "nodeId": "52:57",
-          "path": "about/image-35__52-57@source.png",
+          "path": "about/image-35__52-57@source.webp",
           "x": 1190,
           "y": 383,
           "width": 200,
@@ -205,7 +219,7 @@
         },
         {
           "nodeId": "28:5",
-          "path": "about/0004-1__28-5@source.png",
+          "path": "about/0004-1__28-5@source.webp",
           "x": 755,
           "y": 384,
           "width": 200.0308837890625,
@@ -214,7 +228,7 @@
         },
         {
           "nodeId": "66:4",
-          "path": "about/image-40__66-4@source.png",
+          "path": "about/image-40__66-4@source.webp",
           "x": 961,
           "y": 384,
           "width": 221,
@@ -223,7 +237,7 @@
         },
         {
           "nodeId": "28:2",
-          "path": "about/0001-1__28-2@source.png",
+          "path": "about/0001-1__28-2@source.webp",
           "x": 1190,
           "y": 536,
           "width": 199.70672607421875,
@@ -232,7 +246,7 @@
         },
         {
           "nodeId": "52:63",
-          "path": "about/image-36__52-63@source.png",
+          "path": "about/image-36__52-63@source.webp",
           "x": 361,
           "y": 537.0400390625,
           "width": 197,
@@ -241,7 +255,7 @@
         },
         {
           "nodeId": "28:8",
-          "path": "about/0007-1__28-8@source.png",
+          "path": "about/0007-1__28-8@source.webp",
           "x": 566,
           "y": 537,
           "width": 199.70672607421875,
@@ -250,7 +264,7 @@
         },
         {
           "nodeId": "28:9",
-          "path": "about/0008-1__28-9@source.png",
+          "path": "about/0008-1__28-9@source.webp",
           "x": 774,
           "y": 537.0400390625,
           "width": 199.70672607421875,
@@ -259,7 +273,7 @@
         },
         {
           "nodeId": "28:6",
-          "path": "about/0005-1__28-6@source.png",
+          "path": "about/0005-1__28-6@source.webp",
           "x": 982,
           "y": 537.0400390625,
           "width": 200.0308837890625,
@@ -283,7 +297,8 @@
         "artWidth": 831.0,
         "artHeight": 49.0,
         "offsetX": 1.5869140625,
-        "offsetY": 15.7001953125
+        "offsetY": 15.7001953125,
+        "fontSize": 69
       },
       "titleX": 73,
       "titleY": 108,
@@ -291,7 +306,7 @@
       "bodyX": 82,
       "bodyY": 251.66650390625,
       "bodyWidth": 452,
-      "background": "about/image-11__7-194@2x.png",
+      "background": "about/image-11__7-194@2x.webp",
       "media": [],
       "subtitle": "How I discover the world",
       "subtitleX": 82,
@@ -309,7 +324,8 @@
         "artWidth": 556.0,
         "artHeight": 49.0,
         "offsetX": 1.5869140625,
-        "offsetY": 15.7001953125
+        "offsetY": 15.7001953125,
+        "fontSize": 69
       },
       "titleX": 73,
       "titleY": 108,
@@ -317,11 +333,11 @@
       "bodyX": 82,
       "bodyY": 342,
       "bodyWidth": 452,
-      "background": "about/image-12__7-214@2x.png",
+      "background": "about/image-12__7-214@2x.webp",
       "media": [
         {
           "nodeId": "7:217",
-          "path": "about/image-13__7-217@2x.png",
+          "path": "about/image-13__7-217@2x.webp",
           "x": 942,
           "y": 151,
           "width": 127,
@@ -330,7 +346,7 @@
         },
         {
           "nodeId": "7:235",
-          "path": "about/image-17__7-235@2x.png",
+          "path": "about/image-17__7-235@2x.webp",
           "x": 1061,
           "y": 445,
           "width": 178,
@@ -339,7 +355,7 @@
         },
         {
           "nodeId": "7:238",
-          "path": "about/image-18__7-238@2x.png",
+          "path": "about/image-18__7-238@2x.webp",
           "x": 835,
           "y": 491,
           "width": 150,
@@ -348,7 +364,7 @@
         },
         {
           "nodeId": "7:226",
-          "path": "about/image-15__7-226@2x.png",
+          "path": "about/image-15__7-226@2x.webp",
           "x": 755,
           "y": 289,
           "width": 138,
@@ -357,7 +373,7 @@
         },
         {
           "nodeId": "7:229",
-          "path": "about/image-16__7-229@2x.png",
+          "path": "about/image-16__7-229@2x.webp",
           "x": 1131,
           "y": 262,
           "width": 132,
@@ -382,7 +398,8 @@
         "artWidth": 199.0,
         "artHeight": 24.0,
         "offsetX": 0.5517578125,
-        "offsetY": 3.9521484375
+        "offsetY": 3.9521484375,
+        "fontSize": 24
       },
       "x": 907,
       "y": 194,
@@ -404,7 +421,8 @@
         "artWidth": 253.0,
         "artHeight": 18.0,
         "offsetX": 0.5517578125,
-        "offsetY": 4
+        "offsetY": 4,
+        "fontSize": 24
       },
       "x": 907,
       "y": 379,
@@ -426,7 +444,8 @@
         "artWidth": 177.0,
         "artHeight": 18.0,
         "offsetX": 0.5517578125,
-        "offsetY": 4
+        "offsetY": 4,
+        "fontSize": 24
       },
       "x": 907,
       "y": 557,
@@ -451,7 +470,8 @@
         "artWidth": 86.0,
         "artHeight": 17.0,
         "offsetX": 1.6083984375,
-        "offsetY": 5.2001953125
+        "offsetY": 5.2001953125,
+        "fontSize": 24
       }
     },
     {
@@ -466,7 +486,8 @@
         "artWidth": 155.0,
         "artHeight": 20.0,
         "offsetX": 0.3466796875,
-        "offsetY": 4
+        "offsetY": 4,
+        "fontSize": 24
       }
     },
     {
@@ -481,7 +502,8 @@
         "artWidth": 109.0,
         "artHeight": 24.0,
         "offsetX": 1.5361328125,
-        "offsetY": 3.9521484375
+        "offsetY": 3.9521484375,
+        "fontSize": 24
       }
     },
     {
@@ -496,7 +518,8 @@
         "artWidth": 173.0,
         "artHeight": 24.0,
         "offsetX": 1.416015625,
-        "offsetY": 3.9521484375
+        "offsetY": 3.9521484375,
+        "fontSize": 24
       }
     },
     {
@@ -511,7 +534,8 @@
         "artWidth": 158.0,
         "artHeight": 24.0,
         "offsetX": 1.3203125,
-        "offsetY": 3.9521484375
+        "offsetY": 3.9521484375,
+        "fontSize": 24
       }
     }
   ]

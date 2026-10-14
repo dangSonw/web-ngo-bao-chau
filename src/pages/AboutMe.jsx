@@ -5,14 +5,12 @@ import FigmaLabel from '../components/FigmaLabel.jsx';
 import SubpageLayout from '../components/SubpageLayout.jsx';
 import CertificateOrbit from '../components/CertificateOrbit.jsx';
 import PlanetOrbit from '../components/PlanetOrbit.jsx';
-import useReducedMotion from '../lib/useReducedMotion.js';
 import { choices, pages } from '../data/aboutPages.json';
 import './AboutMe.css';
 
 export default function AboutMe() {
   const { topic = 'overview' } = useParams();
   const page = pages.find(item => item.key === topic);
-  const reduceMotion = useReducedMotion();
   useEffect(() => {
     for (const item of pages) {
       const image = new Image();
@@ -27,7 +25,7 @@ export default function AboutMe() {
         className={`about__frame about__frame--${page.key}`}
         aria-label={page.title.text}
         initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
-        transition={{ duration: reduceMotion ? 0 : 0.25 }}
+        transition={{ duration: 0 }}
         style={{ '--title-x': page.titleX, '--title-y': page.titleY, '--body-x': page.bodyX,
           '--body-y': page.bodyY, '--body-width': page.bodyWidth, '--subtitle-y': page.subtitleY }}>
         <h1 className="about__title"><FigmaLabel label={page.title} /></h1>

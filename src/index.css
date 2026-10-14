@@ -2,8 +2,31 @@
   box-sizing: border-box;
 }
 
+@property --u {
+  syntax: '<length>';
+  inherits: true;
+  initial-value: 1px;
+}
+
+:root {
+  --text-step: 2px;
+  background: #000;
+  font-size: calc(16px + var(--text-step));
+  color-scheme: dark;
+}
+
 body {
   margin: 0;
+  background: #000;
+}
+
+.page-shade {
+  position: fixed;
+  inset: var(--menu-height, 0px) 0 0;
+  z-index: 1000;
+  background: #000;
+  opacity: 0;
+  pointer-events: none;
 }
 
 img,

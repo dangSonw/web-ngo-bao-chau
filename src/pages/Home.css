@@ -69,7 +69,7 @@
 
 .home__title img {
   display: block;
-  width: calc(607 * var(--u));
+  width: min(100%, calc(607 * (var(--u) + var(--text-step) / 98.14173126220703)));
   height: auto;
 }
 
@@ -106,14 +106,14 @@
 .home__link-title {
   display: block;
   position: relative;
-  height: calc(40 * var(--u));
+  height: calc(44 * var(--u));
 }
 
 .home__link-title img {
   position: absolute;
   top: calc(var(--art-y) * var(--u));
   left: calc(var(--art-x) * var(--u));
-  width: calc(var(--art-width) * var(--u));
+  width: calc(var(--art-width) * (var(--u) + var(--text-step) / 36));
   height: auto;
   max-width: none;
 }
@@ -121,8 +121,8 @@
 .home__description {
   display: block;
   margin: 0;
-  font-size: max(14px, calc(16 * var(--u)));
-  line-height: max(16.625px, calc(19 * var(--u)));
+  font-size: calc(max(14px, calc(16 * var(--u))) + var(--text-step));
+  line-height: 1.4;
   white-space: pre-line;
 }
 
@@ -213,7 +213,7 @@
   }
 
   .home__description {
-    font-size: 16px;
+    font-size: calc(16px + var(--text-step));
     line-height: 1.25;
   }
 

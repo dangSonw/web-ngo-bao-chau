@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "width": 375,
+      "contentBlackout": true,
+      "menuPreserved": true
+    },
+    {
+      "width": 420,
+      "contentBlackout": true,
+      "menuPreserved": true
+    },
+    {
+      "width": 880,
+      "contentBlackout": true,
+      "menuPreserved": true
+    },
+    {
+      "width": 1440,
+      "contentBlackout": true,
+      "menuPreserved": true
+    },
+    {
+      "width": 1920,
+      "contentBlackout": true,
+      "menuPreserved": true
+    },
+    {
+      "width": 3840,
+      "contentBlackout": true,
+      "menuPreserved": true
+    }
+  ],
+  "rapidNavigation": true,
+  "backForward": true,
+  "reload": true,
+  "errors": []
+}
