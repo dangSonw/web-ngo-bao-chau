@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-14",
+  "scope": "Local Windows browser automation and production preview; no physical Mac or remote hosting logs",
+  "communityChange": "Separate the two long outlined planet labels into vertical lanes without changing SVG typography or source image quality",
+  "planetLabels": { "chromiumLayouts": 50, "webkitLayouts": 50, "viewportWidthRange": [375, 3840], "dpr": 2, "pairwiseCollisions": 0, "clipping": 0 },
+  "interactions": "Five Community chapter links activated with keyboard, Space, Back/Forward and reload-to-Home passed on both engines",
+  "broaderTypography": { "chromiumRetinaCases": 638 },
+  "hmr": "Community.css updated without document reload or route loss",
+  "production": "ngo-production.json and linh-production.json record three route cycles, post-GC JS heap, DOM/listeners, resource bytes, RAF intervals and 20 local HTTP requests each",
+  "findings": [
+    "No application runtime or network errors in the completed checks",
+    "Stable DOM/listener counts at Home after each production navigation cycle; modest JS warm-up growth",
+    "Steady animation p95 approximately 16.9 ms; no frame intervals above 50 ms in the sampled two seconds",
+    "Linh Anh retained decoded preload media and accumulated viewport keys; fixed and independently audited in that repository",
+    "Linh Anh still has 4x media around 11-20 MB each. High transfer/decode workload can slow weak networks or devices; it is not proof of a hosting/server failure"
+  ],
+  "limitations": "JS heap excludes native/image/GPU RAM. Natural pixel estimates are not resident RAM measurements. Aggregate resource bytes cover all navigation cycles, not just the initial page. Local preview cache and HTTP success do not certify deployed hosting capacity.",
+  "build": "npm run build passed",
+  "graph": "Native Codebase Memory CLI reindexed the repository and queried Community; source was cross-checked"
+}

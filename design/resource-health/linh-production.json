@@ -1,0 +1,312 @@
+{
+  "site": "linh",
+  "url": "http://127.0.0.1:5181/",
+  "scope": "Local production preview only; JS heap excludes image/GPU/native memory. No remote server logs or physical Mac available.",
+  "initialReadyMs": 1159.9371999999998,
+  "navigation": [
+    {
+      "round": 1,
+      "route": "/about-me",
+      "readyIncluding700msSettleMs": 1099.9281999999998
+    },
+    {
+      "round": 1,
+      "route": "/scouting",
+      "readyIncluding700msSettleMs": 1658.348
+    },
+    {
+      "round": 1,
+      "route": "/impact-leadership",
+      "readyIncluding700msSettleMs": 1739.7367999999997
+    },
+    {
+      "round": 1,
+      "route": "/inside-the-cells",
+      "readyIncluding700msSettleMs": 1546.1500000000005
+    },
+    {
+      "round": 1,
+      "route": "/world",
+      "readyIncluding700msSettleMs": 1195.262599999999
+    },
+    {
+      "round": 1,
+      "route": "/",
+      "readyIncluding700msSettleMs": 893.2801
+    },
+    {
+      "round": 2,
+      "route": "/about-me",
+      "readyIncluding700msSettleMs": 1424.1643000000004
+    },
+    {
+      "round": 2,
+      "route": "/scouting",
+      "readyIncluding700msSettleMs": 1977.9579999999987
+    },
+    {
+      "round": 2,
+      "route": "/impact-leadership",
+      "readyIncluding700msSettleMs": 2191.173999999999
+    },
+    {
+      "round": 2,
+      "route": "/inside-the-cells",
+      "readyIncluding700msSettleMs": 1369.0905999999977
+    },
+    {
+      "round": 2,
+      "route": "/world",
+      "readyIncluding700msSettleMs": 2315.9629999999997
+    },
+    {
+      "round": 2,
+      "route": "/",
+      "readyIncluding700msSettleMs": 951.4945000000007
+    },
+    {
+      "round": 3,
+      "route": "/about-me",
+      "readyIncluding700msSettleMs": 1383.7214999999997
+    },
+    {
+      "round": 3,
+      "route": "/scouting",
+      "readyIncluding700msSettleMs": 1960.468399999998
+    },
+    {
+      "round": 3,
+      "route": "/impact-leadership",
+      "readyIncluding700msSettleMs": 2049.7100999999966
+    },
+    {
+      "round": 3,
+      "route": "/inside-the-cells",
+      "readyIncluding700msSettleMs": 2077.964500000002
+    },
+    {
+      "round": 3,
+      "route": "/world",
+      "readyIncluding700msSettleMs": 858.1241000000009
+    },
+    {
+      "round": 3,
+      "route": "/",
+      "readyIncluding700msSettleMs": 841.622000000003
+    }
+  ],
+  "memory": [
+    {
+      "round": 1,
+      "jsHeapMiB": 3.6279029846191406,
+      "domNodes": 709,
+      "listeners": 200
+    },
+    {
+      "round": 2,
+      "jsHeapMiB": 3.8169708251953125,
+      "domNodes": 709,
+      "listeners": 200
+    },
+    {
+      "round": 3,
+      "jsHeapMiB": 3.9163055419921875,
+      "domNodes": 709,
+      "listeners": 200
+    }
+  ],
+  "steadyFrames": {
+    "count": 121,
+    "medianMs": 16.69999999999709,
+    "p95Ms": 16.900000000001455,
+    "over50ms": 0
+  },
+  "errors": [],
+  "server": [
+    {
+      "status": 200,
+      "durationMs": 52.03259999999864
+    },
+    {
+      "status": 200,
+      "durationMs": 41.83030000000144
+    },
+    {
+      "status": 200,
+      "durationMs": 42.1701999999932
+    },
+    {
+      "status": 200,
+      "durationMs": 44.61619999999675
+    },
+    {
+      "status": 200,
+      "durationMs": 39.91939999999886
+    },
+    {
+      "status": 200,
+      "durationMs": 39.99669999999605
+    },
+    {
+      "status": 200,
+      "durationMs": 40.45049999999901
+    },
+    {
+      "status": 200,
+      "durationMs": 41.35659999999916
+    },
+    {
+      "status": 200,
+      "durationMs": 40.16820000000007
+    },
+    {
+      "status": 200,
+      "durationMs": 41.13459999999759
+    },
+    {
+      "status": 200,
+      "durationMs": 41.380099999994854
+    },
+    {
+      "status": 200,
+      "durationMs": 40.78229999999894
+    },
+    {
+      "status": 200,
+      "durationMs": 41.56430000000546
+    },
+    {
+      "status": 200,
+      "durationMs": 42.138599999998405
+    },
+    {
+      "status": 200,
+      "durationMs": 40.89970000000176
+    },
+    {
+      "status": 200,
+      "durationMs": 41.324000000000524
+    },
+    {
+      "status": 200,
+      "durationMs": 40.99609999999666
+    },
+    {
+      "status": 200,
+      "durationMs": 41.60910000000149
+    },
+    {
+      "status": 200,
+      "durationMs": 41.19789999999921
+    },
+    {
+      "status": 200,
+      "durationMs": 41.30319999999483
+    }
+  ],
+  "resourceTotals": {
+    "encodedMiB": 307.5795679092407,
+    "transferMiB": 306.42245388031006,
+    "uniqueEncodedMiB": 142.37441444396973
+  },
+  "largestResources": [
+    {
+      "url": "http://127.0.0.1:5181/assets/inside/linh-anh-tab2-1__63-196@4x.webp",
+      "encodedBytes": 20801756,
+      "transferBytes": 20802056,
+      "durationMs": 226
+    },
+    {
+      "url": "http://127.0.0.1:5181/assets/inside/linh-anh-tab2-1__63-196@4x.webp",
+      "encodedBytes": 20801756,
+      "transferBytes": 20802056,
+      "durationMs": 299.2999999821186
+    },
+    {
+      "url": "http://127.0.0.1:5181/assets/inside/linh-anh-tab3-1__54-4@4x.webp",
+      "encodedBytes": 19417026,
+      "transferBytes": 19417326,
+      "durationMs": 181.60000002384186
+    },
+    {
+      "url": "http://127.0.0.1:5181/assets/inside/linh-anh-tab3-1__54-4@4x.webp",
+      "encodedBytes": 19417026,
+      "transferBytes": 19417326,
+      "durationMs": 531.8999999761581
+    },
+    {
+      "url": "http://127.0.0.1:5181/assets/scouting/untitled-9-september-2026-14-47-00-1__63-49@4x.webp",
+      "encodedBytes": 17781432,
+      "transferBytes": 17781732,
+      "durationMs": 190
+    },
+    {
+      "url": "http://127.0.0.1:5181/assets/scouting/untitled-9-september-2026-14-47-00-1__63-49@4x.webp",
+      "encodedBytes": 17781432,
+      "transferBytes": 17781732,
+      "durationMs": 289.40000000596046
+    },
+    {
+      "url": "http://127.0.0.1:5181/assets/world/hive@4x.webp",
+      "encodedBytes": 11793312,
+      "transferBytes": 11793612,
+      "durationMs": 57.099999994039536
+    },
+    {
+      "url": "http://127.0.0.1:5181/assets/world/hive@4x.webp",
+      "encodedBytes": 11793312,
+      "transferBytes": 11793612,
+      "durationMs": 542.6999999880791
+    },
+    {
+      "url": "http://127.0.0.1:5181/assets/about/beehive-of-linh-anh-1__54-2@4x.png",
+      "encodedBytes": 11002164,
+      "transferBytes": 11002464,
+      "durationMs": 61.69999998807907
+    },
+    {
+      "url": "http://127.0.0.1:5181/assets/about/beehive-of-linh-anh-1__54-2@4x.png",
+      "encodedBytes": 11002164,
+      "transferBytes": 11002464,
+      "durationMs": 196.59999999403954
+    }
+  ],
+  "longTasks": [
+    {
+      "start": 11314,
+      "duration": 359
+    },
+    {
+      "start": 13295.199999988079,
+      "duration": 361
+    },
+    {
+      "start": 17720.19999998808,
+      "duration": 300
+    },
+    {
+      "start": 21555.40000000596,
+      "duration": 353
+    },
+    {
+      "start": 23520.30000001192,
+      "duration": 420
+    },
+    {
+      "start": 25384.19999998808,
+      "duration": 63
+    },
+    {
+      "start": 25585.30000001192,
+      "duration": 909
+    },
+    {
+      "start": 27406.09999999404,
+      "duration": 299
+    },
+    {
+      "start": 29232.30000001192,
+      "duration": 463
+    }
+  ]
+}

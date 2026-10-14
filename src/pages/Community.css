@@ -84,6 +84,16 @@
   display: none;
 }
 
+/* Long outlined labels need separate vertical lanes; clamping them at the
+   right edge otherwise pushes them over Y4C and its neighbouring planets. */
+.community__chapter--bright-paths {
+  top: calc(280 * var(--u));
+}
+
+.community__chapter--concert {
+  top: calc(630 * var(--u));
+}
+
 @media (max-width: 1200px), (max-height: 660px) {
   .community__frame {
     --u: 1px;

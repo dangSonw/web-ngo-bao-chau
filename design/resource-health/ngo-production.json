@@ -1,0 +1,315 @@
+{
+  "site": "ngo",
+  "url": "http://127.0.0.1:5180/",
+  "scope": "Local production preview only; JS heap excludes image/GPU/native memory. No remote server logs or physical Mac available.",
+  "initialReadyMs": 1120.6014,
+  "navigation": [
+    {
+      "round": 1,
+      "route": "/about-me/logician",
+      "readyIncluding700msSettleMs": 1306.1845000000003
+    },
+    {
+      "round": 1,
+      "route": "/about-me/seeker",
+      "readyIncluding700msSettleMs": 731.9984
+    },
+    {
+      "round": 1,
+      "route": "/inquiry",
+      "readyIncluding700msSettleMs": 1108.0744000000004
+    },
+    {
+      "round": 1,
+      "route": "/community",
+      "readyIncluding700msSettleMs": 1101.7459000000008
+    },
+    {
+      "round": 1,
+      "route": "/spirituality/wuxing",
+      "readyIncluding700msSettleMs": 1016.3539000000001
+    },
+    {
+      "round": 1,
+      "route": "/spirituality/planets",
+      "readyIncluding700msSettleMs": 735.8450999999995
+    },
+    {
+      "round": 1,
+      "route": "/",
+      "readyIncluding700msSettleMs": 1018.0249999999996
+    },
+    {
+      "round": 2,
+      "route": "/about-me/logician",
+      "readyIncluding700msSettleMs": 1395.543599999999
+    },
+    {
+      "round": 2,
+      "route": "/about-me/seeker",
+      "readyIncluding700msSettleMs": 752.3716999999997
+    },
+    {
+      "round": 2,
+      "route": "/inquiry",
+      "readyIncluding700msSettleMs": 1191.1893
+    },
+    {
+      "round": 2,
+      "route": "/community",
+      "readyIncluding700msSettleMs": 1401.912699999999
+    },
+    {
+      "round": 2,
+      "route": "/spirituality/wuxing",
+      "readyIncluding700msSettleMs": 1135.3986000000004
+    },
+    {
+      "round": 2,
+      "route": "/spirituality/planets",
+      "readyIncluding700msSettleMs": 732.8042000000005
+    },
+    {
+      "round": 2,
+      "route": "/",
+      "readyIncluding700msSettleMs": 1057.4586
+    },
+    {
+      "round": 3,
+      "route": "/about-me/logician",
+      "readyIncluding700msSettleMs": 1441.607
+    },
+    {
+      "round": 3,
+      "route": "/about-me/seeker",
+      "readyIncluding700msSettleMs": 747.9586000000018
+    },
+    {
+      "round": 3,
+      "route": "/inquiry",
+      "readyIncluding700msSettleMs": 1191.0040000000008
+    },
+    {
+      "round": 3,
+      "route": "/community",
+      "readyIncluding700msSettleMs": 1187.2524999999987
+    },
+    {
+      "round": 3,
+      "route": "/spirituality/wuxing",
+      "readyIncluding700msSettleMs": 1137.6043000000027
+    },
+    {
+      "round": 3,
+      "route": "/spirituality/planets",
+      "readyIncluding700msSettleMs": 732.7913999999982
+    },
+    {
+      "round": 3,
+      "route": "/",
+      "readyIncluding700msSettleMs": 1074.8165000000008
+    }
+  ],
+  "memory": [
+    {
+      "round": 1,
+      "jsHeapMiB": 3.3466873168945312,
+      "domNodes": 291,
+      "listeners": 193
+    },
+    {
+      "round": 2,
+      "jsHeapMiB": 3.556255340576172,
+      "domNodes": 291,
+      "listeners": 193
+    },
+    {
+      "round": 3,
+      "jsHeapMiB": 3.6639366149902344,
+      "domNodes": 291,
+      "listeners": 193
+    }
+  ],
+  "steadyFrames": {
+    "count": 121,
+    "medianMs": 16.69999999999709,
+    "p95Ms": 16.900000000001455,
+    "over50ms": 0
+  },
+  "errors": [],
+  "server": [
+    {
+      "status": 200,
+      "durationMs": 40.66149999999834
+    },
+    {
+      "status": 200,
+      "durationMs": 33.34279999999853
+    },
+    {
+      "status": 200,
+      "durationMs": 34.31500000000233
+    },
+    {
+      "status": 200,
+      "durationMs": 31.51640000000043
+    },
+    {
+      "status": 200,
+      "durationMs": 32.77549999999974
+    },
+    {
+      "status": 200,
+      "durationMs": 32.09019999999873
+    },
+    {
+      "status": 200,
+      "durationMs": 33.783400000000256
+    },
+    {
+      "status": 200,
+      "durationMs": 32.53280000000086
+    },
+    {
+      "status": 200,
+      "durationMs": 33.06739999999991
+    },
+    {
+      "status": 200,
+      "durationMs": 33.83559999999852
+    },
+    {
+      "status": 200,
+      "durationMs": 33.129000000000815
+    },
+    {
+      "status": 200,
+      "durationMs": 33.801799999997456
+    },
+    {
+      "status": 200,
+      "durationMs": 33.92610000000059
+    },
+    {
+      "status": 200,
+      "durationMs": 33.21779999999853
+    },
+    {
+      "status": 200,
+      "durationMs": 33.32839999999851
+    },
+    {
+      "status": 200,
+      "durationMs": 34.30189999999857
+    },
+    {
+      "status": 200,
+      "durationMs": 33.469600000000355
+    },
+    {
+      "status": 200,
+      "durationMs": 34.00859999999739
+    },
+    {
+      "status": 200,
+      "durationMs": 33.56810000000041
+    },
+    {
+      "status": 200,
+      "durationMs": 33.69239999999991
+    }
+  ],
+  "resourceTotals": {
+    "encodedMiB": 88.52590465545654,
+    "transferMiB": 28.343968391418457,
+    "uniqueEncodedMiB": 28.29390048980713
+  },
+  "largestResources": [
+    {
+      "url": "http://127.0.0.1:5180/assets/inquiry/intro-background@2x.webp",
+      "encodedBytes": 3421258,
+      "transferBytes": 3421558,
+      "durationMs": 49.900000005960464
+    },
+    {
+      "url": "http://127.0.0.1:5180/assets/inquiry/intro-background@2x.webp",
+      "encodedBytes": 3421258,
+      "transferBytes": 300,
+      "durationMs": 37.69999998807907
+    },
+    {
+      "url": "http://127.0.0.1:5180/assets/inquiry/intro-background@2x.webp",
+      "encodedBytes": 3421258,
+      "transferBytes": 300,
+      "durationMs": 39.19999998807907
+    },
+    {
+      "url": "http://127.0.0.1:5180/assets/community/intro-background@2x.webp",
+      "encodedBytes": 3416688,
+      "transferBytes": 3416988,
+      "durationMs": 53.099999994039536
+    },
+    {
+      "url": "http://127.0.0.1:5180/assets/community/intro-background@2x.webp",
+      "encodedBytes": 3416688,
+      "transferBytes": 300,
+      "durationMs": 99.59999999403954
+    },
+    {
+      "url": "http://127.0.0.1:5180/assets/community/intro-background@2x.webp",
+      "encodedBytes": 3416688,
+      "transferBytes": 300,
+      "durationMs": 47.5
+    },
+    {
+      "url": "http://127.0.0.1:5180/assets/about/0007-1__28-8@source.webp",
+      "encodedBytes": 1973138,
+      "transferBytes": 1973438,
+      "durationMs": 91
+    },
+    {
+      "url": "http://127.0.0.1:5180/assets/about/0007-1__28-8@source.webp",
+      "encodedBytes": 1973138,
+      "transferBytes": 300,
+      "durationMs": 48.099999994039536
+    },
+    {
+      "url": "http://127.0.0.1:5180/assets/about/0007-1__28-8@source.webp",
+      "encodedBytes": 1973138,
+      "transferBytes": 300,
+      "durationMs": 49.69999998807907
+    },
+    {
+      "url": "http://127.0.0.1:5180/assets/spirituality/chapter-background@2x.webp",
+      "encodedBytes": 1939928,
+      "transferBytes": 1940228,
+      "durationMs": 15
+    }
+  ],
+  "longTasks": [
+    {
+      "start": 1348.6000000238419,
+      "duration": 50
+    },
+    {
+      "start": 8625.100000023842,
+      "duration": 207
+    },
+    {
+      "start": 9905.40000000596,
+      "duration": 139
+    },
+    {
+      "start": 12110,
+      "duration": 150
+    },
+    {
+      "start": 16399.80000001192,
+      "duration": 228
+    },
+    {
+      "start": 17698.70000001788,
+      "duration": 183
+    }
+  ]
+}
