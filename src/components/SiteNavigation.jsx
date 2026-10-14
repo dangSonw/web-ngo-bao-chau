@@ -16,17 +16,25 @@ export default function SiteNavigation({ pathname }) {
   const labels = section === 'community' ? communityLabels : section === 'inquiry' ? inquiryLabels : section === 'spirituality' ? spiritualityLabels : {};
   useLayoutEffect(() => {
     const element = header.current;
+    let frame;
     const measure = () => {
       const bottom = section === 'home' ? 0 : element.querySelector('nav').getBoundingClientRect().bottom + window.scrollY;
-      document.documentElement.style.setProperty('--menu-height', `${Math.max(0, bottom)}px`);
+      const value = `${Math.max(0, bottom)}px`;
+      if (document.documentElement.style.getPropertyValue('--menu-height') !== value)
+        document.documentElement.style.setProperty('--menu-height', value);
     };
-    const observer = new ResizeObserver(measure);
+    const schedule = () => {
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(measure);
+    };
+    const observer = new ResizeObserver(schedule);
     observer.observe(element.querySelector('nav'));
-    window.addEventListener('resize', measure);
+    window.addEventListener('resize', schedule);
     measure();
     return () => {
       observer.disconnect();
-      window.removeEventListener('resize', measure);
+      window.removeEventListener('resize', schedule);
+      cancelAnimationFrame(frame);
     };
   }, [section]);
   return <header ref={header} className="site-navigation" hidden={section === 'home'}>

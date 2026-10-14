@@ -1,0 +1,6481 @@
+{
+  "capabilities": {
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+    "cqw": true,
+    "propertyApi": true,
+    "typedDivision": true
+  },
+  "cases": 638,
+  "noPropertyDependency": true,
+  "results": [
+    {
+      "route": "/",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 0,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [
+        8,
+        8,
+        8
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [
+        8,
+        8,
+        8
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [
+        8,
+        8,
+        8
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [
+        8,
+        8,
+        8
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [
+        8,
+        8,
+        8
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [
+        8,
+        8,
+        8
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [
+        8,
+        8,
+        8
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [
+        6,
+        6,
+        6
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [
+        6,
+        6,
+        6
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [
+        6,
+        6,
+        6
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [
+        6,
+        6,
+        6
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [
+        6,
+        6,
+        6
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [
+        6,
+        6,
+        6
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [
+        6,
+        6,
+        6
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [
+        6,
+        6,
+        6
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [
+        6,
+        6,
+        6
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [
+        6,
+        6,
+        6
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [
+        8,
+        8,
+        8
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [
+        8,
+        8,
+        8
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [
+        6,
+        6,
+        6
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [
+        8,
+        8,
+        8
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [
+        6,
+        6,
+        6
+      ],
+      "labels": 9,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/logician",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/adventurer",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/about-me/seeker",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/wico",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/ican",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/research",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/inquiry/platform",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 11,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 11,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 11,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 11,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 11,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 11,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 11,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 11,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 11,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 11,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 11,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 11,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/tay-roots",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/ban-sung",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/y4c",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/concert",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/community/bright-paths",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 8,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/fire",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/wood",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/earth",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/metal",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/water",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/wuxing/conclusion",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/venus",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/mars",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/saturn",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 375,
+      "height": 812,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 420,
+      "height": 896,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 600,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 601,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 768,
+      "height": 1024,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 880,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1200,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1201,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1280,
+      "height": 800,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1440,
+      "height": 744,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1440,
+      "height": 900,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1512,
+      "height": 982,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1728,
+      "height": 1117,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1920,
+      "height": 1200,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 2560,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 3840,
+      "height": 2160,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1440,
+      "height": 600,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1440,
+      "height": 660,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1440,
+      "height": 661,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 1080,
+      "height": 1920,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    },
+    {
+      "route": "/spirituality/planets/moon",
+      "width": 3440,
+      "height": 1440,
+      "dpr": 2,
+      "captionGaps": [],
+      "labels": 6,
+      "overflow": false,
+      "sourceRatios": true
+    }
+  ],
+  "errors": []
+}

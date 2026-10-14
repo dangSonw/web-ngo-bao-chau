@@ -32,7 +32,10 @@ export default function PlanetOrbit({ items }) {
     const observer = new ResizeObserver(([entry]) => {
       width = entry.contentRect.width;
       height = entry.contentRect.height;
-      if (reduced) render();
+      if (reduced) {
+        cancelAnimationFrame(frame);
+        frame = requestAnimationFrame(render);
+      }
     });
     observer.observe(scene.current);
     render();

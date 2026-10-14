@@ -1,0 +1,30 @@
+{
+  "scope": "Ngo Bao Chau CSS compatibility audit across all 29 screens",
+  "audit": {
+    "typedLengthDivision": "No length/length scale expression found in application CSS; existing length/numeric arithmetic retained",
+    "propertyDependency": "Original desktop nested About container needed @property --u to freeze inherited cqw. Removing that rule shrank the first title from 227.80px to 87.83px",
+    "fix": "Removed unnecessary desktop choice container and @property declaration. Title remains 227.80px without registration; mobile choices keep a separate container and fixed base unit",
+    "resizeObservers": "Navigation and reduced-motion orbit DOM writes deferred to RAF with cleanup; navigation skips identical height writes, avoiding WebKit notification loops"
+  },
+  "qa": {
+    "browsers": ["Chrome 155", "Playwright WebKit 18.4"],
+    "retinaDpr": 2,
+    "casesPerEngine": 638,
+    "totalViewportCases": 1276,
+    "routes": 29,
+    "sizesPerRoute": 22,
+    "matrix": ["chromium-results.json", "webkit-results.json"],
+    "propertyRejectionProof": "property-before-after.json",
+    "checks": "Decoded media, SVG source ratios/bounds, inherited units, About caption gaps and horizontal overflow passed",
+    "runtime": "No application errors, warnings, failed HTTP responses or ResizeObserver loop notifications in the successful matrix runs",
+    "interactions": "Section Space loops, content blackout preserving menu, rapid navigation, Back/Forward, startup reset and CSS HMR verified",
+    "orbitRegression": "Certificate keyboard selection/source assets and smooth five-planet movement verified after observer changes",
+    "build": "npm run build passed"
+  },
+  "documentation": {
+    "agents": "D:/Web/AGENTS.md: concise policy for structure, compatibility, assets and engine/viewport QA",
+    "skill": "D:/Web/SKILL.md: project tree, SVG/container failures, native graph fallback, typography spacing, Safari/touch, transitions, orbit/ResizeObserver, asset packing/Git and real project lessons",
+    "validation": "UTF-8, anchors, links, fences and skill-creator quick_validate passed; documents are outside a Git repository"
+  },
+  "limitations": "Windows-hosted browser engines and Retina emulation; no physical Mac test. Core layout still targets browsers supporting container units/queries and small viewport units; this is not a claim of support for every obsolete browser"
+}

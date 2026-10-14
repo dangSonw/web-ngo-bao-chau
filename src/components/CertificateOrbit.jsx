@@ -85,7 +85,10 @@ export default function CertificateOrbit({ items }) {
       if (!panel.current) return;
       width = panel.current.clientWidth;
       height = panel.current.clientHeight;
-      if (reduced) render();
+      if (reduced) {
+        cancelAnimationFrame(frame);
+        frame = requestAnimationFrame(render);
+      }
     });
     observer.observe(panel.current);
     const dismissTouch = event => {
