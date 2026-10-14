@@ -33,7 +33,7 @@
           "y": 542,
           "width": 80,
           "height": 80,
-          "alt": "Theicption Platform",
+          "alt": "THEICPTION",
           "route": "/inquiry/platform"
         },
         {
@@ -190,7 +190,7 @@
       "frameId": "8:341",
       "title": {
         "path": "inquiry/type/research-title.svg",
-        "text": "RESEARCH",
+        "text": "Research",
         "width": 340,
         "height": 58,
         "offsetX": 3.21600341796875,
@@ -262,7 +262,7 @@
       "frameId": "8:359",
       "title": {
         "path": "inquiry/type/platform-title.svg",
-        "text": "Theicption Platform",
+        "text": "THEICPTION",
         "width": 614,
         "height": 58,
         "offsetX": 1.10400390625,
@@ -273,7 +273,7 @@
       },
       "titleX": 194,
       "titleY": 132,
-      "body": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters.\nThat idea became Theicption, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.",
+      "body": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters.\nThat idea became THEICPTION, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.",
       "bodyX": 97,
       "bodyY": 224,
       "bodyWidth": 452,
@@ -289,7 +289,7 @@
           "y": 113,
           "width": 84,
           "height": 84,
-          "alt": "Theicption Platform planet"
+          "alt": "THEICPTION planet"
         },
         {
           "nodeId": "71:7",
@@ -298,7 +298,7 @@
           "y": 132,
           "width": 481,
           "height": 503,
-          "alt": "Theicption Platform publication start screen"
+          "alt": "THEICPTION publication start screen"
         }
       ],
       "links": [],

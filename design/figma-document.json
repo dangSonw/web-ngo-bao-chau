@@ -59483,7 +59483,7 @@
             },
             {
               "id": "8:344",
-              "name": "RESEARCH",
+              "name": "Research",
               "type": "TEXT",
               "visible": true,
               "x": 213,
@@ -59555,7 +59555,7 @@
               "layoutSizingHorizontal": "FIXED",
               "layoutSizingVertical": "FIXED",
               "exportSettings": [],
-              "characters": "RESEARCH",
+              "characters": "Research",
               "fontName": {
                 "family": "Conthrax",
                 "style": "Semi Bold"
@@ -59575,7 +59575,7 @@
               "dashPattern": [],
               "textSegments": [
                 {
-                  "characters": "RESEARCH",
+                  "characters": "Research",
                   "start": 0,
                   "end": 8,
                   "fontSize": 48,
@@ -61676,7 +61676,7 @@
             },
             {
               "id": "8:362",
-              "name": "Theicption Platform",
+              "name": "THEICPTION",
               "type": "TEXT",
               "visible": true,
               "x": 194,
@@ -61748,7 +61748,7 @@
               "layoutSizingHorizontal": "FIXED",
               "layoutSizingVertical": "FIXED",
               "exportSettings": [],
-              "characters": "Theicption Platform",
+              "characters": "THEICPTION",
               "fontName": {
                 "family": "Conthrax",
                 "style": "Semi Bold"
@@ -61768,7 +61768,7 @@
               "dashPattern": [],
               "textSegments": [
                 {
-                  "characters": "Theicption Platform",
+                  "characters": "THEICPTION",
                   "start": 0,
                   "end": 19,
                   "fontSize": 48,
@@ -61802,7 +61802,7 @@
             },
             {
               "id": "8:369",
-              "name": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters. That idea became Theicption, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.",
+              "name": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters. That idea became THEICPTION, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.",
               "type": "TEXT",
               "visible": true,
               "x": 97,
@@ -61874,7 +61874,7 @@
               "layoutSizingHorizontal": "FIXED",
               "layoutSizingVertical": "FIXED",
               "exportSettings": [],
-              "characters": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters.\nThat idea became Theicption, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.\n",
+              "characters": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters.\nThat idea became THEICPTION, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.\n",
               "fontName": {
                 "family": "Abhaya Libre",
                 "style": "Regular"
@@ -61894,7 +61894,7 @@
               "dashPattern": [],
               "textSegments": [
                 {
-                  "characters": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters.\nThat idea became Theicption, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.\n",
+                  "characters": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters.\nThat idea became THEICPTION, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.\n",
                   "start": 0,
                   "end": 772,
                   "fontSize": 16,
@@ -69221,7 +69221,7 @@
         },
         {
           "id": "8:297",
-          "name": "Theicption",
+          "name": "THEICPTION",
           "type": "TEXT",
           "visible": true,
           "x": 4256,
@@ -69313,7 +69313,7 @@
           "layoutSizingHorizontal": "FIXED",
           "layoutSizingVertical": "FIXED",
           "exportSettings": [],
-          "characters": "Theicption",
+          "characters": "THEICPTION",
           "fontName": {
             "family": "Abhaya Libre",
             "style": "Regular"
@@ -69333,7 +69333,7 @@
           "dashPattern": [],
           "textSegments": [
             {
-              "characters": "Theicption",
+              "characters": "THEICPTION",
               "start": 0,
               "end": 10,
               "fontSize": 24,
@@ -69493,7 +69493,7 @@
         },
         {
           "id": "8:296",
-          "name": "RESEARCH",
+          "name": "Research",
           "type": "TEXT",
           "visible": true,
           "x": 4024,
@@ -69565,7 +69565,7 @@
           "layoutSizingHorizontal": "FIXED",
           "layoutSizingVertical": "FIXED",
           "exportSettings": [],
-          "characters": "RESEARCH",
+          "characters": "Research",
           "fontName": {
             "family": "Abhaya Libre",
             "style": "Regular"
@@ -69585,7 +69585,7 @@
           "dashPattern": [],
           "textSegments": [
             {
-              "characters": "RESEARCH",
+              "characters": "Research",
               "start": 0,
               "end": 8,
               "fontSize": 24,

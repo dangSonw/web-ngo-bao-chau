@@ -2,7 +2,7 @@
   "scope": "Visible names below the four planets in the first Inquiry tab",
   "source": "User requested labels; live Figma overview currently has no caption text nodes. Names use existing destination titles, with the page's Abhaya Libre typography.",
   "files": ["src/pages/Inquiry.jsx", "src/pages/Inquiry.css"],
-  "labels": ["WICO", "ICAN", "Research", "Theicption Platform"],
+  "labels": ["WICO", "ICAN", "Research", "THEICPTION"],
   "behavior": "Names always visible and clickable as part of each existing planet link. At widths <=600px, two columns keep captions readable.",
   "checks": {
     "browser": "labels-results.json: 14 viewports from 375 to 3840, 599/601 and 1200/1201 widths, 660/661 heights; no overflow, hidden labels or label overlap",

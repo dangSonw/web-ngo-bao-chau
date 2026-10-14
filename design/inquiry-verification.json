@@ -58,7 +58,7 @@
   "limitations": [
     "Figma Conthrax font is missing in Desktop; headings/menu use cached glyph outlines exported as SVG, temporary clone/vector nodes removed",
     "Research hyperlinks retain exact source URLs and open a new tab; target website availability/content not tested",
-    "Theicption screen renders the source image; no external application URL or gameplay interaction is provided in Figma",
+    "THEICPTION screen renders the source image; no external application URL or gameplay interaction is provided in Figma",
     "Home reset on reload/direct URL remains the explicit workspace requirement"
   ]
 }

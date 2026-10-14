@@ -1985,14 +1985,14 @@
       },
       {
         "id": "8:344",
-        "name": "RESEARCH",
+        "name": "Research",
         "type": "TEXT",
         "x": 213,
         "y": 132,
         "width": 340,
         "height": 58,
         "visible": true,
-        "characters": "RESEARCH",
+        "characters": "Research",
         "fontName": {
           "family": "Conthrax",
           "style": "Semi Bold"
@@ -2662,14 +2662,14 @@
       },
       {
         "id": "8:362",
-        "name": "Theicption Platform",
+        "name": "THEICPTION",
         "type": "TEXT",
         "x": 194,
         "y": 132,
         "width": 614,
         "height": 58,
         "visible": true,
-        "characters": "Theicption Platform",
+        "characters": "THEICPTION",
         "fontName": {
           "family": "Conthrax",
           "style": "Semi Bold"
@@ -2698,14 +2698,14 @@
       },
       {
         "id": "8:369",
-        "name": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters. That idea became Theicption, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.",
+        "name": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters. That idea became THEICPTION, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.",
         "type": "TEXT",
         "x": 97,
         "y": 224,
         "width": 452,
         "height": 310,
         "visible": true,
-        "characters": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters.\nThat idea became Theicption, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.\n",
+        "characters": "Economics often feels distant when it stays inside textbooks: theories, graphs, and numbers without the people and questions behind them. I wanted to create a space where teenagers could approach economics differently—not simply by learning what an idea means, but by asking why it matters.\nThat idea became THEICPTION, a student-led platform exploring economics, finance, and social issues through original writing and discussion. As a co-founder, I shape publication themes, develop and edit articles, and work with contributors to turn broad questions into pieces that feel relevant to young readers. With 10+ articles across our quarterly editions, I have been building not just a publication, but a space where curiosity can move between economics and everyday life.\n",
         "fontName": {
           "family": "Abhaya Libre",
           "style": "Regular"
